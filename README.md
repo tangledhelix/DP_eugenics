@@ -14,7 +14,20 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Project manager notes ###
 
+A few tables. Please keep column alignment characters (`=`). They will be
+replaced in formatting. Alignment dots `. . . .` should be removed. Use
+`[**brace]` for the horizontal curly bracket.
+
+Images from [TIA][1].
+
+Francis Galton at [wikipedia][2].
+
+[1]: https://archive.org/details/b21727922
+[2]: https://en.wikipedia.org/wiki/Francis_Galton
+
 ### Forum notes ###
+
+Nothing of note (last checked 19 Feb 2024).
 
 ### General notes ###
 

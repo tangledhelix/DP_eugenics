@@ -51,8 +51,6 @@ estimation, and is steadily acquiring the status
 of a practical question, and not that of a
 mere vision in Utopia.
 
-<tb>[**or extra space?]
-
 The power by which Eugenic reform
 must chiefly be effected, is that of Popular
 Opinion, which is amply strong enough for
@@ -129,7 +127,7 @@ Eugenics</sc>      100
 */
 -----File: f006.png--------------------------------------------------------
 
-[Illustration: STANDARD SCHEME OF DESCENT
+[Illustration: STANDARD SCHEME OF DESCENT]
 
 /*
 PARENTAL GRADES  <i>u</i>  <i>t</i> <i>s</i>[**P2: lower sigma || P3: lower case s] <i>r</i>[** phi][**P2: lower gamma || P3: lower case r] R S T U
@@ -155,7 +153,7 @@ FILIAL CENTRES
 22 " of U 2 6 8 6
 SUMS  20 66 162 252 252 162 66 20
 */
-]
+[**PP retain text for reference, delete before publication]
 -----File: p001.png--------------------------------------------------------
 
 
@@ -339,7 +337,7 @@ among 10,000 persons in terms of the
 normal-talent. The M in the upper line
 occupies the position of Mediocrity, or that of
 the average of what all have received: the
-+1°, +2°, etc., and the -1°[** long emdash in print, but probably normal minus sign meant], -2°, etc., refer to
++1°, +2°, etc., and the -1°, -2°, etc., refer to
 normal talents. These numerals stand as
 -----File: p006.png--------------------------------------------------------
 graduations at the heads of the vertical lines
@@ -361,7 +359,7 @@ half. As it will be useful henceforth to
 distinguish these classes, I have used the
 <i>capital</i> or large letters R, S, T, U, V, for those
 above mediocrity and corresponding <i>italic</i> or
-smal[**P2: small] letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
+small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
 
@@ -476,7 +474,6 @@ The two columns headed "Nos." give respectively the numbers per thousand in Mr. 
 and in the Normal Classes.
 */
 
-[** besides the table || P3: header, removed]
 -----File: p010.png--------------------------------------------------------
 earnings, many of whom are inevitably poor
 from shiftlessness, idleness or drink. The
@@ -598,7 +595,7 @@ position in the scale of female classification.
 I select this last case to work out as being
 the one with which we shall here be chiefly
 concerned. It has the further merit of
-escaping some tedious prelimary[**sic presume preliminary] details about
+escaping some tedious preliminary details about
 converting female faculties into their corresponding
 male equivalents, before men and
 women can be treated statistically on equal
@@ -966,7 +963,7 @@ risk of retrogression in capacity before old age
 comes on. The mental powers that a youth
 possesses continue with him as a man; but
 other faculties and new dispositions may arise
-and alter the balance of his character[**P1//.] He
+and alter the balance of his character. He
 may cease to be efficient in the way of which
 he gave promise, and he may perhaps become
 efficient in unexpected directions.
@@ -1442,7 +1439,7 @@ A considerable list of qualities can be easily
 compiled that nearly every one except "cranks"
 would take into account when picking out the
 best specimens of his class. It would include
-health, energy, ability,manliness[**missing space?] and courteous
+health, energy, ability, manliness and courteous
 disposition. Recollect that the natural differences
 between dogs are highly marked in all
 these respects, and that men are quite as variable
@@ -1538,7 +1535,7 @@ losing fertility; nay, they may become more
 fertile under artificial conditions, as is the case
 with many domestic animals.
 
-3. Sytematic[**Typo for Systematic? ref. p41, line 15] collection of facts showing
+3. Systematic collection of facts showing
 the circumstances under which large and
 thriving families have most frequently originated;
 in other words, the <i>conditions</i> of
@@ -1606,7 +1603,7 @@ with the view of minimising its terrors:
 
 /#
 "There is no passion in the mind of men so weak
-but it mates and masters the fear of death.--[**?]Revenge
+but it mates and masters the fear of death.\ -\ Revenge
 triumphs over death; love slights it; honour aspireth to
 it; grief flyeth to it; fear pre-occupateth it."
 #/
@@ -1751,7 +1748,7 @@ Jacob's twelve children were born of four
 -----File: p046.png--------------------------------------------------------
 mothers all living at the same time, namely,
 Leah, and her sister Rachel, and their respective
-handmaids Billah[**typo for "Bilhah"] and Zilpah. Long
+handmaids Bilhah and Zilpah. Long
 afterwards, the Jewish kings emulated the
 luxurious habits of neighbouring potentates
 and carried polygamy to an extreme degree.
@@ -1759,7 +1756,7 @@ For Solomon, see I Kings xi. 3. For his
 son Rehoboam, see II Chron. xi. 21. The
 history of the subsequent practice of the custom
 among the Jews is obscure, but the Talmud
-contains no law against polygamy,[** typo?: "."] It must
+contains no law against polygamy. It must
 have ceased in Judæa by the time of the
 Christian Era. It was not then allowed
 in either Greece or Rome. Polygamy
@@ -2002,7 +1999,7 @@ and how the doing of this or that has been
 followed by outlawry or death, and how the
 mere terror of having unwittingly broken a
 taboo, may suffice to kill the man who broke
-it. If non-eugenic[** - or space?] unions were prohibited by
+it. If non-eugenic unions were prohibited by
 such taboos, none would take place.
 
 6. <sc>Prohibited Degrees.</sc> The institution
@@ -2121,7 +2118,7 @@ no less loathing than that of a brother and
 sister would do now.
 
 7. <sc>Celibacy.</sc> The dictates of religion
-n[**P1//in] respect to the opposite duties of leading
+in respect to the opposite duties of leading
 celibate lives, and of continuing families, have
 been contradictory. In many nations it is
 and has been considered a disgrace to bear
@@ -2170,7 +2167,7 @@ human nature towards freedom in marriage.
 <sc>Conclusion.</sc>--Seven different subjects
 have now been touched upon. They are
 monogamy, endogamy, exogamy, Australian
-marriages, taboo, prohibited degrees and celebacy[**P3: celibacy].
+marriages, taboo, prohibited degrees and celibacy.
 It has been shown under each of these
 heads how powerful are the various combinations
 of immaterial motives upon marriage
@@ -2707,9 +2704,9 @@ Arrays of B</i>
 
 <i>Correlations
 between values
-of A and B</i>[**P1//hard to decide how much text to include]
+of A and B</i>
 */
-]
+][**PP retain text for reference, delete before publication]
 -----File: p073.png--------------------------------------------------------
 
 
@@ -3054,7 +3051,7 @@ but how mischievous will it probably
 be? This question is of a familiar kind,
 easily to be answered when a sufficiency of
 facts have been collected. But a second
-question arises, What[**P2: what?] will be the trustworthiness
+question arises. What will be the trustworthiness
 of the forecast derived from averages
 when it is applied to individuals? This is a
 kind of question that is not familiar, and
@@ -3582,7 +3579,7 @@ the beard was a sign of manliness that ought
 not to be suppressed, and so forth, and at
 length the moment arrived. A distinguished
 clergyman, happily still living, 'bearded' his
-Bishop on a critical occasion,[**.?] The Bishop
+Bishop on a critical occasion. The Bishop
 yielded without protest, and forthwith hair
 began to sprout in a thousand pulpits where
 it had never appeared before within the
@@ -3649,7 +3646,7 @@ Levite of the parable said to themselves.
 
 A still more emphatic example is in the
 <i>Digest of Criminal Law</i>, by Justice Sir James
-Stephen, 1887, p. 154. Reg. v. Smith, 2 C[**.?]
+Stephen, 1887, p. 154. Reg. v. Smith, 2 C.
 and P., 449:
 
 /#
@@ -3727,7 +3724,7 @@ suggested by hearing of a desire to further
 eugenics by means of local associations more
 or less affiliated to our own, combined with
 
-[Footnote A: Address to a meeting of the Engenics[**P1//Eugenics] Education Society
+[Footnote A: Address to a meeting of the Eugenics Education Society
 at the Grafton Galleries, on October 14th, 1908.]
 -----File: p101.png--------------------------------------------------------
 much doubt as to the most appropriate

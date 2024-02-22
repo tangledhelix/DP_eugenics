@@ -22,9 +22,6 @@ Images from [TIA][1].
 
 Francis Galton at [wikipedia][2].
 
-[1]: https://archive.org/details/b21727922
-[2]: https://en.wikipedia.org/wiki/Francis_Galton
-
 ### Forum notes ###
 
 Nothing of note (last checked 19 Feb 2024).
@@ -39,6 +36,32 @@ Nothing of note (last checked 19 Feb 2024).
 
 ### Things to revisit ###
 
+The illustrations on f006 and p072 are too complex to render to text. For that
+version, use the main caption. For HTML/Epub, use the image and the main
+caption.
+
+There are fairly complex tables on a few pages.
+
+- [ ] f006: HTML/Epub: use illo. Txt? Asked in forum for PM advice.
+- [ ] p005
+- [ ] p009
+- [ ] p014
+- [ ] p019
+- [ ] p072: HTML/Epub: use illo. Txt? This seems too complex to attempt?
+
+Some tables use upward-opening braces, will need to determine how to render.
+(p005, p014)
+
+Some numbers appear separated by a character similar to a mid-dot. There are
+proofer notes on p092 about this. I [posted in the forum][3] about it and one
+response suggested to use normal period (`.`) unless the entire book used this
+mid-dot as a decimal point. Looking further I located more, on p019. Nowhere
+in the text does a "normal" period appear in a number, so far as I see.
+
+**As printed** the dots on the page are not even mid-dots, they are positioned
+at the top edge of the numbers. Will need to review all the dots in Unicode
+to see if this character exists; I'm not familiar with it.
+
 ### Proofer's notes ###
 
 ### Joined hyphenated words ###
@@ -48,3 +71,8 @@ Nothing of note (last checked 19 Feb 2024).
 ### Transcriber's notes ###
 
 ### Smooth Reading ###
+
+
+[1]: https://archive.org/details/b21727922
+[2]: https://en.wikipedia.org/wiki/Francis_Galton
+[3]: https://www.pgdp.net/phpBB3/viewtopic.php?p=1334069#p1334069

@@ -3424,7 +3424,7 @@ Lastly, the trustworthiness of the Index of
 Correlation, when applied to individual cases,
 is readily calculable. When the closeness of
 correlation is absolute, it is expressed by the
-number 1-0;[**typo? "1·0" is single "number" and not ratio, should be middle dot decimal like other] and by 0·0[**typo?: "0-0"], when the correlation
+number 1·0; and by 0·0, when the correlation
 is nil.
 
 (New words and ideas--Correlation and

@@ -73,6 +73,10 @@ First two are diacritical marks. The third seems to relate to aboriginal languag
 
 ### Joined hyphenated words ###
 
+- `semi-*criminals`: appears hyphenated elsewhere in book
+- `inter-*marriage`: appears unhyphenated elsewhere in book
+- `black-*board`: appears unhyphenated elsewhere in book
+
 ### Spellcheck ###
 
 ### Transcriber's notes ###

@@ -438,7 +438,7 @@ On the contrary, their frontiers blend, and
 this justifies me in taking slight liberties with
 his figures. His class A consists of criminals,
 semi-criminals, loafers and some others, who
-are in number at the rate of 1 per cent, in all
+are in number at the rate of 1 per cent. in all
 London--that is 100 per 10,000, or nearly
 three times as many as the <i>v</i> class: they
 therefore include the whole of <i>v</i> and spread
@@ -632,7 +632,7 @@ the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
 Names of classes                                          | <i>v</i>   <i>u</i>   |  <i>t</i>  |  <i>s</i>   |   <i>r</i>  |   R  |   S  |  T  |  U   V  |   Totals
 --------------------------------------------------------------------------------------------------------------------------------
                                                           |         |     |      |      |      |      |     |         | Sons (or
-                                                          |         |     |      |      |      |      |     |         |<i>daughters)</i>
+                                                          |         |     |      |      |      |      |     |         |<i>daughters</i>)
 Sons }  { Fathers }
 <i>Daughters</i> } of   35  { <i>Mothers</i> } of class V |         |     |      |      |  1   |  6   | 12  | 10   6  |     35
 "  180  "  "  U                                           |         |     |      |   4  |  20  |  52  | 61  | 33  10  |    180
@@ -2966,7 +2966,7 @@ were published in the Memoirs of that Society
 with comments thereon by more than
 twenty different authorities (<i>Sociological
 Papers</i>, published for the Sociological Society
-(Macmillan), vols. i and ii. These are republished
+(Macmillan), vols. i and ii. These are re-published
 here). The subject of Eugenics
 being thus formally launched, and the time
 -----File: p080.png--------------------------------------------------------

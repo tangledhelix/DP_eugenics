@@ -1831,7 +1831,7 @@ brother's house. And his name shall be called
 in Israel the house of him that hath his shoe
 loosed." The form of this custom survives to
 the present day and is fully described and
-illustrated under the article "Halizah" (= taking
+illustrated under the article "Halizah" (=[**?] taking
 off, untying) in the <i>Jewish Cyclopædia</i>.
 Jewish widows are now almost invariably remarried
 with this ceremony. They are as we
@@ -3398,7 +3398,7 @@ correlated values <i>A</i> and <i>B</i> have to be expressed
 in units of their respective variabilities. They
 are then sorted into the squares of the paper,--vertically
 according to the magnitudes of <i>A</i>,
-horizontally according to those of <i>B</i>--,and the
+horizontally according to those of <i>B</i>--, and the
 Mean of each partial array of <i>B</i> values,
 corresponding to each grade of <i>A</i>, has to be
 determined. It is found theoretically that
@@ -3460,7 +3460,7 @@ by Certainties and by Probabilities than by
 Assurance to a greater or lesser degree. The
 word Assurance is derived from <i>sure</i>, which
 itself is an abbreviation of <i>secure</i>, that is of
-<i>se- cura</i>, or without misgiving. It is a contented
+<i>se- cura</i>[**posted in forum], or without misgiving. It is a contented
 attitude of mind largely dependent on
 custom, prejudice, or other unreasonable influences
 which reformers have to overcome,

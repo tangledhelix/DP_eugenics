@@ -320,7 +320,7 @@ per <i>hundred.)</i>
 /*
 ---------------------------------------------------------
                          M
-       |-4°|-3°| -2°| -1°| +1°| +2°|+3°|+4°|      |
+       |–4°|–3°| –2°| –1°| +1°| +2°|+3°|+4°|      |
 -------+---+---+----+----+----+----+---+---+------+
 <i>v</i> and|<i>u</i>|<i>t</i>|<i>s</i> |<i>r</i> |R   |S   |T  |U  |V and |Total
   below|   |   |    |    |    |    |   |   |above.|
@@ -337,7 +337,7 @@ among 10,000 persons in terms of the
 normal-talent. The M in the upper line
 occupies the position of Mediocrity, or that of
 the average of what all have received: the
-+1°, +2°, etc., and the -1°, -2°, etc., refer to
++1°, +2°, etc., and the –1°, –2°, etc., refer to
 normal talents. These numerals stand as
 -----File: p006.png--------------------------------------------------------
 graduations at the heads of the vertical lines
@@ -380,9 +380,9 @@ height of the adult males, to whom my figures
 refer, was nearly 5 feet 8 inches, and the value
 of their "normal-talent" (which is a measure
 of the spread of distribution) was very nearly
-1-3/4 inches. From these data it is easily
+1–3/4 inches. From these data it is easily
 reckoned that Class U would contain men
-whose heights exceed 6 feet 1-1/4 inches. Even
+whose heights exceed 6 feet 1–1/4 inches. Even
 they are tall enough to overlook a hatless
 mob, while the higher classes, such as V, W
 and X, tower above it in an increasingly
@@ -767,7 +767,7 @@ of V-class parentages is to that of the R-class
 in an inverse ratio, or as 143 to 1. Similarly,
 the richness in produce of V-class children
 from parentages of the classes U, T, S, respectively,
-is as 3, 11-1/2, and 55, to 1. Moreover,
+is as 3, 11–1/2, and 55, to 1. Moreover,
 nearly one-half of the produce of V-class
 parentages are V or U taken together, and
 nearly three-quarters of them are either V, U
@@ -1225,7 +1225,7 @@ must have struck every reader of biographies.
 This relationship of befriender and befriended
 
 [Footnote A: The 80 charitable bequests of and exceeding £9000,
-made in 1808 alone, amounted to more than 3-1/2 millions of
+made in 1808 alone, amounted to more than 3–1/2 millions of
 pounds. (Whitaker's Almanack to 1909, p. 433).
 
 /#

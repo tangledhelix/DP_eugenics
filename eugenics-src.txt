@@ -156,8 +156,8 @@ years, and to which a large part of my
 published inquiries have borne a direct though
 silent reference. Indeed, the remarks I am
 about to make would serve as an additional
-chapter to my books on "Hereditary Genius"
-and on "Natural Inheritance." My subject
+chapter to my books on “Hereditary Genius”
+and on “Natural Inheritance.” My subject
 will be the possible improvement of the human
 race under the existing conditions of law and
 sentiment. It has not hitherto been approached
@@ -232,7 +232,7 @@ holds true with approximate precision for
 variables of totally different sorts, as, for
 instance, stature of man, errors made by
 astronomers in judging minute intervals of
-time, bullet marks around the bull's-eye in
+time, bullet marks around the bull’s-eye in
 target practice, and differences of marks
 gained by candidates at competitive examinations.
 -----File: p004.png--------------------------------------------------------
@@ -273,7 +273,7 @@ the inner sense of the beautiful parable. I
 -----File: p005.png--------------------------------------------------------
 will, therefore, venture to adapt the phraseology
 of the allegory to my present purpose by
-substituting for "talent" the words "normal-talent."
+substituting for “talent” the words “normal-talent.”
 The value of this normal talent in
 respect to each and any specified quality or
 faculty is such that one-quarter of the people
@@ -281,9 +281,9 @@ receive for their respective shares more than
 one normal-talent <i>over and above</i> the average
 of all the shares. Our normal-talent is therefore
 identical with what is technically known
-as the "probable error." Therefrom the
+as the “probable error.” Therefrom the
 whole of the following table starts into life,
-evolved from that of the "<i>probability integral</i>."
+evolved from that of the “<i>probability integral</i>.”
 
 /#
 <sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
@@ -345,14 +345,14 @@ It will assist in comprehending the values
 of different grades of civic worth to compare
 them with the corresponding grades of adult
 male stature in our nation. I will take the
-figures from my "Natural Inheritance," premising
+figures from my “Natural Inheritance,” premising
 that the distribution of stature in
 various peoples has been well investigated and
 shown to be closely normal. The average
 -----File: p007.png--------------------------------------------------------
 height of the adult males, to whom my figures
 refer, was nearly 5 feet 8 inches, and the value
-of their "normal-talent" (which is a measure
+of their “normal-talent” (which is a measure
 of the spread of distribution) was very nearly
 1–3/4 inches. From these data it is easily
 reckoned that Class U would contain men
@@ -420,12 +420,12 @@ upwards into the <i>u</i>. His class B consists of
 very poor persons who subsist on casual
 -----File: p009.png--------------------------------------------------------
 
-<sc>Table II.</sc>—<i>Comparison of Mr. Booth's Classification of All London
+<sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London
 with the Normal Classes.</i>
 
 /*
 -----+-----------------------------------------------+---------+-----------+---------+------+----------------
-Nos. |  Mr. Booth's classes.                         | Approx. | Resorted. | Approx. | Nos. | Normal classes.
+Nos. |  Mr. Booth’s classes.                         | Approx. | Resorted. | Approx. | Nos. | Normal classes.
 -----+-----------------------------------------------+---------+-----------+---------+------+----------------
   97 |  H. All above G                               |   100   |    100    |   100   |   89 | T and above
 -----+-----------------------------------------------+---------+-----------+---------+------+----------------
@@ -444,7 +444,7 @@ Nos. |  Mr. Booth's classes.                         | Approx. | Resorted. | App
 -----+-----------------------------------------------+---------+-----------+---------+------+----------------
 1000                                                    1000                  1000     1000
 
-The two columns headed "Nos." give respectively the numbers per thousand in Mr. Booth's
+The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s
 and in the Normal Classes.
 */
 
@@ -511,7 +511,7 @@ an average baby born to the wife of an Essex
 labourer and thenceforward living during the
 usual time and in the ordinary way of his
 class. Dr. Farr, with accomplished actuarial
-skill, capitalised the value at the child's birth
+skill, capitalised the value at the child’s birth
 of two classes of events, the one the cost of
 maintenance while a child and when helpless
 through old age, the other its earnings as boy
@@ -520,7 +520,7 @@ account the value of the baby was found to be
 five pounds. On a similar principle, the
 -----File: p012.png--------------------------------------------------------
 worth of an X-class baby would be reckoned
-in thousands of pounds. Some such "talented"
+in thousands of pounds. Some such “talented”
 folk fail, but most succeed, and many succeed
 greatly. They found great industries, establish
 vast undertakings, increase the wealth of
@@ -552,7 +552,7 @@ example, of the V class in the offspring come
 respectively from the V, U, T, S and other
 classes of parentage? The means of calculating
 this question for a normal population
-are given fully in my "Natural Inheritance."
+are given fully in my “Natural Inheritance.”
 -----File: p013.png--------------------------------------------------------
 There are three main senses in which the
 word parentage might be used. They differ
@@ -588,7 +588,7 @@ produces one couplet of grown-up filials, an
 adult man and an adult woman.
 
 The result is shown to the nearest whole
-per thousand in the table up to "V and above,"
+per thousand in the table up to “V and above,”
 -----File: p014.png--------------------------------------------------------
 
 <sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between
@@ -641,7 +641,7 @@ are familiar with them will easily understand
 the exact process from what follows. There
 are three points of reference in a scheme of
 descent which may be respectively named
-"mid-parental," "genetic" and "filial"
+“mid-parental,” “genetic” and “filial”
 centres. In the present case of both parents
 being alike, the position of the mid-parental
 centre is identical with that of either parent
@@ -649,7 +649,7 @@ separately. The position of the filial centre
 is that from which the children disperse. The
 genetic centre occupies the same position in
 the parental series that the filial centre does
-in the filial series. "Natural Inheritance"
+in the filial series. “Natural Inheritance”
 contains abundant proof, both observational
 and theoretical, that the genetic centre is not
 and cannot be identical with the parental centre,
@@ -681,7 +681,7 @@ classes; therefore the positions attained by
 the converging lines that proceed from them
 at the points where they are stopped, represent
 the genetic centres. From these the filials
-disperse to the right and left with a "spread"
+disperse to the right and left with a “spread”
 that can be shown to be three-quarters that
 of the parentages. Calculation easily determines
 the number of the filials that fall into
@@ -803,7 +803,7 @@ step of the social scale, as will be painfully
 evident from the following extracts from the
 work of Mr. C. Booth (i. 38), which refer to
 his Class A, who form, as has been said, the
-lowermost third of our "<i>v</i> and below." "Their
+lowermost third of our “<i>v</i> and below.” “Their
 life is the life of savages, with vicissitudes of
 extreme hardship and occasional excess.
 From them come the battered figures who
@@ -825,12 +825,12 @@ to the rest of the population, or even
 to class B, with which they are mixed up and
 from which it is at times difficult to separate
 them.... They are barbarians, but they
-are a handful...." He says further, "It
+are a handful....” He says further, “It
 is much to be desired and to be hoped that
 this class may become less hereditary in its
 character; there appears to be no doubt that
 it is now hereditary to a very considerable
-extent."
+extent.”
 
 Many who are familiar with the habits of
 these people do not hesitate to say that it
@@ -844,7 +844,7 @@ generation, and would cause no unwarrantable
 hardship in this.
 
 <i>Diplomas.</i>—It will be remembered that
-Mr. Booth's classification did not help us
+Mr. Booth’s classification did not help us
 beyond classes higher than S in civic worth.
 If a strong and widely felt desire should arise
 -----File: p021.png--------------------------------------------------------
@@ -1034,8 +1034,8 @@ College for Women to a visitor who inquired
 as to the after life of the students. She
 answered that one-third profited by it,
 another third gained little good, and a third
-were failures. "But what become of the
-failures?" "Oh, they marry."
+were failures. “But what become of the
+failures?” “Oh, they marry.”
 
 There appears to be a considerable
 difference between the earliest age at which
@@ -1132,7 +1132,7 @@ that a great aunt of hers had scandalised her
 own domestic circle two generations ago by
 falling in love with the undertaker at her
 -----File: p029.png--------------------------------------------------------
-father's funeral and insisting on marrying him.
+father’s funeral and insisting on marrying him.
 Strange vagaries occur, but considerations of
 social position and of fortune, with frequent
 opportunities of intercourse, tell much more
@@ -1181,7 +1181,7 @@ Burdett asserts on good grounds is by no
 means the maximum obtainable.[A]
 
 /*
-("Hospitals and Charities," 1898, p. 85.)
+(“Hospitals and Charities,” 1898, p. 85.)
 */
 
 There are other activities long since
@@ -1200,35 +1200,35 @@ This relationship of befriender and befriended
 
 [Footnote A: The 80 charitable bequests of and exceeding £9000,
 made in 1808 alone, amounted to more than 3–1/2 millions of
-pounds. (Whitaker's Almanack to 1909, p. 433).
+pounds. (Whitaker’s Almanack to 1909, p. 433).
 
 /#
-"It being far more humane to <i>prevent</i> suffering than to
+“It being far more humane to <i>prevent</i> suffering than to
 <i>alleviate</i> it after it has occurred, why will not charitably disposed
 persons leave substantial sums of money to the furtherance of
 Eugenic Study and practice, and of popularising the result? The
-money would be well bestowed." <i>Francis Galton, 1909.</i>
+money would be well bestowed.” <i>Francis Galton, 1909.</i>
 #/
 
 I learn on high legal authority that the form of bequest
 which would be most appropriate in present circumstances, and be
 free from the pit-falls that lie in the way of charitable bequests,
-is "I bequeath to my trusted friend A.B., of ....., absolutely,
+is “I bequeath to my trusted friend A.B., of ....., absolutely,
 the sum of £...... in the hope and confidence that he will apply
 the same in furtherance of Eugenic Study and practice, but without
-imposing on him any trust or legal obligation so to do." F.G.]
+imposing on him any trust or legal obligation so to do.” F.G.]
 -----File: p031.png--------------------------------------------------------
 is hardly to be expressed in English by a
 simple word that does not connote more than
-is intended. The word "patron" is odious.
-Recollecting Dr. Johnson's abhorrence of the
+is intended. The word “patron” is odious.
+Recollecting Dr. Johnson’s abhorrence of the
 patrons of his day, I turned to an early
 edition of his dictionary in hope of deriving
 some amusement as well as instruction from
 his definition of the word, and I was not disappointed.
-He defines "patron" as "a
+He defines “patron” as “a
 wretch who supports with insolence and is
-repaid with flattery." That is totally opposed
+repaid with flattery.” That is totally opposed
 to what I would advocate, namely, a kindly
 and honourable relation between a wealthy
 man who has made his position in the world
@@ -1411,7 +1411,7 @@ specimens; that done, to leave them to work
 out their common civilisation in their own way.
 
 A considerable list of qualities can be easily
-compiled that nearly every one except "cranks"
+compiled that nearly every one except “cranks”
 would take into account when picking out the
 best specimens of his class. It would include
 health, energy, ability, manliness and courteous
@@ -1444,8 +1444,8 @@ and political life would be higher. The race
 as a whole would be less foolish, less frivolous,
 -----File: p038.png--------------------------------------------------------
 less excitable and politically more provident
-than now. Its demagogues who "played to
-the gallery" would play to a more sensible
+than now. Its demagogues who “played to
+the gallery” would play to a more sensible
 gallery than at present. We should be better
 fitted to fulfil our vast imperial opportunities.
 Lastly, men of an order of ability which is
@@ -1526,7 +1526,7 @@ such as will pass muster for the moment at
 least is one in which the children have gained
 distinctly superior positions to those who were
 their class-mates in early life. Families may
-be considered "large" that contain not less
+be considered “large” that contain not less
 than three adult male children. It would be
 no great burden to a Society including many
 members who had Eugenics at heart, to initiate
@@ -1554,10 +1554,10 @@ their race, profession, and residence; also of
 their own respective parentages, and of their
 brothers and sisters. Finally, the reasons
 would be required why the children deserved
-to be entitled a "thriving" family, to distinguish
+to be entitled a “thriving” family, to distinguish
 worthy from unworthy success.
 This manuscript collection might hereafter
-develop into a "golden book" of thriving
+develop into a “golden book” of thriving
 families. The Chinese, whose customs have
 often much sound sense, make their honours
 retrospective. We might learn from them to
@@ -1577,10 +1577,10 @@ may appropriately be quoted here. He says
 with the view of minimising its terrors:
 
 /#
-"There is no passion in the mind of men so weak
+“There is no passion in the mind of men so weak
 but it mates and masters the fear of death.\ -\ Revenge
 triumphs over death; love slights it; honour aspireth to
-it; grief flyeth to it; fear pre-occupateth it."
+it; grief flyeth to it; fear pre-occupateth it.”
 #/
 
 Exactly the same kind of considerations
@@ -1690,10 +1690,10 @@ had that seemed necessary. Those who desire
 to investigate the subject further can
 easily do so by referring to standard works
 in anthropology, among the most useful of
-which, for the present purpose, are Frazer's
-<i>Golden Bough</i>, Westermarck's <i>History of
-Marriage</i>, Huth's <i>Marriage of Near Kin</i>, and
-Crawley's <i>Mystic Rose</i>.
+which, for the present purpose, are Frazer’s
+<i>Golden Bough</i>, Westermarck’s <i>History of
+Marriage</i>, Huth’s <i>Marriage of Near Kin</i>, and
+Crawley’s <i>Mystic Rose</i>.
 
 1. <sc>Monogamy.</sc> It is impossible to label
 mankind by one general term, either as
@@ -1719,7 +1719,7 @@ forms, and it is entirely in accord with the
 sentiments both of men and women in the
 larger part of negro Africa. It was regarded
 as a matter of course in the early Biblical days.
-Jacob's twelve children were born of four
+Jacob’s twelve children were born of four
 -----File: p046.png--------------------------------------------------------
 mothers all living at the same time, namely,
 Leah, and her sister Rachel, and their respective
@@ -1769,7 +1769,7 @@ be hereafter enacted for Eugenic and other
 purposes.
 
 2. <sc>Endogamy</sc>, or the custom of marrying
-exclusively <i>within</i> one's own tribe or caste,
+exclusively <i>within</i> one’s own tribe or caste,
 has been sanctioned by religion and enforced
 by law, in all parts of the world, but chiefly
 in long settled nations where there is wealth
@@ -1796,20 +1796,20 @@ individual preferences. The Mosaic law
 actually <i>compelled</i> a man to marry the widow
 of his brother if he left no male issue.
 (Deuteron. xxv.) Should the brother refuse,
-"then shall his brother's wife come unto him
+“then shall his brother’s wife come unto him
 in the presence of the elders, and loose his
 shoe from off his foot, and spit in his face;
 and she shall answer and say, so shall it be
 done unto the man that doth not build up his
-brother's house. And his name shall be called
+brother’s house. And his name shall be called
 in Israel the house of him that hath his shoe
-loosed." The form of this custom survives to
+loosed.” The form of this custom survives to
 the present day and is fully described and
-illustrated under the article "Halizah" (=[**?] taking
+illustrated under the article “Halizah” (=[**?] taking
 off, untying) in the <i>Jewish Cyclopædia</i>.
 Jewish widows are now almost invariably remarried
 with this ceremony. They are as we
-might describe it, "given away" by a kinsman
+might describe it, “given away” by a kinsman
 of the deceased husband, who puts on a shoe of
 an orthodox shape which is kept for the purpose,
 the widow unties the shoe, spits, but now on
@@ -1817,23 +1817,23 @@ the <i>ground</i>, and repeats the specified words.
 
 The duties attached to family property
 led to the history, which is very strange to the
-ideas of the present day, of Ruth's advances
+ideas of the present day, of Ruth’s advances
 to Boaz under the advice of her mother.
-"It came to pass at midnight" that Boaz
-"was startled (see marginal note in the Revised
+“It came to pass at midnight” that Boaz
+“was startled (see marginal note in the Revised
 Version) and turned himself, and behold
-a woman lay at his feet," who had come
-in "softly and uncovered his feet and laid her
-down." He told her to lie still until the early
+a woman lay at his feet,” who had come
+in “softly and uncovered his feet and laid her
+down.” He told her to lie still until the early
 morning and then to go away. She returned
 -----File: p049.png--------------------------------------------------------
-home and told her mother, who said, "Sit
+home and told her mother, who said, “Sit
 still, my daughter, until thou know how the
 matter will fall, for the man will not rest until
-he have finished the thing this day." She
+he have finished the thing this day.” She
 was right. Boaz took legal steps to disembarrass
 himself of the claims of a still nearer
-kinsman, "who drew off his shoe"; so Boaz
+kinsman, “who drew off his shoe”; so Boaz
 married Ruth. Nothing could be purer from
 the point of view of those days, than the history
 of Ruth. The feelings of the modern social
@@ -1859,13 +1859,13 @@ law ever was.
 3. <sc>Exogamy</sc> is, or has been, as widely
 spread as the opposed rule of endogamy just
 described. It is the duty enforced by custom,
-religion, and law, of marrying <i>outside</i> one's
+religion, and law, of marrying <i>outside</i> one’s
 own clan, and is usually in force amongst
 small and barbarous communities. Its
 -----File: p050.png--------------------------------------------------------
 former distribution is attested by the survival
 in nearly all countries, of ceremonies based
-on "marriage by capture." The remarkable
+on “marriage by capture.” The remarkable
 monograph on this subject by the late Mr.
 McLennan is of peculiar interest. It was
 one of the earliest, and perhaps the most
@@ -1887,7 +1887,7 @@ Romans in the old story, could only supply
 themselves by capturing those of neighbouring
 tribes. The custom of capture grows;
 it becomes glorified because each wife is a
-living trophy of the captor's heroism, and
+living trophy of the captor’s heroism, and
 marriage within the tribe soon comes to be
 considered an unmanly, and at last a shameful
 act. The modern instances of this among
@@ -1919,7 +1919,7 @@ A1, A2, and B1 being absolutely
 barred to him. As to the children, there is a
 difference of practice in different parts: in
 the cases most often described, the child takes
-its father's letter and its mother's numeral,
+its father’s letter and its mother’s numeral,
 which determines class by paternal descent.
 In other cases the arrangement runs in the
 contrary way, that is by maternal descent.
@@ -1942,7 +1942,7 @@ timidity, their keen sensitiveness to warnings
 of danger by their parents and others, and to
 their tenacious recollection of them. It is so
 with human children, who are easily terrified
-by nurses' tales and thereby receive more or
+by nurses’ tales and thereby receive more or
 less durable impressions.
 
 A vast complex of motives can be brought
@@ -1956,7 +1956,7 @@ name, in which religion, superstition,
 custom, tradition, law, and
 authority all have part. This group of
 motives will for the present purpose be
-entitled "immaterial" in contrast to material
+entitled “immaterial” in contrast to material
 ones. My contention is that the experience
 of all ages and all nations shows that the
 immaterial motives are frequently far stronger
@@ -2043,11 +2043,11 @@ Next as to facts. History shows that
 the horror now felt so strongly did not
 -----File: p055.png--------------------------------------------------------
 exist in early times. Abraham married his
-half-sister Sarah, "she is indeed the sister, the
+half-sister Sarah, “she is indeed the sister, the
 daughter of my father, but not the daughter
-of my mother, and she became my wife."
+of my mother, and she became my wife.”
 (Gen. <sc>xx</sc>. 12). Amram, the father of Moses
-and Aaron, married his aunt, his father's
+and Aaron, married his aunt, his father’s
 sister Jochabed. The Egyptians were accustomed
 to marry sisters. It is unnecessary to
 go earlier back in Egyptian history than to
@@ -2168,8 +2168,8 @@ them, at the time when they prevailed.
 Reference has frequently been made to
 the probability of Eugenics hereafter receiving
 the sanction of religion. It may be asked,
-"how can it be shown that Eugenics fall
-within the purview of our own." It cannot,
+“how can it be shown that Eugenics fall
+within the purview of our own.” It cannot,
 any more than the duty of making provision
 for the future needs of oneself and
 family, which is a cardinal feature of
@@ -2207,11 +2207,11 @@ It was stated in the <i>Times</i>, January, 26,
 University of London, Mr. Edgar Schuster,
 M.A., of New College, Oxford, was appointed
 to the Francis Galton Research Fellowship
-in National Eugenics. "Mr. Schuster will in
+in National Eugenics. “Mr. Schuster will in
 particular carry out investigations into the
 history of classes and families, and deliver
 lectures and publish memoirs on the subjects of
-his investigations."
+his investigations.”
 
 Now that this appointment has been
 made, it seems well to publish a suitable
@@ -2237,16 +2237,16 @@ I. Estimation of the average quality of[**F2:following RN-numbered headings set 
 the offspring of married couples, from
 their personal and ancestral data. This includes
 questions of fertility, and the determination
-of the "probable error" of the
+of the “probable error” of the
 estimate for individuals, according to the data
 employed.
 
 /#
-(<i>a</i>) "Biographical Index to Gifted Families,"
+(<i>a</i>) “Biographical Index to Gifted Families,”
 modern and recent, for publication. It might be drawn
-up on the same principle as my "Index to Achievements
+up on the same principle as my “Index to Achievements
 of Near Kinsfolk of some of the Fellows of the
-Royal Society" (see "Sociological Papers," Vol. I., p.
+Royal Society” (see “Sociological Papers,” Vol. I., p.
 85). The Index refers only to facts creditable to the
 family, and to such of these as have already appeared in
 publications, which are quoted as authority for the
@@ -2255,7 +2255,7 @@ collected concerning these families are to be preserved
 for statistical use only.
 
 (<i>b</i>) Biographies of capable families, who do not
-rank as "gifted," are to be collected, and kept in MS.,
+rank as “gifted,” are to be collected, and kept in MS.,
 for statistical use, but with option of publication.
 
 (<i>c</i>) Biographies of families, who, as a whole, are
@@ -2272,7 +2272,7 @@ planned beforehand.
 
 (<i>e</i>) Insurance Office data. An attempt to be made
 to carry out the suggestions of Mr. Palin Egerton,
-"Sociological Papers," Vol. I., p. 62, of obtaining
+“Sociological Papers,” Vol. I., p. 62, of obtaining
 material that the authorities would not object to give,
 and whose discussion might be advantageous to themselves
 as well as to Eugenics. The matter is now under
@@ -2323,8 +2323,8 @@ which social influences have restrained or furthered
 freedom of marriage. A judicious selection of these
 would be useful, and might be undertaken as time admits.
 I have myself just communicated to the Sociological
-Society a memoir entitled "Restrictions in
-Marriage," in which remarkable instances are given of
+Society a memoir entitled “Restrictions in
+Marriage,” in which remarkable instances are given of
 the dominant power of religion, law and custom. This
 will suggest the sort of work now in view, where less
 powerful influences have produced statistical effects of
@@ -2413,7 +2413,7 @@ present embryonic condition of Eugenic study
 would be timely, and might prove very helpful
 to students.
 
-<sc>Mr. Galton's Reply
+<sc>Mr. Galton’s Reply
 to remarks made during the discussion
 that followed.</sc>
 
@@ -2450,8 +2450,8 @@ which my memoir was written to justify,
 that history tells how restrictions in marriage,
 even of an excessive kind, have been contentedly
 accepted very widely, under the
-guidance of what I called "immaterial
-motives." This is all I had in view when
+guidance of what I called “immaterial
+motives.” This is all I had in view when
 writing it.
 
 /#
@@ -2465,16 +2465,16 @@ fully agree that it is too early to devise a satisfactory
 -----File: p066.png--------------------------------------------------------
 /#
 system of marks for giving what might be styled
-"honour-certificates," because we do not yet possess
+“honour-certificates,” because we do not yet possess
 sufficient data to go upon. On the other hand there are
 persons who are exceptionally and unquestionably unfit
 to contribute offspring to the nation, such as those
-mentioned in Dr. Mott's bold proposals. The best
+mentioned in Dr. Mott’s bold proposals. The best
 methods of dealing with these are now ripe for immediate
 consideration.
 
 <i>Breeding for points.</i>—It is objected by many that there
-cannot be unanimity on the "points" that it is most
+cannot be unanimity on the “points” that it is most
 desirable to breed for. I fully discussed this objection
 in my memoir read here last spring, showing that some
 qualities such as health and vigour were thought by all
@@ -2502,7 +2502,7 @@ pure chance.
 <i>The residue.</i>—It is also objected that if the inferior
 moiety of a race are left to intermarry, their produce
 will be increasingly inferior. This is certainly an error.
-The law of "regression towards mediocrity" insures
+The law of “regression towards mediocrity” insures
 that their offspring as a whole, will be superior to themselves,
 and if as I sincerely hope, a freer action will be
 hereafter allowed to selective agencies than hitherto, the
@@ -2527,7 +2527,7 @@ the difference. If a girl is taught to look upon a class of
 men as tabooed, whether owing to rank, creed, connections,
 or other causes, she does not regard them as
 possible husbands and turns her thoughts elsewhere.
-The proverbial "Mrs. Grundy" has enormous influence
+The proverbial “Mrs. Grundy” has enormous influence
 in checking the marriages she considers indiscreet.
 
 <i>Eugenics as a factor in religion.</i>—Remarks have been
@@ -2655,7 +2655,7 @@ OF EUGENICS.[A]
 The request so honourable to myself, to
 be the Herbert Spencer lecturer of this
 year, aroused a multitude of vivid recollections.
-Spencer's strong personality, his
+Spencer’s strong personality, his
 complete devotion to a self-imposed and
 life-long task, together with rare gleams of
 tenderness visible amidst a wilderness of
@@ -2698,7 +2698,7 @@ is an invaluable help to all who investigate.
 <sc>History of Eugenics.</sc>
 
 It must have surprised you as it did myself
-to find the new word 'Eugenics' in the
+to find the new word 'Eugenics’ in the
 title both of the Boyle Lecture, delivered in
 Oxford about a fortnight ago, and of this. It
 was an accident, not a deliberate concurrence,
@@ -2726,7 +2726,7 @@ and became a brisk fire, burning freely by itself,
 and again because I have had much to
 do with its progress quite recently.
 
-The word 'Eugenics' was coined and used
+The word 'Eugenics’ was coined and used
 by me in my book <i>Human Faculty</i>, published
 as long ago as 1883, which has long been out
 of print; it is, however, soon to be re-published
@@ -2740,8 +2740,8 @@ detachments from an infinite ocean of being,
 temporarily endowed with executive powers.
 This is the only answer I can give to myself
 in reply to the perpetually recurring questions
-of 'Why? whence? and whither?' The immediate
-'whither?' does not seem wholly dark,
+of 'Why? whence? and whither?’ The immediate
+'whither?’ does not seem wholly dark,
 as some little information may be gleaned
 concerning the direction in which Nature, so
 far as we know of it, is now moving—Namely,
@@ -2752,7 +2752,7 @@ I have often wondered that the poem of
 Hyperion, by Keats—that magnificent torso
 of an incompleted work—has not been placed
 
-[Footnote A: Dent's "Everyman's Library," price One Shilling.]
+[Footnote A: Dent’s “Everyman’s Library,” price One Shilling.]
 -----File: p076.png--------------------------------------------------------
 in the very forefront of past speculations on
 evolution. Keats is so thorough that he
@@ -2767,12 +2767,12 @@ occurs at each successive stage in the quality
 of the Divinities. When Hyperion, newly
 terrified by signs of impending overthrow, lies
 prostrate on the earth 'his ancient mother, for
-some comfort yet,' the voice of Coelus from
+some comfort yet,’ the voice of Coelus from
 the universal space, thus 'whispered low and
 solemn in his ear ... yet do thou strive, for
 thou art capable ... my life is but the life
 of winds and tides, no more than winds and
-tides can I prevail, but thou canst.' I have
+tides can I prevail, but thou canst.’ I have
 quoted only disjointed fragments of this
 wonderful poem, enough to serve as a
 reminder to those who know it, but will add
@@ -2795,7 +2795,7 @@ In glory that old Darkness.
 -----File: p077.png--------------------------------------------------------
 
 He ends with 'this is the truth, and let it
-be your balm.' The poem is a noble conception,
+be your balm.’ The poem is a noble conception,
 founded on the crude cosmogony of the
 ancient Greeks.
 
@@ -2839,7 +2839,7 @@ I occupied myself with collateral problems,
 more especially with that of dealing
 measurably with faculties that are variously
 distributed in a large population. The results
-were published in my 'Natural Inheritance'
+were published in my 'Natural Inheritance’
 in 1889, and I shall have occasion to utilize
 some of them later on, in this very lecture.
 The publication of that book proved to be
@@ -2861,7 +2861,7 @@ Being myself appointed Huxley Lecturer
 before the Anthropological Institute in 1901 I
 took for my title 'The possible improvement
 of the Human Breed under the existing
-conditions of Law and Sentiment' (<i>Nature</i>,
+conditions of Law and Sentiment’ (<i>Nature</i>,
 November 1, 1901, <i>Report of the Smithsonian
 Institute, Washington</i>, for the same year, and
 reprinted in this volume.)
@@ -2870,7 +2870,7 @@ reprinted in this volume.)
 The next and a very important step
 towards Eugenics was made by Professor
 Karl Pearson in his Huxley Lecture of 1903
-entitled 'The Laws of Inheritance in Man'
+entitled 'The Laws of Inheritance in Man’
 (<i>Biometrika</i>, vol. iii). It contains a most
 valuable compendium of work achieved and
 of objects in view; also the following passage
@@ -2893,10 +2893,10 @@ the good and the bad stocks in the community.
 Again in 1904, having been asked by the
 newly-formed Sociological Society to contribute
 a memoir, I did so on 'Eugenics, its
-definition, aim and scope.' This was followed
+definition, aim and scope.’ This was followed
 up in 1905 by three memoirs, 'Restrictions
-in Marriage,' 'Studies in National Eugenics,'
-and 'Eugenics as a factor in Religion,' which
+in Marriage,’ 'Studies in National Eugenics,’
+and 'Eugenics as a factor in Religion,’ which
 were published in the Memoirs of that Society
 with comments thereon by more than
 twenty different authorities (<i>Sociological
@@ -2919,7 +2919,7 @@ and for the memoirs he has contributed, part
 of which must still remain for a short time
 unpublished.
 
-When the date for Mr. Schuster's retirement
+When the date for Mr. Schuster’s retirement
 approached it was advisable to utilize
 the experience so far gained in reorganizing
 the Office. Professor Pearson and myself, in
@@ -2928,7 +2928,7 @@ of London, elaborated a scheme at
 the beginning of this year, which is a decided
 advance, and shows every sign of vitality and
 endurance. Mr. David Heron, a Mathematical
-Scholar of St. Andrew's, is now a
+Scholar of St. Andrew’s, is now a
 Research Fellow; Miss Ethel Elderton, who
 has done excellent and expert work from the
 beginning, is deservedly raised to the position
@@ -2951,11 +2951,11 @@ in both. The Office now bears the name of
 the Eugenics Laboratory, and its temporary
 home is in 88 Gower Street. (It is now, 1909,
 housed in the University buildings.) The
-phrase 'National Eugenics' is defined as 'the
+phrase 'National Eugenics’ is defined as 'the
 study of agencies under social control that
 may improve or impair the racial qualities of
 future generations, either physically or
-mentally.'
+mentally.’
 
 The Laboratory has already begun to
 publish memoirs on its own account, and I
@@ -2970,8 +2970,8 @@ to Eugenics.</sc>
 
 Eugenics seeks for quantitative results. It
 is not contented with such vague words as
-'much' or 'little,' but endeavours to determine
-'how much' or 'how little' in precise
+'much’ or 'little,’ but endeavours to determine
+'how much’ or 'how little’ in precise
 and trustworthy figures. A simple example
 will show the importance of this. Let us
 suppose a class of persons, called <i>A</i>, who are
@@ -3012,7 +3012,7 @@ be faced without reproach through a sentiment
 akin to that expressed in the maxim 'It
 -----File: p083.png--------------------------------------------------------
 is better that many guilty should escape than
-that one innocent person should suffer.' But
+that one innocent person should suffer.’ But
 that is not the sentiment by which natural
 selection is guided, and it is dangerous to
 yield far to it.
@@ -3064,7 +3064,7 @@ admit of being so presented to any intelligent
 person as to be grasped by him, even though
 he be quite ignorant of mathematics. The
 conditions of doing so are that the lessons
-shall be as far as possible 'Object lessons,' in
+shall be as far as possible 'Object lessons,’ in
 which real objects shall be handled as in the
 Kindergarten system, and simple operations
 performed and not only talked about. I am
@@ -3123,7 +3123,7 @@ length were considered, objects of suitable
 size, such as chestnuts, acorns, hazel-nuts,
 stones of wall fruit, might be arrayed as
 beads on a string. It will be shown that an
-'Array' of Variates of any kind falls into a
+'Array’ of Variates of any kind falls into a
 continuous series. That each variate differs
 little from its neighbours about the middles of
 the Arrays, but that such differences increase
@@ -3135,7 +3135,7 @@ Arrays of Variates of the same class strung
 together, differing considerably in the number
 of the objects they each contain, would be
 laid side by side and their middlemost
-variates or 'Medians' (Fig. 3) would be
+variates or 'Medians’ (Fig. 3) would be
 compared. It would be shown that as a rule
 the Medians become very similar to one
 another when the numbers in the Arrays are
@@ -3162,7 +3162,7 @@ there are horses, otherwise a side of one of
 the extreme stalls would be wanting. Thus
 there are two ways of indicating the position
 of a particular variate, either by its <i>serial
-number</i> as 'first,' 'second,' 'third,' or so on,
+number</i> as 'first,’ 'second,’ 'third,’ or so on,
 or by <i>degrees</i> like those of a thermometer.
 In the latter case the sides of the stalls serve
 as degrees, counting the first of them as 0°,
@@ -3219,7 +3219,7 @@ Curve, Axis, and Limits. This forms a
 Scheme of Distribution of Deviates. Draw
 ordinates from the axis to the curve at the
 25th and 75th divisions. These are the
-'Quartile' deviates.
+'Quartile’ deviates.
 
 At this stage the Genesis of the theoretical
 Normal curve might be briefly explained
@@ -3238,7 +3238,7 @@ in two normal curves of deviation measures
 their relative variability, the Quartile is
 commonly employed as the unit of variability
 under the almost grotesque name of 'Probable
-Error,' which is intended to signify that the
+Error,’ which is intended to signify that the
 length of any Deviate in the system is as likely
 as not to exceed or to fall short of it. This,
 by construction, is the case of either Quartile.
@@ -3285,7 +3285,7 @@ not suited for and was not used as a first
 illustration, but the formula that expresses it
 is by far the more suitable of the two for calculation.
 Its unit of variability is what is
-called the 'Standard Deviation,' whose genesis
+called the 'Standard Deviation,’ whose genesis
 will admit of illustration. How the calculations
 are made for finding its value is far beyond
 the reach of the present lessons. The calculated
@@ -3324,7 +3324,7 @@ hand of No. 3. The hands of Nos. 1, 2, and
 3 move up and down quite independently, but
 as the movements of both weights are simultaneously
 controlled in part by No. 2, they
-become 'correlated.'
+become 'correlated.’
 
 The formation of a table of correlations
 on paper ruled in squares, is easily explained
@@ -3345,17 +3345,17 @@ so in most other cases. It follows that the
 average deviation of a <i>B</i> value bears a constant
 ratio to the deviation of the corresponding
 <i>A</i> value. This ratio is called the 'Index
-of Correlation,' and is expressed by a single
+of Correlation,’ and is expressed by a single
 figure. For example: if the thigh-bone of
-many persons deviate 'very much' from the
+many persons deviate 'very much’ from the
 usual length of the thigh-bones of their race,
 the average of the lengths of the corresponding
-arm-bones will differ 'much,' but not
-'very much,' from the usual length of arm-bones,
+arm-bones will differ 'much,’ but not
+'very much,’ from the usual length of arm-bones,
 and the ratio between this 'very
-much' and 'much' is constant and in the
+much’ and 'much’ is constant and in the
 same direction, whatever be the numerical
-value attached to the word 'very much.'
+value attached to the word 'very much.’
 Lastly, the trustworthiness of the Index of
 Correlation, when applied to individual cases,
 is readily calculable. When the closeness of
@@ -3440,7 +3440,7 @@ truths on individual conduct is deplorably
 weak, as expressed by the lines:--
 
 /*
-For others' follies teach us not,
+For others’ follies teach us not,
 Nor much their wisdom teaches,
 But chief of solid worth is what
 Our own experience preaches.
@@ -3459,7 +3459,7 @@ is chiefly due to the fact that in this case,
 cause and effect, marriage and the feebleness
 of the offspring, are so distant from each other
 that the <i>near-sighted eye</i> does not distinctly
-perceive the connexion between them.' (The
+perceive the connexion between them.’ (The
 Italics are mine.)
 
 The enlightenment of individuals is a
@@ -3514,7 +3514,7 @@ soon began to show dissatisfaction; they said
 the beard was a sign of manliness that ought
 not to be suppressed, and so forth, and at
 length the moment arrived. A distinguished
-clergyman, happily still living, 'bearded' his
+clergyman, happily still living, 'bearded’ his
 Bishop on a critical occasion. The Bishop
 yielded without protest, and forthwith hair
 began to sprout in a thousand pulpits where
@@ -3527,7 +3527,7 @@ sentiment if our athletes in running public
 races were to strip themselves stark naked,
 yet that custom was rather suddenly introduced
 into Greece. Plato says (Republic V,
-par. 452, Jowett's translation):
+par. 452, Jowett’s translation):
 
 /#
 Not long ago the Greeks were of the opinion,
@@ -3539,7 +3539,7 @@ day might have ridiculed them....
 #/
 
 Thucydides (I. 6) also refers to the same
-change as occurring 'quite lately'.
+change as occurring 'quite lately’.
 
 Public opinion is commonly far in advance
 of private morality, because society as a
@@ -3621,7 +3621,7 @@ required for some time to come, and the pace
 must not be hurried. When the desired fulness
 of information shall have been acquired
 then, and not till then, will be the fit moment
-to proclaim a 'Jehad,' or Holy War against
+to proclaim a 'Jehad,’ or Holy War against
 customs and prejudices that impair the
 physical and moral qualities of our race.
 -----File: p100.png--------------------------------------------------------
@@ -3640,7 +3640,7 @@ concerned with favouring the families of
 those who are exceptionally fit for citizenship.
 Consequently, little or nothing will be said
 relating to what has been well termed by
-Dr. Saleeby "negative" eugenics, namely,
+Dr. Saleeby “negative” eugenics, namely,
 the hindrance of the marriages and the production
 of offspring by the exceptionally
 unfit. The latter is unquestionably the more
@@ -3786,7 +3786,7 @@ of them to the central society.
 The chief of the notable qualities, to
 which I refer in the preceding paragraph, is
 the possession of what I will briefly call by
-the general term of "Worth." By this I
+the general term of “Worth.” By this I
 mean the civic worthiness, or the value to the
 State, of a person, as it would probably be
 assessed by experts, or, say, by such of his
@@ -3832,7 +3832,7 @@ amount of good work in eugenics would be
 incidentally done. Family histories would
 become familiar topics, the existence of good
 stocks would be discovered, and many persons
-of "worth" would be appreciated and made
+of “worth” would be appreciated and made
 acquainted with each other who were formerly
 known only to a very restricted circle. It is
 probable that these persons, in their struggle
@@ -3851,17 +3851,17 @@ among their probable members. It may be
 said, without mincing words, with regard to
 much that has already been published, that
 the subject of eugenics is particularly
-attractive to "cranks." The councils of local
+attractive to “cranks.” The councils of local
 societies will therefore be obliged to exercise
 great caution before accepting the memoirs
 offered to them, and much discretion in
 keeping discussions within the bounds of
 sobriety and common sense. The basis of
 eugenics is already firmly established, namely,
-that the offspring of "worthy" parents are, <i>on
+that the offspring of “worthy” parents are, <i>on
 the whole</i>, more highly gifted by nature with
-faculties that conduce to "worthiness" than
-the offspring of less "worthy" parents. On
+faculties that conduce to “worthiness” than
+the offspring of less “worthy” parents. On
 the other hand, forecasts in respect to
 particular cases may be quite wrong. They
 have to be based on imperfect data. It cannot
@@ -3875,7 +3875,7 @@ will have been planted; let it grow. Perhaps
 those who may thereafter feel themselves or
 be considered by others to be the possessors
 of notable eugenic qualities—let us for brevity
-call them "Eugenes"—will form their own
+call them “Eugenes”—will form their own
 clubs and look after their own interests. It
 is impossible to foresee what the state of
 public opinion will then be. Many elements
@@ -3892,7 +3892,7 @@ of local associations should co-operate, wherever
 practicable, with local administrative
 authorities, proceeded on the assumption that
 the inhabitants of the districts selected as the
-eugenic "field" had a public spirit of their
+eugenic “field” had a public spirit of their
 own and a sense of common interest. This
 sense would be greatly strengthened by the
 enlargement of mutual acquaintanceship and
@@ -3943,10 +3943,10 @@ Speaking for myself only, I look forward
 to local eugenic action in numerous directions,
 of which I will now specify one. It is the
 accumulation of considerable funds to start
-young couples of "worthy" qualities in their
+young couples of “worthy” qualities in their
 married life, and to assist them and their
 families at critical times. The gifts to those
-who are the reverse of "worthy" are enormous
+who are the reverse of “worthy” are enormous
 in amount; it is stated that the charitable
 donations or bequests in the year 1907
 amounted to 4,868,050<i>l.</i> I am not prepared

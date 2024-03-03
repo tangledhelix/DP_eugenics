@@ -744,7 +744,7 @@ material. In the meantime it will serve as
 a standard table of descent from each generation
 of a people to its successor.
 
-<tb>
+.tb
 
 <i>Economy of Effort.</i>--I shall now use the
 table to show the economy of concentrating
@@ -1170,7 +1170,7 @@ social pressure directed to produce the desired
 end would be so great as to ensure a notable
 amount of success.
 
-<tb>
+.tb
 
 <i>Profit and Loss.</i>--The problem to be
 solved now assumes a clear shape. A child
@@ -1192,7 +1192,7 @@ its solution. There seems no reason why this
 one should not be solved between limiting
 values that are not too wide apart to be useful.
 
-<tb>
+.tb
 
 <i>Existing Activities.</i>--Leaving aside profitable
 expenditure from a purely money point
@@ -2631,7 +2631,7 @@ through his disforestings and agriculture,
 would be recognisable from a distance as
 great as that of the moon.
 
-<tb>
+.tb
 
 As regards the practical side of eugenics,
 we need not linger to re-open the unending

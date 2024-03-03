@@ -7,7 +7,7 @@
 .dt Essays in eugenics. | Project Gutenberg
 
 
------File: f001.png--------------------------------------------------------
+.bn f001.png
 
 
 
@@ -29,8 +29,8 @@ THE EUGENICS EDUCATION SOCIETY.
 
 1909.
 */
------File: f002.png--------------------------------------------------------
------File: f003.png--------------------------------------------------------
+.bn f002.png
+.bn f003.png
 
 
 
@@ -63,7 +63,7 @@ our acts more intimately than we are apt
 to suspect, because the dictates of Public
 Opinion become so thoroughly assimilated
 that they seem to be original and individual
------File: f004.png--------------------------------------------------------
+.bn f004.png
 to those who are guided by them. By comparing
 the current ideas at widely different
 epochs and under widely different civilizations
@@ -95,7 +95,7 @@ their Publications.
 /*
 <sc>Francis Galton.</sc>
 */
------File: f005.png--------------------------------------------------------
+.bn f005.png
 
 
 
@@ -125,10 +125,11 @@ Eugenics</sc>      73
 VII. <sc>Local Associations for Promoting
 Eugenics</sc>      100
 */
------File: f006.png--------------------------------------------------------
+.bn f006.png
 
 [Illustration: STANDARD SCHEME OF DESCENT]
------File: p001.png--------------------------------------------------------
+.bn p001.png
+.pn 1
 
 
 
@@ -165,7 +166,8 @@ sentiment. It has not hitherto been approached
 [Footnote A: The second Huxley Lecture of the Anthropological Institute,
 delivered by Francis Galton, D.C.L., D.Sc., F.R.S., on October
 29, 1901.]
------File: p002.png--------------------------------------------------------
+.bn p002.png
+.pn +1
 along the ways that recent knowledge
 has laid open, and it occupies in consequence
 a less dignified position in scientific estimation
@@ -200,7 +202,8 @@ endurance, others are quickly fatigued; some
 are muscular and powerful, others are weak;
 some are intelligent, others stupid; some have
 tenacious memories of places and persons,
------File: p003.png--------------------------------------------------------
+.bn p003.png
+.pn +1
 others frequently stray and are slow at recognising.
 The number and variety of aptitudes,
 especially in dogs, is truly remarkable; among
@@ -235,7 +238,8 @@ astronomers in judging minute intervals of
 time, bullet marks around the bull’s-eye in
 target practice, and differences of marks
 gained by candidates at competitive examinations.
------File: p004.png--------------------------------------------------------
+.bn p004.png
+.pn +1
 There is no mystery about the
 fundamental principles of this abstract law; it
 rests on such simple fundamental conceptions
@@ -270,7 +274,8 @@ facts.
 A talent is a sum whose exact value few
 of us care to know, although we all appreciate
 the inner sense of the beautiful parable. I
------File: p005.png--------------------------------------------------------
+.bn p005.png
+.pn +1
 will, therefore, venture to adapt the phraseology
 of the allegory to my present purpose by
 substituting for “talent” the words “normal-talent.”
@@ -313,7 +318,8 @@ occupies the position of Mediocrity, or that of
 the average of what all have received: the
 +1°, +2°, etc., and the –1°, –2°, etc., refer to
 normal talents. These numerals stand as
------File: p006.png--------------------------------------------------------
+.bn p006.png
+.pn +1
 graduations at the heads of the vertical lines
 by which the table is divided. The entries
 between the divisions are the numbers per
@@ -349,7 +355,8 @@ figures from my “Natural Inheritance,” premising
 that the distribution of stature in
 various peoples has been well investigated and
 shown to be closely normal. The average
------File: p007.png--------------------------------------------------------
+.bn p007.png
+.pn +1
 height of the adult males, to whom my figures
 refer, was nearly 5 feet 8 inches, and the value
 of their “normal-talent” (which is a measure
@@ -383,7 +390,8 @@ marks gained by each candidate in both those
 subjects would be distributed normally also,
 this being one of the many interesting properties
 of the law of frequency.
------File: p008.png--------------------------------------------------------
+.bn p008.png
+.pn +1
 
 <i>Comparison of the Normal Classes with those
 of Mr. Booth.</i>—Let us now compare the normal
@@ -418,7 +426,8 @@ three times as many as the <i>v</i> class: they
 therefore include the whole of <i>v</i> and spread
 upwards into the <i>u</i>. His class B consists of
 very poor persons who subsist on casual
------File: p009.png--------------------------------------------------------
+.bn p009.png
+.pn +1
 
 <sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London
 with the Normal Classes.</i>
@@ -448,7 +457,8 @@ The two columns headed “Nos.” give respectively the numbers per thousand in 
 and in the Normal Classes.
 */
 
------File: p010.png--------------------------------------------------------
+.bn p010.png
+.pn +1
 earnings, many of whom are inevitably poor
 from shiftlessness, idleness or drink. The
 numbers in this and the A class combined
@@ -483,7 +493,8 @@ for old age, and their sons become clerks and
 so forth. <i>G</i> is the lower middle class of shopkeepers,
 small employers, clerks and subordinate
 professional men, who as a rule are
------File: p011.png--------------------------------------------------------
+.bn p011.png
+.pn +1
 hard-working, energetic and sober. F and G
 combined correspond to the upper fifth of R
 and the whole of S, and are, therefore, a
@@ -518,7 +529,8 @@ through old age, the other its earnings as boy
 and man. On balancing the two sides of the
 account the value of the baby was found to be
 five pounds. On a similar principle, the
------File: p012.png--------------------------------------------------------
+.bn p012.png
+.pn +1
 worth of an X-class baby would be reckoned
 in thousands of pounds. Some such “talented”
 folk fail, but most succeed, and many succeed
@@ -553,7 +565,8 @@ respectively from the V, U, T, S and other
 classes of parentage? The means of calculating
 this question for a normal population
 are given fully in my “Natural Inheritance.”
------File: p013.png--------------------------------------------------------
+.bn p013.png
+.pn +1
 There are three main senses in which the
 word parentage might be used. They differ
 widely, so the calculations must be modified
@@ -589,7 +602,8 @@ adult man and an adult woman.
 
 The result is shown to the nearest whole
 per thousand in the table up to “V and above,”
------File: p014.png--------------------------------------------------------
+.bn p014.png
+.pn +1
 
 <sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between
 the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
@@ -629,7 +643,8 @@ Total 10,000 Fathers (or Mothers)                         |  34 168 | 655 | 1623
 to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the
 classes being too few and too wide; theoretically they should be extremely numerous and narrow.
 
------File: p015.png--------------------------------------------------------
+.bn p015.png
+.pn +1
 to the nearest ten thousands. They may be
 read either as applying to fathers and their
 sons when adult, or to mothers and their
@@ -663,7 +678,8 @@ under the conditions we are now supposing.
 The regression is indicated in the diagram
 used to illustrate this paper, by converging
 lines which are directed towards the same
------File: p016.png--------------------------------------------------------
+.bn p016.png
+.pn +1
 point below, but are stopped at one-third
 of the distance on the way to it. The
 contents of each parental class are supposed to
@@ -697,7 +713,8 @@ offspring are identical with those of the parents,
 when they are reckoned to the nearest whole
 percentage, as should be the case according
 to the hypothesis. Had the classes been
------File: p017.png--------------------------------------------------------
+.bn p017.png
+.pn +1
 narrower and more numerous, and if the
 calculations had been carried on to two more
 places of decimals, the correspondence would
@@ -733,7 +750,8 @@ also to be taken into account. When this is
 done, we see that the lower classes make
 their scores owing to their quantity and not
 to their quality; for while 35 V-class parents
------File: p018.png--------------------------------------------------------
+.bn p018.png
+.pn +1
 suffice to produce 6 sons of the V class, it
 takes 2500 R-class fathers to produce 3 of
 them. Consequently the richness in produce
@@ -768,7 +786,8 @@ nearer mediocrity than that of the double T.
 Hence it would be bad economy to spend
 much effort in furthering marriages with a
 higher class on only one side.
------File: p019.png--------------------------------------------------------
+.bn p019.png
+.pn +1
 
 /#
 <sc>Table IV.</sc>—<i>Distribution of sons. (1) One
@@ -811,7 +830,8 @@ slouch through the streets and play the
 beggar or the bully. They render no useful
 service, they create no wealth; more often
 they destroy it. They degrade whatever they
------File: p020.png--------------------------------------------------------
+.bn p020.png
+.pn +1
 touch, and as individuals are perhaps incapable
 of improvement ... but I do not
 mean to say that there are not individuals of
@@ -847,7 +867,8 @@ hardship in this.
 Mr. Booth’s classification did not help us
 beyond classes higher than S in civic worth.
 If a strong and widely felt desire should arise
------File: p021.png--------------------------------------------------------
+.bn p021.png
+.pn +1
 to discover young men whose position was of
 the V, W or X order, there would not be
 much difficulty in doing so. Let us imagine,
@@ -881,7 +902,8 @@ other, whose ideals of character and merit
 necessarily differ. This ordeal would reduce
 the possible winners to a very small number,
 out of which an independent committee might
------File: p022.png--------------------------------------------------------
+.bn p022.png
+.pn +1
 be trusted to make the ultimate selection.
 They would be guided by personal interviews.
 They would take into consideration all
@@ -916,7 +938,8 @@ subsequent Performance.</i>—No serious difficulty
 seems to stand in the way of classifying and
 giving satisfactory diplomas to youths of
 either sex, supposing there were a strong
------File: p023.png--------------------------------------------------------
+.bn p023.png
+.pn +1
 demand for it. But some real difficulty does
 lie in the question—Would such a classification
 be a trustworthy forecast of qualities in
@@ -951,7 +974,8 @@ can foresee, than in other problems which
 have been successfully attacked. It is one of
 those alluded to in the beginning of this
 lecture as bearing on race-improvement, and
------File: p024.png--------------------------------------------------------
+.bn p024.png
+.pn +1
 being on its own merits suitable for anthropological
 inquiry. Let me add that I think
 its neglect by the vast army of highly educated
@@ -986,7 +1010,8 @@ money and care that would be necessitated.
 An enthusiasm to improve the race would
 probably express itself by granting diplomas
 to a select class of young men and women, by
------File: p025.png--------------------------------------------------------
+.bn p025.png
+.pn +1
 encouraging their intermarriages, by hastening
 the time of marriage of women of that high
 class, and by provision for rearing children
@@ -1021,7 +1046,8 @@ was to follow the natural instincts.
 We have now to consider the probable
 gain in the number and worth of adult
 offspring to these favoured couples. First
------File: p026.png--------------------------------------------------------
+.bn p026.png
+.pn +1
 as regards the effect of reducing the age at
 marriage. There is unquestionably a tendency
 among cultured women to delay or even to
@@ -1057,7 +1083,8 @@ shortened by one-sixth, so that six take the
 place of five, and that the productivity of each
 marriage is unaltered, it follows that one-sixth
 more children will be brought into the
------File: p027.png--------------------------------------------------------
+.bn p027.png
+.pn +1
 world during the same time, which is, roughly
 equivalent to increasing the productivity of
 an unshortened generation by that amount.
@@ -1095,7 +1122,8 @@ the towns sterilise rural vigour.
 
 As one of the reasons for choosing the
 selected class would be that of hereditary
------File: p028.png--------------------------------------------------------
+.bn p028.png
+.pn +1
 fertility, it follows that the selected class
 would respond more than other classes to
 the above influences.
@@ -1131,7 +1159,8 @@ who belonged to a county family of position
 that a great aunt of hers had scandalised her
 own domestic circle two generations ago by
 falling in love with the undertaker at her
------File: p029.png--------------------------------------------------------
+.bn p029.png
+.pn +1
 father’s funeral and insisting on marrying him.
 Strange vagaries occur, but considerations of
 social position and of fortune, with frequent
@@ -1170,7 +1199,8 @@ values that are not too wide apart to be useful.
 
 <i>Existing Activities.</i>—Leaving aside profitable
 expenditure from a purely money point
------File: p030.png--------------------------------------------------------
+.bn p030.png
+.pn +1
 of view, the existence should be borne in mind
 of immense voluntary activities that have
 nobler aims. The annual voluntary contributions
@@ -1217,7 +1247,8 @@ is “I bequeath to my trusted friend A.B., of ....., absolutely,
 the sum of £...... in the hope and confidence that he will apply
 the same in furtherance of Eugenic Study and practice, but without
 imposing on him any trust or legal obligation so to do.” F.G.]
------File: p031.png--------------------------------------------------------
+.bn p031.png
+.pn +1
 is hardly to be expressed in English by a
 simple word that does not connote more than
 is intended. The word “patron” is odious.
@@ -1252,7 +1283,8 @@ many great landowners whose employments
 for man and wife, together with good
 cottages, are given to exceptionally deserving
 couples. The advantage of being connected
------File: p032.png--------------------------------------------------------
+.bn p032.png
+.pn +1
 with a great and liberally managed estate
 being widely appreciated, there are usually
 more applicants than vacancies, so selection
@@ -1287,7 +1319,8 @@ elsewhere, on account of the high quality
 of the inmates, and it would be distinguished
 by an air of energy, intelligence, health
 and self-respect and by mutual helpfulness.
------File: p033.png--------------------------------------------------------
+.bn p033.png
+.pn +1
 
 <i>Prospects.</i>—It is pleasant to contrive
 Utopias, and I have indulged in many, of
@@ -1322,14 +1355,16 @@ expressed in formulæ. We cannot doubt
 the existence of a great power ready to
 hand and capable of being directed with
 vast benefit as soon as we shall have learnt
------File: p034.png--------------------------------------------------------
+.bn p034.png
+.pn +1
 to understand and to apply it. To no
 nation is a high human breed more necessary
 than to our own, for we plant our stock all
 over the world and lay the foundation of
 the dispositions and capacities of future
 millions of the human race.
------File: p035.png--------------------------------------------------------
+.bn p035.png
+.pn +1
 
 
 
@@ -1372,7 +1407,8 @@ Economics and Political Science (London University), on May
 16th, 1904. Professor <sc>Karl Pearson</sc>, F.R.S., in the chair.
 #/
 ]
------File: p036.png--------------------------------------------------------
+.bn p036.png
+.pn +1
 the night, and suppose that, as in old fables, the
 animals are able to converse, and that some very
 wise creature who had easy access to all the
@@ -1406,7 +1442,8 @@ life. Society would be very dull if every man
 resembled the highly estimable Marcus
 Aurelius or Adam Bede. The aim of Eugenics
 is to represent each class or sect by its best
------File: p037.png--------------------------------------------------------
+.bn p037.png
+.pn +1
 specimens; that done, to leave them to work
 out their common civilisation in their own way.
 
@@ -1442,7 +1479,8 @@ better moiety at the present day and consider the
 gain. The general tone of domestic, social
 and political life would be higher. The race
 as a whole would be less foolish, less frivolous,
------File: p038.png--------------------------------------------------------
+.bn p038.png
+.pn +1
 less excitable and politically more provident
 than now. Its demagogues who “played to
 the gallery” would play to a more sensible
@@ -1480,7 +1518,8 @@ actuaries are concerned.
 which the various classes of society (classified
 according to civic usefulness) have contributed
 to the population at various times, in
------File: p039.png--------------------------------------------------------
+.bn p039.png
+.pn +1
 ancient and modern nations. There is strong
 reason for believing that national rise and
 decline is closely connected with this influence.
@@ -1515,7 +1554,8 @@ the circumstances under which large and
 thriving families have most frequently originated;
 in other words, the <i>conditions</i> of
 Eugenics. The names of the thriving families
------File: p040.png--------------------------------------------------------
+.bn p040.png
+.pn +1
 in England have yet to be learnt, and the conditions
 under which they have arisen. We
 cannot hope to make much advance in the
@@ -1549,7 +1589,8 @@ its more or less eugenic character might have
 been predicted, if the larger knowledge that
 we now hope to obtain had then existed.
 Some account would, of course, be wanted of
------File: p041.png--------------------------------------------------------
+.bn p041.png
+.pn +1
 their race, profession, and residence; also of
 their own respective parentages, and of their
 brothers and sisters. Finally, the reasons
@@ -1588,7 +1629,8 @@ apply to marriage. The passion of love seems so
 overpowering that it may be thought folly to
 try to direct its course. But plain facts do
 not confirm this view. Social influences of
------File: p042.png--------------------------------------------------------
+.bn p042.png
+.pn +1
 all kinds have immense power in the end, and
 they are very various. If unsuitable marriages
 from the Eugenic point of view were banned
@@ -1623,7 +1665,8 @@ who suffer misfortune. The improvement
 of our stock seems to me one of the highest
 objects that we can reasonably attempt. We
 are ignorant of the ultimate destinies of
------File: p043.png--------------------------------------------------------
+.bn p043.png
+.pn +1
 humanity, but feel perfectly sure that it is as
 noble a work to raise its level in the sense
 already explained, as it would be disgraceful
@@ -1641,7 +1684,8 @@ study. Then let its principles work into the
 heart of the nation, who will gradually give
 practical effect to them in ways that we may
 not wholly foresee.
------File: p044.png--------------------------------------------------------
+.bn p044.png
+.pn +1
 
 
 
@@ -1685,7 +1729,8 @@ Science (University of London), Clare Market, W.C., Dr. <sc>E.
 Westermarck</sc> in the Chair.
 #/
 ]
------File: p045.png--------------------------------------------------------
+.bn p045.png
+.pn +1
 had that seemed necessary. Those who desire
 to investigate the subject further can
 easily do so by referring to standard works
@@ -1720,7 +1765,8 @@ sentiments both of men and women in the
 larger part of negro Africa. It was regarded
 as a matter of course in the early Biblical days.
 Jacob’s twelve children were born of four
------File: p046.png--------------------------------------------------------
+.bn p046.png
+.pn +1
 mothers all living at the same time, namely,
 Leah, and her sister Rachel, and their respective
 handmaids Bilhah and Zilpah. Long
@@ -1755,7 +1801,8 @@ Brit.</i>, xvi. 827.)
 
 It is unnecessary for my present purpose
 to go further into the voluminous data connected
------File: p047.png--------------------------------------------------------
+.bn p047.png
+.pn +1
 with marriages such as these in all parts
 of the world. Enough has been said to show
 that the prohibition of polygamy, under
@@ -1791,7 +1838,8 @@ and which was by no means confined to
 Judæa, is that known as the Levirate. It
 shows that family property and honour were
 once held by the Jews to dominate over
------File: p048.png--------------------------------------------------------
+.bn p048.png
+.pn +1
 individual preferences. The Mosaic law
 actually <i>compelled</i> a man to marry the widow
 of his brother if he left no male issue.
@@ -1826,7 +1874,8 @@ a woman lay at his feet,” who had come
 in “softly and uncovered his feet and laid her
 down.” He told her to lie still until the early
 morning and then to go away. She returned
------File: p049.png--------------------------------------------------------
+.bn p049.png
+.pn +1
 home and told her mother, who said, “Sit
 still, my daughter, until thou know how the
 matter will fall, for the man will not rest until
@@ -1862,7 +1911,8 @@ described. It is the duty enforced by custom,
 religion, and law, of marrying <i>outside</i> one’s
 own clan, and is usually in force amongst
 small and barbarous communities. Its
------File: p050.png--------------------------------------------------------
+.bn p050.png
+.pn +1
 former distribution is attested by the survival
 in nearly all countries, of ceremonies based
 on “marriage by capture.” The remarkable
@@ -1897,7 +1947,8 @@ barbarians are very numerous.
 is a brief clue, and apparently a true one,
 to the complicated marriage restrictions
 among Australian bushmen, which are enforced
------File: p051.png--------------------------------------------------------
+.bn p051.png
+.pn +1
 by the penalty of death, and which seem to be
 partly endogamous in origin and partly otherwise.
 The example is typical of those of
@@ -1934,7 +1985,8 @@ Here then is another restriction to the
 freedom of marriage which might with equal
 propriety have been applied to the furtherance
 of some form of Eugenics.
------File: p052.png--------------------------------------------------------
+.bn p052.png
+.pn +1
 
 5. <sc>Taboo.</sc> The survival of young
 animals largely depends on their inherent
@@ -1970,7 +2022,8 @@ brief summaries. It shows how, in most parts of
 the world, acts that are apparently insignificant,
 have been invested with ideal importance,
 and how the doing of this or that has been
------File: p053.png--------------------------------------------------------
+.bn p053.png
+.pn +1
 followed by outlawry or death, and how the
 mere terror of having unwittingly broken a
 taboo, may suffice to kill the man who broke
@@ -2006,7 +2059,8 @@ reared in the same barbarian home. (2) Close
 likeness, as between the members of a
 thorough-bred stock, causes some sexual
 indifference: thus highly bred dogs lose much
------File: p054.png--------------------------------------------------------
+.bn p054.png
+.pn +1
 of their sexual desire for one another, and are
 apt to consort with mongrels. (3) Contrast
 is an element in sexual attraction which has
@@ -2041,7 +2095,8 @@ near degrees.
 
 Next as to facts. History shows that
 the horror now felt so strongly did not
------File: p055.png--------------------------------------------------------
+.bn p055.png
+.pn +1
 exist in early times. Abraham married his
 half-sister Sarah, “she is indeed the sister, the
 daughter of my father, but not the daughter
@@ -2075,7 +2130,8 @@ half-brothers and half-sisters, and the
 marriage between uncle and niece was
 thought commendable in the time of Pericles,
 when it was prompted by family considerations.
------File: p056.png--------------------------------------------------------
+.bn p056.png
+.pn +1
 In Rome the practice varied much, but there
 were always severe restrictions. Even in its
 dissolute period, public opinion was shocked
@@ -2111,7 +2167,8 @@ effects, how far for good and how far for evil
 need not be discussed here. The point which
 I wish to enforce is the potency, not only of
 the religious sense in aiding or deterring
------File: p057.png--------------------------------------------------------
+.bn p057.png
+.pn +1
 marriage, but more especially the influence
 and authority of ministers of religion in enforcing
 celibacy. They have notoriously used
@@ -2147,7 +2204,8 @@ It has been shown under each of these
 heads how powerful are the various combinations
 of immaterial motives upon marriage
 selection, how they may all become
------File: p058.png--------------------------------------------------------
+.bn p058.png
+.pn +1
 hallowed by religion, accepted as custom and
 enforced by law. Persons who are born under
 their various rules live under them without
@@ -2182,7 +2240,8 @@ nations. Ours are already so far behind
 modern requirements that much of our
 practice and our profession cannot be reconciled
 without illegitimate casuistry. It seems
------File: p059.png--------------------------------------------------------
+.bn p059.png
+.pn +1
 to me that few things are more needed by us
 in England than a revision of our religion, to
 adapt it to the intelligence and needs of the
@@ -2194,7 +2253,8 @@ language, which good men who take their
 part in the work of the world, and who know
 the dangers of sentimentalism, may pursue
 without reservation.
------File: p060.png--------------------------------------------------------
+.bn p060.png
+.pn +1
 
 
 
@@ -2230,7 +2290,8 @@ step by step, at possibly long intervals.
 the School of Economics and Political Science (University
 of London), Clare Market, W.C., on Tuesday, February
 14th, at 4 p.m.]
------File: p061.png--------------------------------------------------------
+.bn p061.png
+.pn +1
 
 
 I. Estimation of the average quality of[**F2:following RN-numbered headings set up differently; formatted all as Section headings for consistency]
@@ -2278,7 +2339,8 @@ and whose discussion might be advantageous to themselves
 as well as to Eugenics. The matter is now under
 consideration, so more cannot be said.
 #/
------File: p062.png--------------------------------------------------------
+.bn p062.png
+.pn +1
 
 
 II. Effects of action by the State and
@@ -2330,7 +2392,8 @@ will suggest the sort of work now in view, where less
 powerful influences have produced statistical effects of
 appreciable amount.
 #/
------File: p063.png--------------------------------------------------------
+.bn p063.png
+.pn +1
 
 
 IV. Heredity.
@@ -2382,7 +2445,8 @@ certificates to candidates for them. They would imply a
 more than an average share of the several qualities of at
 least goodness of constitution, of physique, and of
 mental capacity. Examinations upon which such certificates
------File: p064.png--------------------------------------------------------
+.bn p064.png
+.pn +1
 /#
 might be granted are already carried on, but
 separately; some by the medical advisers of
@@ -2423,7 +2487,8 @@ brought together so large a body of opinion.
 We have had verbal contributions from
 four eminent specialists in anthropology:
 Dr. Haddon, Dr. Mott, Mr. Crawley, and
------File: p065.png--------------------------------------------------------
+.bn p065.png
+.pn +1
 Dr. Westermarck, and numerous written
 communications have been furnished by
 well known persons. At the time that I am
@@ -2462,7 +2527,8 @@ moral and intellectual powers, and hereditary gifts,
 great mistakes would be made by the examiners. I
 fully agree that it is too early to devise a satisfactory
 #/
------File: p066.png--------------------------------------------------------
+.bn p066.png
+.pn +1
 /#
 system of marks for giving what might be styled
 “honour-certificates,” because we do not yet possess
@@ -2507,7 +2573,8 @@ that their offspring as a whole, will be superior to themselves,
 and if as I sincerely hope, a freer action will be
 hereafter allowed to selective agencies than hitherto, the
 #/
------File: p067.png--------------------------------------------------------
+.bn p067.png
+.pn +1
 /#
 portion of the offspring so selected would be better still.
 The influences that now <i>withstand</i> the free action of
@@ -2546,7 +2613,8 @@ my opinion that an immense
 amount of investigation has to be accomplished
 before a definite system of
 Eugenics can be safely framed.
------File: p068.png--------------------------------------------------------
+.bn p068.png
+.pn +1
 
 
 
@@ -2583,7 +2651,8 @@ this huge system, as it issues from the already
 quiet past and is about to invade the still undisturbed
 future, is one of violent internal
 commotion. Its elements are in constant
------File: p069.png--------------------------------------------------------
+.bn p069.png
+.pn +1
 flux and change, though its general form
 alters but slowly. In this respect it resembles
 the curious stream of cloud that
@@ -2619,7 +2688,8 @@ matters little in practice, because men,
 whether fatalists or not, work with equal
 vigour whenever they perceive they have the
 power to act effectively.
------File: p070.png--------------------------------------------------------
+.bn p070.png
+.pn +1
 
 Eugenic belief extends the function of
 philanthropy to future generations, it renders
@@ -2639,11 +2709,14 @@ in family and race. In brief, eugenics is a
 virile creed, full of hopefulness, and appealing
 to many of the noblest feelings of our
 nature.
------File: p071.png--------------------------------------------------------
------File: p072.png--------------------------------------------------------
+.bn p071.png
+.pn +1
+.bn p072.png
+.pn +1
 
 [Illustration: <sc><i>Illustrations of the Herbert Spencer Lecture 1907.</i></sc>]
------File: p073.png--------------------------------------------------------
+.bn p073.png
+.pn +1
 
 
 
@@ -2679,7 +2752,8 @@ brief talks with him, which were often of
 
 [Footnote A: The Herbert Spencer Lecture delivered before the University
 at Oxford, June 5th, 1907.]
------File: p074.png--------------------------------------------------------
+.bn p074.png
+.pn +1
 exceptional interest to myself. All that kind
 of comfort and pleasure has long ago passed
 from me. Among the many things of which
@@ -2715,7 +2789,8 @@ dispensed from further allusion to subjects
 that formed a large portion of his lecture, on
 which he is a far better guide and an infinitely
 higher authority than myself.
------File: p075.png--------------------------------------------------------
+.bn p075.png
+.pn +1
 
 In giving the following sketch of the history
 of Eugenics I am obliged to be egotistical,
@@ -2753,7 +2828,8 @@ Hyperion, by Keats—that magnificent torso
 of an incompleted work—has not been placed
 
 [Footnote A: Dent’s “Everyman’s Library,” price One Shilling.]
------File: p076.png--------------------------------------------------------
+.bn p076.png
+.pn +1
 in the very forefront of past speculations on
 evolution. Keats is so thorough that he
 makes the very Divinities to be its product.
@@ -2792,7 +2868,8 @@ A power more strong in beauty, born of us
 And fated to excel us, as we pass
 In glory that old Darkness.
 */
------File: p077.png--------------------------------------------------------
+.bn p077.png
+.pn +1
 
 He ends with 'this is the truth, and let it
 be your balm.’ The poem is a noble conception,
@@ -2829,7 +2906,8 @@ refused, on those grounds, to erect them.
 The direct pursuit of studies in Eugenics,
 as to what could practically be done, and the
 amount of change in racial qualities that
------File: p078.png--------------------------------------------------------
+.bn p078.png
+.pn +1
 could reasonably be anticipated, did not at
 first attract investigators. The idea of effecting
 an improvement in that direction was too
@@ -2865,7 +2943,8 @@ conditions of Law and Sentiment’ (<i>Nature</i>,
 November 1, 1901, <i>Report of the Smithsonian
 Institute, Washington</i>, for the same year, and
 reprinted in this volume.)
------File: p079.png--------------------------------------------------------
+.bn p079.png
+.pn +1
 
 The next and a very important step
 towards Eugenics was made by Professor
@@ -2904,7 +2983,8 @@ Papers</i>, published for the Sociological Society
 (Macmillan), vols. i and ii. These are re-published
 here). The subject of Eugenics
 being thus formally launched, and the time
------File: p080.png--------------------------------------------------------
+.bn p080.png
+.pn +1
 appearing ripe, I offered a small endowment
 to the University of London, to found
 a Research Fellowship on its behalf. The
@@ -2939,7 +3019,8 @@ of the Office is that Professor Karl Pearson
 has undertaken, at my urgent request, that
 general supervision of its work which advancing
 age and infirmities preclude me from
------File: p081.png--------------------------------------------------------
+.bn p081.png
+.pn +1
 giving. He will, I trust, treat it much as an
 <i>annexe</i> to his adjacent biometric laboratory,
 for many studies in Eugenics might, with
@@ -2976,7 +3057,8 @@ and trustworthy figures. A simple example
 will show the importance of this. Let us
 suppose a class of persons, called <i>A</i>, who are
 afflicted with some form and some specified
------File: p082.png--------------------------------------------------------
+.bn p082.png
+.pn +1
 degree of degeneracy, as inferred from personal
 observations, and from family history,
 and let class <i>B</i> consist of the offspring of <i>A</i>.
@@ -3010,7 +3092,8 @@ other hand, a large <i>D</i> signifies a corresponding
 degree of uncertainty, and a risk that might
 be faced without reproach through a sentiment
 akin to that expressed in the maxim 'It
------File: p083.png--------------------------------------------------------
+.bn p083.png
+.pn +1
 is better that many guilty should escape than
 that one innocent person should suffer.’ But
 that is not the sentiment by which natural
@@ -3047,7 +3130,8 @@ much less appreciating the cogency of their
 results. This popular ignorance so obstructs
 the path of Eugenics that I venture to tax
 your attention by proposing a method of
------File: p084.png--------------------------------------------------------
+.bn p084.png
+.pn +1
 partly dispelling it. Let me first say that no
 one can be more conscious than myself of the
 large amount of study that is required to
@@ -3082,7 +3166,8 @@ features of Variation, and will be the goal towards
 which the lessons lead.
 
 To most persons Variability implies something
------File: p085.png--------------------------------------------------------
+.bn p085.png
+.pn +1
 indefinite and capricious. They require
 to be taught that it, like Proteus in the old fable,
 can be seized, securely bound, and utilized;
@@ -3117,7 +3202,8 @@ explain and illustrate Variability of Size,
 Weight, Number, &c., by exhibiting samples
 of specimens that have been marshalled at
 random (Fig. 1), or arrayed in order of their
------File: p086.png--------------------------------------------------------
+.bn p086.png
+.pn +1
 magnitude (Fig. 2). Thus when variations of
 length were considered, objects of suitable
 size, such as chestnuts, acorns, hazel-nuts,
@@ -3154,7 +3240,8 @@ precision to the idea of an Array. The
 variates in any one of these strung loosely on
 a cord, should be disposed at equal distances
 apart in front of an equal number of compartments,
------File: p087.png--------------------------------------------------------
+.bn p087.png
+.pn +1
 like horses in the front of a row of
 stalls (Fig. 4), and their tops joined. There
 will be one more side to the row of stalls than
@@ -3190,7 +3277,8 @@ the curve, the Limit at either side, and the
 Centesimally divided Base (Fig. 5). This
 figure forms a Scheme of Distribution of
 Variates. Explain clearly that its shape is
------File: p088.png--------------------------------------------------------
+.bn p088.png
+.pn +1
 independent of the number of Variates, so
 long as they are sufficiently numerous to
 secure statistical constancy.
@@ -3228,7 +3316,8 @@ some of its beautiful properties of reproduction.
 Many of the diagrams already shown would
 be again employed to show the prevalence of
 approximately normal distributions. Exceptions
------File: p089.png--------------------------------------------------------
+.bn p089.png
+.pn +1
 of strongly marked Skew curves would be
 exhibited and their genesis briefly described.
 
@@ -3265,7 +3354,8 @@ as is best exemplified by using a Polygon
 of a series of rectangles differing in
 height by the same amounts, but having
 widths respectively representative of the
------File: p090.png--------------------------------------------------------
+.bn p090.png
+.pn +1
 frequencies of 1, 3, 3, 1. (This is one
 of those known as a Binomial series, whose
 genesis might be briefly explained.) If these
@@ -3301,7 +3391,8 @@ advanced mathematics.
 (New words and ideas—Curve of Frequency,
 Standard Deviation, Mean, Binomial
 Series).
------File: p091.png--------------------------------------------------------
+.bn p091.png
+.pn +1
 
 The fifth and last lesson deals with the
 measurement of Correlation, that is, with the
@@ -3337,7 +3428,8 @@ horizontally according to those of <i>B</i>—, and the
 Mean of each partial array of <i>B</i> values,
 corresponding to each grade of <i>A</i>, has to be
 determined. It is found theoretically that
------File: p092.png--------------------------------------------------------
+.bn p092.png
+.pn +1
 where variability is normal, the Means of <i>B</i>
 lie practically in a straight line on the face
 of the Table, and observation shows they do
@@ -3373,7 +3465,8 @@ compressed form,—but will serve, I trust, to
 convey its main purpose of showing that a
 very brief course of lessons, copiously illustrated
 by diagrams and objects to handle,
------File: p093.png--------------------------------------------------------
+.bn p093.png
+.pn +1
 would give an acceptable introduction to the
 newer methods employed in Biometry and in
 Eugenics. Further, that when read leisurely
@@ -3410,7 +3503,8 @@ Locke seems to confound certainty with
 assurance in his forcible description of the
 way in which men are guided in their daily
 affairs (<i>Human Understanding</i>, iv. 14, par. 1):
------File: p094.png--------------------------------------------------------
+.bn p094.png
+.pn +1
 
 /#
 Man would be at a great loss if he had nothing to
@@ -3452,7 +3546,8 @@ stated (<i>Sociological Papers</i>, published for the
 Sociological Society. Macmillan, 1906, vol.
 ii., p. 24), with reference to one obstacle which
 prevents individuals from perceiving the importance
------File: p095.png--------------------------------------------------------
+.bn p095.png
+.pn +1
 of Eugenics, 'the prevalent opinion
 that almost anybody is good enough to marry
 is chiefly due to the fact that in this case,
@@ -3487,7 +3582,8 @@ latter in respect to restrictions it enforced on
 the freedom of marriage, at various times and
 places (<i>Sociological Papers</i>, quoted above).
 Much could be added to that list, but I will
------File: p096.png--------------------------------------------------------
+.bn p096.png
+.pn +1
 not now discuss the effects of public opinion
 on such a serious question. I will take a
 much smaller instance which occurred before
@@ -3522,7 +3618,8 @@ it had never appeared before within the
 memory of man.
 
 It would be no small shock to public
------File: p097.png--------------------------------------------------------
+.bn p097.png
+.pn +1
 sentiment if our athletes in running public
 races were to strip themselves stark naked,
 yet that custom was rather suddenly introduced
@@ -3561,7 +3658,8 @@ a place of safety. Public opinion keenly
 condemns the priest and the Levite, and
 praises the Samaritan, but our criminal law is
 indifferent to such acts. It is most severe on
------File: p098.png--------------------------------------------------------
+.bn p098.png
+.pn +1
 misadventure due to the neglect of a definite
 duty, but careless about those due to the
 absence of common philanthropy. Its callousness
@@ -3605,7 +3703,8 @@ action, however contradictory it may be to
 previous custom and sentiment. Considering
 that public opinion is guided by the sense of
 what best serves the interests of society as a
------File: p099.png--------------------------------------------------------
+.bn p099.png
+.pn +1
 whole, it is reasonable to expect that it will
 be strongly exerted in favour of Eugenics
 when a sufficiency of evidence shall have been
@@ -3624,7 +3723,8 @@ then, and not till then, will be the fit moment
 to proclaim a 'Jehad,’ or Holy War against
 customs and prejudices that impair the
 physical and moral qualities of our race.
------File: p100.png--------------------------------------------------------
+.bn p100.png
+.pn +1
 
 
 
@@ -3662,7 +3762,8 @@ or less affiliated to our own, combined with
 
 [Footnote A: Address to a meeting of the Eugenics Education Society
 at the Grafton Galleries, on October 14th, 1908.]
------File: p101.png--------------------------------------------------------
+.bn p101.png
+.pn +1
 much doubt as to the most appropriate
 methods of establishing and conducting them.
 It is upon this very important branch of our
@@ -3699,7 +3800,8 @@ in my view (which I put forward with
 diffidence), depend largely upon the efforts
 of local associations acting in close harmony
 with a central society, like our own. A
------File: p102.png--------------------------------------------------------
+.bn p102.png
+.pn +1
 prominent part of its business will then consist
 in affording opportunities for the interchange
 of ideas and for the registration and comparison
@@ -3737,7 +3839,8 @@ and sensible lectures to be given on eugenics,
 including the A B C of heredity, at some
 convenient spot, and they would exert themselves
 to arouse a wide interest in the subjects
------File: p103.png--------------------------------------------------------
+.bn p103.png
+.pn +1
 by making it known in the district. They
 would seek the co-operation of the local
 medical men, clergy, and lawyers, of the
@@ -3773,7 +3876,8 @@ The inquiries made by the committee
 when they were considering the names of
 strangers to whom invitations ought to be
 sent, would put them in possession of a large
------File: p104.png--------------------------------------------------------
+.bn p104.png
+.pn +1
 fund of information concerning the qualities
 of many notable individuals in their district,
 and their family histories. These family
@@ -3809,7 +3913,8 @@ the provision that inferiority in any one of the
 three should outweigh superiority in the other
 two. I rank physique first, because it is not
 only very valuable in itself and allied to many
------File: p105.png--------------------------------------------------------
+.bn p105.png
+.pn +1
 other good qualities, but has the additional
 merit of being easily rated. Ability I should
 place second on similar grounds, and character
@@ -3845,7 +3950,8 @@ their valuable services.
 
 A danger to which these societies will be
 liable arises from the inadequate knowledge
------File: p106.png--------------------------------------------------------
+.bn p106.png
+.pn +1
 joined to great zeal of some of the most active
 among their probable members. It may be
 said, without mincing words, with regard to
@@ -3880,7 +3986,8 @@ clubs and look after their own interests. It
 is impossible to foresee what the state of
 public opinion will then be. Many elements
 of strength are needed, many dangers have to
------File: p107.png--------------------------------------------------------
+.bn p107.png
+.pn +1
 be evaded or overcome, before associations of
 Eugenes could be formed that would be stable
 in themselves, useful as institutions, and
@@ -3916,7 +4023,8 @@ atmosphere which we breathe and in which
 we move, social opinion operates powerfully
 without our being conscious of its weight.
 Everyone knows that governments, manners,
------File: p108.png--------------------------------------------------------
+.bn p108.png
+.pn +1
 and beliefs which were thought to be right,
 decorous, and true at one period have been
 judged wrong, indecorous, and false at
@@ -3951,7 +4059,8 @@ in amount; it is stated that the charitable
 donations or bequests in the year 1907
 amounted to 4,868,050<i>l.</i> I am not prepared
 to say how much of this was judiciously spent,
------File: p109.png--------------------------------------------------------
+.bn p109.png
+.pn +1
 or in what ways, but merely quote the figures
 to justify the inference that many of the
 thousands of persons who are willing to give

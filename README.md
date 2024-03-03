@@ -55,6 +55,8 @@ Some tables use upward-opening braces, will need to determine how to render.  (p
 
 - [ ] p093: output from rounds: `<i>se- cura</i>,`
   - Posted in "No dumb questions" forum
+  - Consensus is to leave the space
+  - Use a nbsp to keep wrapping sane
 
 ### Proofer's notes ###
 

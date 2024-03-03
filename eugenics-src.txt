@@ -3488,7 +3488,7 @@ by Certainties and by Probabilities than by
 Assurance to a greater or lesser degree. The
 word Assurance is derived from <i>sure</i>, which
 itself is an abbreviation of <i>secure</i>, that is of
-<i>se- cura</i>[**posted in forum], or without misgiving. It is a contented
+<i>se-\ cura</i>, or without misgiving. It is a contented
 attitude of mind largely dependent on
 custom, prejudice, or other unreasonable influences
 which reformers have to overcome,

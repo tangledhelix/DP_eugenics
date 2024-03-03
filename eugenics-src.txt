@@ -214,7 +214,7 @@ depends than we might and ought to ascertain.
 The limits of our knowledge and of our
 ignorance will become clearer as we proceed.
 
-<i>Human Variety.</i>--The natural character
+<i>Human Variety.</i>—The natural character
 and faculties of human beings differ at least
 as widely as those of the domesticated animals,
 such as dogs and horses, with whom we are
@@ -242,7 +242,7 @@ many talents, others few; but each person
 being responsible for the profitable use of that
 which has been entrusted to him.
 
-<i>Distribution of Qualities in a Nation.</i>--Experience
+<i>Distribution of Qualities in a Nation.</i>—Experience
 shows that while talents are distributed
 in endless different degrees, the
 frequency of those different degrees follows
@@ -312,7 +312,7 @@ whole of the following table starts into life,
 evolved from that of the "<i>probability integral</i>."
 
 /#
-<sc>Table I.</sc>--<i>Normal distribution (to the nearest</i>
+<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
 per <i>ten-thousand and to the nearest</i>
 per <i>hundred.)</i>
 #/
@@ -412,7 +412,7 @@ of the law of frequency.
 -----File: p008.png--------------------------------------------------------
 
 <i>Comparison of the Normal Classes with those
-of Mr. Booth.</i>--Let us now compare the normal
+of Mr. Booth.</i>—Let us now compare the normal
 classes with those into which Mr. Charles Booth
 has divided the population of all London in a
 way that corresponds not unfairly with the
@@ -439,14 +439,14 @@ this justifies me in taking slight liberties with
 his figures. His class A consists of criminals,
 semi-criminals, loafers and some others, who
 are in number at the rate of 1 per cent. in all
-London--that is 100 per 10,000, or nearly
+London—that is 100 per 10,000, or nearly
 three times as many as the <i>v</i> class: they
 therefore include the whole of <i>v</i> and spread
 upwards into the <i>u</i>. His class B consists of
 very poor persons who subsist on casual
 -----File: p009.png--------------------------------------------------------
 
-<sc>Table II.</sc>--<i>Comparison of Mr. Booth's Classification of All London
+<sc>Table II.</sc>—<i>Comparison of Mr. Booth's Classification of All London
 with the Normal Classes.</i>
 
 /*
@@ -523,7 +523,7 @@ to the normal law of frequency. We also
 see that the classes <i>t</i>, <i>u</i>, <i>v</i> and below are
 undesirables.
 
-<i>Worth of Children.</i>--The brains of the
+<i>Worth of Children.</i>—The brains of the
 nation lie in the higher of our classes. If
 such people as would be classed W or X could
 be distinguishable as children and procurable
@@ -569,7 +569,7 @@ of care and cost that might profitably be
 expended in improving the race clearly
 depends on its result.
 
-<i>Descent of Qualities in a Population.</i>--Let
+<i>Descent of Qualities in a Population.</i>—Let
 us now endeavour to obtain a correct understanding
 of the way in which the varying
 qualities of each generation are derived from
@@ -617,10 +617,10 @@ The result is shown to the nearest whole
 per thousand in the table up to "V and above,"
 -----File: p014.png--------------------------------------------------------
 
-<sc>Table III.</sc>--<i>Descent of Qualities in a Population. (The difference between
+<sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between
 the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
 
-<i>Conditions.</i>--(1) Parents to be always alike in class, (2) Statistics of population to continue unchanged,
+<i>Conditions.</i>—(1) Parents to be always alike in class, (2) Statistics of population to continue unchanged,
 (3) Normal Law of Frequency to be applicable throughout.
 
 /*
@@ -651,7 +651,7 @@ Total 10,000 Fathers (or Mothers)                         |  34 168 | 655 | 1623
 --------------------------------------------------------------------------------------------------------------------------------
 */
 
-<i>Note.</i>--The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact
+<i>Note.</i>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact
 to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the
 classes being too few and too wide; theoretically they should be extremely numerous and narrow.
 
@@ -680,8 +680,8 @@ contains abundant proof, both observational
 and theoretical, that the genetic centre is not
 and cannot be identical with the parental centre,
 but is always more mediocre, owing to the
-combination of ancestral influences--which are
-generally mediocre--with the purely parental
+combination of ancestral influences—which are
+generally mediocre—with the purely parental
 ones. It also shows that the regression from
 the parental to the genetic centre, in the case
 of stature at least, would amount to two-thirds
@@ -746,10 +746,10 @@ of a people to its successor.
 
 .tb
 
-<i>Economy of Effort.</i>--I shall now use the
+<i>Economy of Effort.</i>—I shall now use the
 table to show the economy of concentrating
 our attention upon the highest classes. We
-will therefore trace the origin of the V class--which
+will therefore trace the origin of the V class—which
 is the highest in the table. Of its 34
 or 35 sons, 6 come from V parentages, 10
 from U, 10 from T, 5 from S, 3 from R, and
@@ -797,7 +797,7 @@ higher class on only one side.
 -----File: p019.png--------------------------------------------------------
 
 /#
-<sc>Table IV.</sc>--<i>Distribution of sons. (1) One
+<sc>Table IV.</sc>—<i>Distribution of sons. (1) One
 parent of class V., the other unknown.
 (2) Both parents of class
 V (from Table II., with decimal
@@ -819,7 +819,7 @@ Position of the filial centre of (1) = 1·44, of (2) 2·89. When
 both parents are T it = 1·58.
 */
 
-<i>Marriage of like to like.</i>--In each class of
+<i>Marriage of like to like.</i>—In each class of
 society there is a strong tendency to intermarriage,
 which produces a marked effect in
 the richness of brain power of the more
@@ -869,7 +869,7 @@ source of suffering and misery to a future
 generation, and would cause no unwarrantable
 hardship in this.
 
-<i>Diplomas.</i>--It will be remembered that
+<i>Diplomas.</i>—It will be remembered that
 Mr. Booth's classification did not help us
 beyond classes higher than S in civic worth.
 If a strong and widely felt desire should arise
@@ -938,13 +938,13 @@ hereditary family qualities, including those of
 fertility and prepotency.
 
 <i>Correlation between Promise in Youth and
-subsequent Performance.</i>--No serious difficulty
+subsequent Performance.</i>—No serious difficulty
 seems to stand in the way of classifying and
 giving satisfactory diplomas to youths of
 either sex, supposing there were a strong
 -----File: p023.png--------------------------------------------------------
 demand for it. But some real difficulty does
-lie in the question--Would such a classification
+lie in the question—Would such a classification
 be a trustworthy forecast of qualities in
 later life? The scheme of descent of
 qualities may hold good between the parents
@@ -996,7 +996,7 @@ adult performance shall have been determined,
 the figures given in the table of
 descent will have to be reconsidered.
 
-<i>Augmentation of Favoured Stock.</i>--The
+<i>Augmentation of Favoured Stock.</i>—The
 possibility of improving the race of a nation
 depends on the power of increasing the productivity
 of the best stock. This is far more
@@ -1172,7 +1172,7 @@ amount of success.
 
 .tb
 
-<i>Profit and Loss.</i>--The problem to be
+<i>Profit and Loss.</i>—The problem to be
 solved now assumes a clear shape. A child
 of the X class (whatever X signifies) would
 have been worth so and so at its birth, and
@@ -1194,7 +1194,7 @@ values that are not too wide apart to be useful.
 
 .tb
 
-<i>Existing Activities.</i>--Leaving aside profitable
+<i>Existing Activities.</i>—Leaving aside profitable
 expenditure from a purely money point
 -----File: p030.png--------------------------------------------------------
 of view, the existence should be borne in mind
@@ -1315,7 +1315,7 @@ by an air of energy, intelligence, health
 and self-respect and by mutual helpfulness.
 -----File: p033.png--------------------------------------------------------
 
-<i>Prospects.</i>--It is pleasant to contrive
+<i>Prospects.</i>—It is pleasant to contrive
 Utopias, and I have indulged in many, of
 which a great society is one, publishing
 intelligence and memoirs, holding yearly
@@ -1733,8 +1733,8 @@ either as having a plurality of wives; or, as
 having one principal wife and many secondary
 but still legitimate wives, or any other recognised
 but less legitimate connections; in
-one or other of these forms it is now permitted--by
-religion, customs, and law--to at least
+one or other of these forms it is now permitted—by
+religion, customs, and law—to at least
 one-half of the population of the world, though
 its practice may be restricted to a few, on account
 of cost, domestic peace, and the insufficiency
@@ -2165,7 +2165,7 @@ scale, of the power of religious authority in
 directing and withstanding the tendencies of
 human nature towards freedom in marriage.
 
-<sc>Conclusion.</sc>--Seven different subjects
+<sc>Conclusion.</sc>—Seven different subjects
 have now been touched upon. They are
 monogamy, endogamy, exogamy, Australian
 marriages, taboo, prohibited degrees and celibacy.
@@ -2481,7 +2481,7 @@ motives." This is all I had in view when
 writing it.
 
 /#
-<i>Certificates.</i>--One of the comments on which I will
+<i>Certificates.</i>—One of the comments on which I will
 remark is that if certificates were now offered to those
 who passed certain examinations into health, physique,
 moral and intellectual powers, and hereditary gifts,
@@ -2499,7 +2499,7 @@ mentioned in Dr. Mott's bold proposals. The best
 methods of dealing with these are now ripe for immediate
 consideration.
 
-<i>Breeding for points.</i>--It is objected by many that there
+<i>Breeding for points.</i>—It is objected by many that there
 cannot be unanimity on the "points" that it is most
 desirable to breed for. I fully discussed this objection
 in my memoir read here last spring, showing that some
@@ -2525,7 +2525,7 @@ physical characteristics for other than physical purposes.
 It would decidedly be safer to do so than to trust to
 pure chance.
 
-<i>The residue.</i>--It is also objected that if the inferior
+<i>The residue.</i>—It is also objected that if the inferior
 moiety of a race are left to intermarry, their produce
 will be increasingly inferior. This is certainly an error.
 The law of "regression towards mediocrity" insures
@@ -2540,7 +2540,7 @@ The influences that now <i>withstand</i> the free action of
 selective agencies are numerous, they include indiscriminate
 charity.
 
-<i>Passion of love.</i>--The argument has been repeated that
+<i>Passion of love.</i>—The argument has been repeated that
 love is too strong a passion to be restrained by such
 means as would be tolerated at the present time. I
 regret that I did not express the distinction that ought
@@ -2556,7 +2556,7 @@ possible husbands and turns her thoughts elsewhere.
 The proverbial "Mrs. Grundy" has enormous influence
 in checking the marriages she considers indiscreet.
 
-<i>Eugenics as a factor in religion.</i>--Remarks have been
+<i>Eugenics as a factor in religion.</i>—Remarks have been
 made concerning eugenics as a religion; this will be the
 subject of the brief memoir that follows these remarks.
 #/
@@ -2809,13 +2809,13 @@ of 'Why? whence? and whither?' The immediate
 'whither?' does not seem wholly dark,
 as some little information may be gleaned
 concerning the direction in which Nature, so
-far as we know of it, is now moving--Namely,
+far as we know of it, is now moving—Namely,
 towards the evolution of mind, body, and character
 in increasing energy and co-adaptation.
 
 I have often wondered that the poem of
-Hyperion, by Keats--that magnificent torso
-of an incompleted work--has not been placed
+Hyperion, by Keats—that magnificent torso
+of an incompleted work—has not been placed
 
 [Footnote A: Dent's "Everyman's Library," price One Shilling.]
 -----File: p076.png--------------------------------------------------------
@@ -3263,7 +3263,7 @@ secure statistical constancy.
 Show numerous schemes of variates of
 different kinds, and remark on the prevalent
 family likeness between the bounding curves.
-(Words and meanings learnt--Schemes of
+(Words and meanings learnt—Schemes of
 Distribution, Centesimal graduation of base.)
 
 The third lesson passes from Variates,
@@ -3308,7 +3308,7 @@ length of any Deviate in the system is as likely
 as not to exceed or to fall short of it. This,
 by construction, is the case of either Quartile.
 
-(New words and meanings--Scheme of
+(New words and meanings—Scheme of
 Distribution of Deviates, Axis, Normal, Skew,
 Quartile, and Probable Error.)
 
@@ -3363,7 +3363,7 @@ express quasi-normal and skew curves. They
 require a previous knowledge of rather
 advanced mathematics.
 
-(New words and ideas--Curve of Frequency,
+(New words and ideas—Curve of Frequency,
 Standard Deviation, Mean, Binomial
 Series).
 -----File: p091.png--------------------------------------------------------
@@ -3396,9 +3396,9 @@ on paper ruled in squares, is easily explained
 on the blackboard (Fig. 9). The pairs of
 correlated values <i>A</i> and <i>B</i> have to be expressed
 in units of their respective variabilities. They
-are then sorted into the squares of the paper,--vertically
+are then sorted into the squares of the paper,—vertically
 according to the magnitudes of <i>A</i>,
-horizontally according to those of <i>B</i>--, and the
+horizontally according to those of <i>B</i>—, and the
 Mean of each partial array of <i>B</i> values,
 corresponding to each grade of <i>A</i>, has to be
 determined. It is found theoretically that
@@ -3428,13 +3428,13 @@ correlation is absolute, it is expressed by the
 number 1·0; and by 0·0, when the correlation
 is nil.
 
-(New words and ideas--Correlation and
+(New words and ideas—Correlation and
 Index of Correlation.)
 
 This concludes what I have to say on
 these suggested Object lessons. It will have
 been tedious to follow in its necessarily much
-compressed form,--but will serve, I trust, to
+compressed form,—but will serve, I trust, to
 convey its main purpose of showing that a
 very brief course of lessons, copiously illustrated
 by diagrams and objects to handle,
@@ -3615,7 +3615,7 @@ not one of the applauders would be
 disposed to emulate. It is instructive to
 observe cases in which the benevolence of
 public opinion has out-stripped that of the
-Law--which, for example, takes no notice of
+Law—which, for example, takes no notice of
 such acts as are enshrined in the parable of
 the good Samaritan. A man on his journey
 was robbed, wounded and left by the wayside.
@@ -3939,8 +3939,8 @@ I hesitate to speculate farther. A tree
 will have been planted; let it grow. Perhaps
 those who may thereafter feel themselves or
 be considered by others to be the possessors
-of notable eugenic qualities--let us for brevity
-call them "Eugenes"--will form their own
+of notable eugenic qualities—let us for brevity
+call them "Eugenes"—will form their own
 clubs and look after their own interests. It
 is impossible to foresee what the state of
 public opinion will then be. Many elements

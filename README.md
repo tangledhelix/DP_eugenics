@@ -53,6 +53,9 @@ PM messaged privately and suggested illos for f006, p072 are sufficient, includi
 
 Some tables use upward-opening braces, will need to determine how to render.  (p005, p014)
 
+- [ ] p093: output from rounds: `<i>se- cura</i>,`
+  - Posted in "No dumb questions" forum
+
 ### Proofer's notes ###
 
 Some numbers appear separated by a character similar to a mid-dot. There are proofer notes on p092 about this. I [posted in the forum][3] about it and one response suggested to use normal period (`.`) unless the entire book used this mid-dot as a decimal point. Looking further I located more, on p019. Nowhere in the text does a "normal" period appear in a number, so far as I see.

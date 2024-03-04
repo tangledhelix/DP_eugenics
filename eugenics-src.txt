@@ -6,29 +6,33 @@
 
 .dt Essays in eugenics. | Project Gutenberg
 
-
 .bn f001.png
 
+// height for decorators on title page
+.de .h1-decorator { height: 1em; }
 
+// use different versions for title here,
+// because of decorator images in HTML version
+.if t
+.h1
+ESSAYS IN EUGENICS.
+.if-
 
+.if h
+.h1
+<xxl>ESSAYS</xxl>||<xl>IN</xl>||<img class="h1-decorator" src="images/h1_decorator_left.png">\ \ <xxl>EUGENICS.</xxl>\ \ <img class="h1-decorator" src="images/h1_decorator_right.png">
+.if-
 
-/*
-ESSAYS
+.nf c
+<s>BY</s>
 
-IN
+<l>SIR FRANCIS GALTON, F.R.S.</l>
 
-[**decoration] EUGENICS. [**decoration]
+<l>London:</l>
+<l>THE EUGENICS EDUCATION SOCIETY.</l>
+<s>1909.</s>
+.nf-
 
-BY
-
-SIR FRANCIS GALTON, F.R.S.
-
-London:
-
-THE EUGENICS EDUCATION SOCIETY.
-
-1909.
-*/
 .bn f002.png
 .bn f003.png
 

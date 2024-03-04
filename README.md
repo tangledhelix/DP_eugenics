@@ -30,7 +30,7 @@ Nothing of note (last checked 19 Feb 2024).
 
 ### Illustrations ###
 
-- [ ] f001: small pair of decorations next to title (?)
+- [x] f001: small pair of decorations next to title
 - [ ] f006: entire page
 - [ ] p072: entire page
 

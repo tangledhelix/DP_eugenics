@@ -36,11 +36,8 @@ ESSAYS IN EUGENICS.
 .bn f002.png
 .bn f003.png
 
-
-
-
+.h2
 PREFACE.
-
 
 The following Essays are re-printed in
 the chronological order of their delivery.
@@ -101,11 +98,8 @@ their Publications.
 */
 .bn f005.png
 
-
-
-
+.h2
 CONTENTS.
-
 
 /*
       PAGE.
@@ -135,15 +129,17 @@ Eugenics</sc>      100
 .bn p001.png
 .pn 1
 
+.h2
+THE POSSIBLE IMPROVEMENT OF THE HUMAN BREED,
 
+.in +6
+.ll -6
 
+.ce
+<sc>Under the Existing Conditions of Law and Sentiment</sc>.[A]
 
-THE POSSIBLE IMPROVEMENT OF
-THE HUMAN BREED,
-
-<sc>Under the Existing Conditions of
-Law and Sentiment</sc>.[A]
-
+.in
+.ll
 
 In fulfilling the honourable charge that has
 been entrusted to me of delivering the Huxley
@@ -1370,11 +1366,8 @@ millions of the human race.
 .bn p035.png
 .pn +1
 
-
-
-
-EUGENICS: ITS DEFINITION, SCOPE
-AND AIMS.[A]
+.h2
+EUGENICS: ITS DEFINITION, SCOPE AND AIMS.[A]
 
 
 Eugenics is the science which deals with
@@ -1691,9 +1684,7 @@ not wholly foresee.
 .bn p044.png
 .pn +1
 
-
-
-
+.h2
 RESTRICTIONS IN MARRIAGE.[A]
 
 
@@ -2260,9 +2251,7 @@ without reservation.
 .bn p060.png
 .pn +1
 
-
-
-
+.h2
 STUDIES IN NATIONAL EUGENICS[A]
 
 
@@ -2481,9 +2470,8 @@ present embryonic condition of Eugenic study
 would be timely, and might prove very helpful
 to students.
 
-<sc>Mr. Galton’s Reply
-to remarks made during the discussion
-that followed.</sc>
+.h3 nobreak
+<sc>Mr. Galton’s Reply to remarks made during the discussion that followed.</sc>
 
 This Society has cause to congratulate
 itself on the zeal and energy which has
@@ -2620,11 +2608,8 @@ Eugenics can be safely framed.
 .bn p068.png
 .pn +1
 
-
-
-
-EUGENICS AS A FACTOR IN
-RELIGION.
+.h2
+EUGENICS AS A FACTOR IN RELIGION.
 
 
 Eugenics strengthens the sense of social
@@ -2722,11 +2707,8 @@ nature.
 .bn p073.png
 .pn +1
 
-
-
-
-PROBABILITY, THE FOUNDATION
-OF EUGENICS.[A]
+.h2
+PROBABILITY, THE FOUNDATION OF EUGENICS.[A]
 
 
 The request so honourable to myself, to
@@ -2772,7 +2754,7 @@ keenly perceive the same difference, and I
 lose much of that outspoken criticism which
 is an invaluable help to all who investigate.
 
-
+.h3 nobreak
 <sc>History of Eugenics.</sc>
 
 It must have surprised you as it did myself
@@ -3049,9 +3031,8 @@ fair share of good luck, this young Institution
 will prosper and grow into an important centre
 of research.
 
-
-<sc>Application of Theories of Probability
-to Eugenics.</sc>
+.h3 nobreak
+<sc>Application of Theories of Probability to Eugenics.</sc>
 
 Eugenics seeks for quantitative results. It
 is not contented with such vague words as
@@ -3119,9 +3100,8 @@ civic value, others the reverse, implies a huge
 volume of work sufficient to occupy Eugenics
 laboratories for an indefinite time.
 
-
-<sc>Object Lessons in the Methods of
-Biometry.</sc>
+.h3 nobreak
+<sc>Object Lessons in the Methods of Biometry.</sc>
 
 I propose now to speak of those fundamental
 principles of the laws of Probability
@@ -3477,9 +3457,8 @@ Eugenics. Further, that when read leisurely
 by experts in its printed form, it would give
 them sufficient guidance for elaborating details.
 
-
-<sc>Influence of Collective Truths
-upon Individual Conduct.</sc>
+.h3 nobreak
+<sc>Influence of Collective Truths upon Individual Conduct.</sc>
 
 We have thus far been concerned with
 Probability, determined by methods that take
@@ -3730,11 +3709,8 @@ physical and moral qualities of our race.
 .bn p100.png
 .pn +1
 
-
-
-
-LOCAL ASSOCIATIONS FOR
-PROMOTING EUGENICS[A]
+.h2
+LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS[A]
 
 
 I propose to take the present opportunity

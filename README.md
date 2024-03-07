@@ -36,9 +36,13 @@ Nothing of note (last checked 19 Feb 2024).
 
 ### Things to revisit ###
 
+#### Complex illos ####
+
 The illustrations on f006 and p072 are too complex to render to text. For that
 version, use the main caption. For HTML/Epub, use the image and the main
 caption.
+
+#### Complex tables ####
 
 There are fairly complex tables on a few pages.
 
@@ -51,12 +55,28 @@ There are fairly complex tables on a few pages.
 
 PM messaged privately and suggested illos for f006, p072 are sufficient, including text caption of the main caption for the table.
 
+#### Horizontal brackets in tables ####
+
 Some tables use upward-opening braces, will need to determine how to render.  (p005, p014)
 
-- [ ] p093: output from rounds: `<i>se- cura</i>,`
+Possible solution: Unicode. There are some characters to look into.
+- "Asian Vertical Brackets"
+    - TOP CURLY BRACKET U+23DE: ⏞
+    - BOTTOM CURLY BRACKET U+23DF: ⏟
+- "Vertical representation form"
+    - PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET U+FE37: ︷
+    - PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET U+FE38: ︸
+
+The first two are from the Misc. Technical block, but the second two are from the CJK Compatibility Forms block. So the first two are more generic and probably preferable.
+
+Posted in the forums on this question.
+
+#### Hyphenated word with embedded space ####
+
+- [x] p093: output from rounds: `<i>se- cura</i>,`
   - Posted in "No dumb questions" forum
   - Consensus is to leave the space
-  - Use a nbsp to keep wrapping sane
+  - Use a nbsp to keep wrapping from breaking at that space, to preserve its intentionality.
 
 ### Proofer's notes ###
 

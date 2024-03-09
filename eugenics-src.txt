@@ -251,7 +251,7 @@ rarely fall into that perfect symmetry about
 the mean value which is one of its consequences.
 Nevertheless, my conscience is
 clear in using this law in the way I am about
-to. I say that <i>if</i> certain qualities vary
+to. I say that <em>if</em> certain qualities vary
 normally, such and such will be the results;
 that these qualities are of a class that are
 found, whenever they have been tested, to
@@ -272,12 +272,12 @@ The value of this normal talent in
 respect to each and any specified quality or
 faculty is such that one-quarter of the people
 receive for their respective shares more than
-one normal-talent <i>over and above</i> the average
+one normal-talent <em>over and above</em> the average
 of all the shares. Our normal-talent is therefore
 identical with what is technically known
 as the “probable error.” Therefrom the
 whole of the following table starts into life,
-evolved from that of the “<i>probability integral</i>.”
+evolved from that of the “<em>probability integral</em>.”
 
 /#
 <sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
@@ -326,8 +326,8 @@ would become less and less trustworthy. The
 left half of the series exactly reflects the right
 half. As it will be useful henceforth to
 distinguish these classes, I have used the
-<i>capital</i> or large letters R, S, T, U, V, for those
-above mediocrity and corresponding <i>italic</i> or
+<em>capital</em> or large letters R, S, T, U, V, for those
+above mediocrity and corresponding <em>italic</em> or
 small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
@@ -372,7 +372,7 @@ just idea of the distribution throughout a
 population of each and every quality taken
 separately so far as it is normally distributed.
 As already mentioned, it does the same for
-<i>any</i> group of normal qualities; thus, if marks
+<em>any</em> group of normal qualities; thus, if marks
 for classics and for mathematics were severally
 normal in their distribution, the combined
 marks gained by each candidate in both those
@@ -628,7 +628,7 @@ Total 10,000 Fathers (or Mothers)                         |  34 168 | 655 | 1623
 --------------------------------------------------------------------------------------------------------------------------------
 */
 
-<i>Note.</i>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact
+<em>Note.</em>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact
 to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the
 classes being too few and too wide; theoretically they should be extremely numerous and narrow.
 
@@ -1128,7 +1128,7 @@ estimate. Perhaps the fairest approximation
 may be that these influences would cause
 the X women to bring into the world an
 average of one adult son and one adult
-daughter <i>in addition</i> to what they would
+daughter <em>in addition</em> to what they would
 otherwise have produced. The table of
 descent applies to one son or to one daughter
 per couple; it may now be read as specifying
@@ -1222,11 +1222,11 @@ made in 1808 alone, amounted to more than 3–1/2 millions of
 pounds. (Whitaker’s Almanack to 1909, p. 433).
 
 /#
-“It being far more humane to <i>prevent</i> suffering than to
-<i>alleviate</i> it after it has occurred, why will not charitably disposed
+“It being far more humane to <em>prevent</em> suffering than to
+<em>alleviate</em> it after it has occurred, why will not charitably disposed
 persons leave substantial sums of money to the furtherance of
 Eugenic Study and practice, and of popularising the result? The
-money would be well bestowed.” <i>Francis Galton, 1909.</i>
+money would be well bestowed.” <cite>Francis Galton, 1909.</cite>
 #/
 
 I learn on high legal authority that the form of bequest
@@ -1368,12 +1368,12 @@ human population, will alone be discussed
 here.
 
 What is meant by improvement? What
-by the syllable <i>Eu</i> in Eugenics, whose
-English equivalent is <i>good</i>? There is considerable
+by the syllable <em>Eu</em> in Eugenics, whose
+English equivalent is <em>good</em>? There is considerable
 difference between goodness in the
 several qualities and in that of the character
 as a whole. The character depends largely on
-the <i>proportion</i> between qualities whose balance
+the <em>proportion</em> between qualities whose balance
 may be much influenced by education. We
 must therefore leave morals as far as possible
 out of the discussion, not entangling ourselves
@@ -1480,7 +1480,7 @@ would itself have risen.
 The aim of Eugenics is to bring as many
 influences as can be reasonably employed, to
 cause the useful classes in the community to
-contribute <i>more</i> than their proportion to the
+contribute <em>more</em> than their proportion to the
 next generation.
 
 The course of procedure that lies within
@@ -1492,9 +1492,9 @@ be somewhat as follows:--
 laws of heredity so far as they are surely
 known, and promotion of their farther study.
 Few seem to be aware how greatly the knowledge
-of what may be termed the <i>actuarial</i> side
+of what may be termed the <em>actuarial</em> side
 of heredity has advanced in recent years.
-The <i>average</i> closeness of kinship in each
+The <em>average</em> closeness of kinship in each
 degree now admits of exact definition and of
 being treated mathematically, like birth and
 death-rates, and the other topics with which
@@ -1538,7 +1538,7 @@ with many domestic animals.
 3. Systematic collection of facts showing
 the circumstances under which large and
 thriving families have most frequently originated;
-in other words, the <i>conditions</i> of
+in other words, the <em>conditions</em> of
 Eugenics. The names of the thriving families
 .bn p040.png
 .pn +1
@@ -1569,7 +1569,7 @@ They should ask, at least in the first instance,
 only for as much information as could be
 easily, and would be readily, supplied by any
 member of the family appealed to. The point
-to be ascertained is the <i>status</i> of the two
+to be ascertained is the <em>status</em> of the two
 parents at the time of their marriage, whence
 its more or less eugenic character might have
 been predicted, if the larger knowledge that
@@ -1629,13 +1629,13 @@ would require a volume to describe.
 
 5. Persistence in setting forth the national
 importance of Eugenics. There are three
-stages to be passed through. <i>Firstly</i> it must
+stages to be passed through. <em>Firstly</em> it must
 be made familiar as an academic question,
 until its exact importance has been understood
-and accepted as a fact; <i>Secondly</i> it must
+and accepted as a fact; <em>Secondly</em> it must
 be recognised as a subject whose practical
 development deserves serious consideration;
-and <i>Thirdly</i> it must be introduced into the
+and <em>Thirdly</em> it must be introduced into the
 national conscience, like a new religion. It
 has, indeed, strong claims to become an
 orthodox religious tenet of the future, for
@@ -1720,9 +1720,9 @@ to investigate the subject further can
 easily do so by referring to standard works
 in anthropology, among the most useful of
 which, for the present purpose, are Frazer’s
-<i>Golden Bough</i>, Westermarck’s <i>History of
-Marriage</i>, Huth’s <i>Marriage of Near Kin</i>, and
-Crawley’s <i>Mystic Rose</i>.
+<cite>Golden Bough</cite>, Westermarck’s <cite>History of
+Marriage</cite>, Huth’s <cite>Marriage of Near Kin</cite>, and
+Crawley’s <cite>Mystic Rose</cite>.
 
 1. <sc>Monogamy.</sc> It is impossible to label
 mankind by one general term, either as
@@ -1780,8 +1780,8 @@ some of our English kings. Polygamy was
 openly introduced into Mormonism by
 Brigham Young, who left seventeen wives,
 and fifty-six children. He died in 1877;
-polygamy was suppressed soon after (<i>Encyc.
-Brit.</i>, xvi. 827.)
+polygamy was suppressed soon after (<cite>Encyc.
+Brit.</cite>, xvi. 827.)
 
 It is unnecessary for my present purpose
 to go further into the voluminous data connected
@@ -1800,7 +1800,7 @@ be hereafter enacted for Eugenic and other
 purposes.
 
 2. <sc>Endogamy</sc>, or the custom of marrying
-exclusively <i>within</i> one’s own tribe or caste,
+exclusively <em>within</em> one’s own tribe or caste,
 has been sanctioned by religion and enforced
 by law, in all parts of the world, but chiefly
 in long settled nations where there is wealth
@@ -1825,7 +1825,7 @@ once held by the Jews to dominate over
 .bn p048.png
 .pn +1
 individual preferences. The Mosaic law
-actually <i>compelled</i> a man to marry the widow
+actually <em>compelled</em> a man to marry the widow
 of his brother if he left no male issue.
 (Deuteron. xxv.) Should the brother refuse,
 “then shall his brother’s wife come unto him
@@ -1838,14 +1838,14 @@ in Israel the house of him that hath his shoe
 loosed.” The form of this custom survives to
 the present day and is fully described and
 illustrated under the article “Halizah” (=[**?] taking
-off, untying) in the <i>Jewish Cyclopædia</i>.
+off, untying) in the <cite>Jewish Cyclopædia</cite>.
 Jewish widows are now almost invariably remarried
 with this ceremony. They are as we
 might describe it, “given away” by a kinsman
 of the deceased husband, who puts on a shoe of
 an orthodox shape which is kept for the purpose,
 the widow unties the shoe, spits, but now on
-the <i>ground</i>, and repeats the specified words.
+the <em>ground</em>, and repeats the specified words.
 
 The duties attached to family property
 led to the history, which is very strange to the
@@ -1892,7 +1892,7 @@ law ever was.
 3. <sc>Exogamy</sc> is, or has been, as widely
 spread as the opposed rule of endogamy just
 described. It is the duty enforced by custom,
-religion, and law, of marrying <i>outside</i> one’s
+religion, and law, of marrying <em>outside</em> one’s
 own clan, and is usually in force amongst
 small and barbarous communities. Its
 .bn p050.png
@@ -1939,7 +1939,7 @@ The example is typical of those of
 many other tribes that differ in detail.
 
 A and B are two tribal classes; 1 and 2
-are two other and <i>independent</i> divisions of the
+are two other and <em>independent</em> divisions of the
 tribe (probably by totems). Any person, taken
 at random, is equally likely to have either
 letter or either numeral by birthright, and his
@@ -2056,15 +2056,15 @@ two, at a point not yet ascertained. (4) The
 harm due to continued interbreeding has been
 considered, as I think, without sufficient warrant,
 to cause a presumed strong natural and
-instinctive <i>repugnance</i> to the marriage of near
+instinctive <em>repugnance</em> to the marriage of near
 kin. The facts are that close and continued
 interbreeding invariably does harm after a few
 generations, but that a single cross with near
 kinsfolk is practically innocuous. Of course
 a sense of repugnance might become correlated
 with any harmful practice, but there is no
-evidence that it is <i>repugnance</i> with which interbreeding
-is correlated, but only <i>indifference</i>;
+evidence that it is <em>repugnance</em> with which interbreeding
+is correlated, but only <em>indifference</em>;
 this is equally effective in preventing it, but
 is quite another thing. (5) The strongest
 reason of all in civilised countries appears to
@@ -2244,7 +2244,7 @@ without reservation.
 STUDIES IN NATIONAL EUGENICS[A]
 
 
-It was stated in the <i>Times</i>, January, 26,
+It was stated in the <cite>Times</cite>, January, 26,
 1905, that at a meeting of the Senate of the
 University of London, Mr. Edgar Schuster,
 M.A., of New College, Oxford, was appointed
@@ -2558,7 +2558,7 @@ hereafter allowed to selective agencies than hitherto, the
 .pn +1
 /#
 portion of the offspring so selected would be better still.
-The influences that now <i>withstand</i> the free action of
+The influences that now <em>withstand</em> the free action of
 selective agencies are numerous, they include indiscriminate
 charity.
 
@@ -2777,7 +2777,7 @@ and again because I have had much to
 do with its progress quite recently.
 
 The word 'Eugenics’ was coined and used
-by me in my book <i>Human Faculty</i>, published
+by me in my book <cite>Human Faculty</cite>, published
 as long ago as 1883, which has long been out
 of print; it is, however, soon to be re-published
 in a cheap form.[A] In it I emphasized the
@@ -2906,7 +2906,7 @@ primarily on behalf of Biometry, but equally
 applicable to Eugenics, because their provinces
 overlap.
 
-The publication of <i>Biometrika</i>, in which
+The publication of <cite>Biometrika</cite>, in which
 I took little more than a nominal part,
 appeared in 1901.
 
@@ -2914,9 +2914,9 @@ Being myself appointed Huxley Lecturer
 before the Anthropological Institute in 1901 I
 took for my title 'The possible improvement
 of the Human Breed under the existing
-conditions of Law and Sentiment’ (<i>Nature</i>,
-November 1, 1901, <i>Report of the Smithsonian
-Institute, Washington</i>, for the same year, and
+conditions of Law and Sentiment’ (<cite>Nature</cite>,
+November 1, 1901, <cite>Report of the Smithsonian
+Institute, Washington</cite>, for the same year, and
 reprinted in this volume.)
 .bn p079.png
 .pn +1
@@ -2925,7 +2925,7 @@ The next and a very important step
 towards Eugenics was made by Professor
 Karl Pearson in his Huxley Lecture of 1903
 entitled 'The Laws of Inheritance in Man’
-(<i>Biometrika</i>, vol. iii). It contains a most
+(<cite>Biometrika</cite>, vol. iii). It contains a most
 valuable compendium of work achieved and
 of objects in view; also the following passage
 (p. 159), which is preceded by forcible reasons
@@ -2953,8 +2953,8 @@ in Marriage,’ 'Studies in National Eugenics,’
 and 'Eugenics as a factor in Religion,’ which
 were published in the Memoirs of that Society
 with comments thereon by more than
-twenty different authorities (<i>Sociological
-Papers</i>, published for the Sociological Society
+twenty different authorities (<cite>Sociological
+Papers</cite>, published for the Sociological Society
 (Macmillan), vols. i and ii. These are re-published
 here). The subject of Eugenics
 being thus formally launched, and the time
@@ -2997,7 +2997,7 @@ age and infirmities preclude me from
 .bn p081.png
 .pn +1
 giving. He will, I trust, treat it much as an
-<i>annexe</i> to his adjacent biometric laboratory,
+<em>annexe</em> to his adjacent biometric laboratory,
 for many studies in Eugenics might, with
 equal propriety, be carried on in either of them,
 and the same methods of precise analysis
@@ -3221,9 +3221,9 @@ will be one more side to the row of stalls than
 there are horses, otherwise a side of one of
 the extreme stalls would be wanting. Thus
 there are two ways of indicating the position
-of a particular variate, either by its <i>serial
-number</i> as 'first,’ 'second,’ 'third,’ or so on,
-or by <i>degrees</i> like those of a thermometer.
+of a particular variate, either by its <em>serial
+number</em> as 'first,’ 'second,’ 'third,’ or so on,
+or by <em>degrees</em> like those of a thermometer.
 In the latter case the sides of the stalls serve
 as degrees, counting the first of them as 0°,
 making one more graduation than the number
@@ -3295,7 +3295,7 @@ of strongly marked Skew curves would be
 exhibited and their genesis briefly described.
 
 It will then be explained that while the
-ordinate at <i>any</i> specified centesimal division
+ordinate at <em>any</em> specified centesimal division
 in two normal curves of deviation measures
 their relative variability, the Quartile is
 commonly employed as the unit of variability
@@ -3458,9 +3458,9 @@ action takes place is a superstructure into
 which emotion enters, we are guided on it less
 by Certainties and by Probabilities than by
 Assurance to a greater or lesser degree. The
-word Assurance is derived from <i>sure</i>, which
-itself is an abbreviation of <i>secure</i>, that is of
-<i>se-\ cura</i>, or without misgiving. It is a contented
+word Assurance is derived from <em>sure</em>, which
+itself is an abbreviation of <em>secure</em>, that is of
+<em>se-\ cura</em>, or without misgiving. It is a contented
 attitude of mind largely dependent on
 custom, prejudice, or other unreasonable influences
 which reformers have to overcome,
@@ -3474,7 +3474,7 @@ glasses.
 Locke seems to confound certainty with
 assurance in his forcible description of the
 way in which men are guided in their daily
-affairs (<i>Human Understanding</i>, iv. 14, par. 1):
+affairs (<cite>Human Understanding</cite>, iv. 14, par. 1):
 .bn p094.png
 .pn +1
 
@@ -3514,7 +3514,7 @@ Our own experience preaches.
 
 Professor Westermarck, among many other
 remarks in which I fully concur, has aptly
-stated (<i>Sociological Papers</i>, published for the
+stated (<cite>Sociological Papers</cite>, published for the
 Sociological Society. Macmillan, 1906, vol.
 ii., p. 24), with reference to one obstacle which
 prevents individuals from perceiving the importance
@@ -3525,7 +3525,7 @@ that almost anybody is good enough to marry
 is chiefly due to the fact that in this case,
 cause and effect, marriage and the feebleness
 of the offspring, are so distant from each other
-that the <i>near-sighted eye</i> does not distinctly
+that the <em>near-sighted eye</em> does not distinctly
 perceive the connexion between them.’ (The
 Italics are mine.)
 
@@ -3552,7 +3552,7 @@ of lovers, and so is public opinion.
 I gave a list of extraordinary variations of the
 latter in respect to restrictions it enforced on
 the freedom of marriage, at various times and
-places (<i>Sociological Papers</i>, quoted above).
+places (<cite>Sociological Papers</cite>, quoted above).
 Much could be added to that list, but I will
 .bn p096.png
 .pn +1
@@ -3636,9 +3636,9 @@ misadventure due to the neglect of a definite
 duty, but careless about those due to the
 absence of common philanthropy. Its callousness
 in this respect is painfully shown in
-the following quotations (Kenny, <i>Outlines of
-Criminal Law</i>, 1902, p. 121, per Hawkins in
-Reg. v. Paine, <i>Times</i>, February 25, 1880):
+the following quotations (Kenny, <cite>Outlines of
+Criminal Law</cite>, 1902, p. 121, per Hawkins in
+Reg. v. Paine, <cite>Times</cite>, February 25, 1880):
 
 /#
 If I saw a man who was not under my charge,
@@ -3651,7 +3651,7 @@ That is probably what the priest and the
 Levite of the parable said to themselves.
 
 A still more emphatic example is in the
-<i>Digest of Criminal Law</i>, by Justice Sir James
+<cite>Digest of Criminal Law</cite>, by Justice Sir James
 Stephen, 1887, p. 154. Reg. v. Smith, 2 C.
 and P., 449:
 
@@ -3933,8 +3933,8 @@ offered to them, and much discretion in
 keeping discussions within the bounds of
 sobriety and common sense. The basis of
 eugenics is already firmly established, namely,
-that the offspring of “worthy” parents are, <i>on
-the whole</i>, more highly gifted by nature with
+that the offspring of “worthy” parents are, <em>on
+the whole</em>, more highly gifted by nature with
 faculties that conduce to “worthiness” than
 the offspring of less “worthy” parents. On
 the other hand, forecasts in respect to

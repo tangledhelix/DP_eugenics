@@ -93,9 +93,9 @@ Oxford, for permission to reprint those among
 the following essays that first appeared in
 their Publications.
 
-/*
+.rj
 <sc>Francis Galton.</sc>
-*/
+
 .bn f005.png
 
 .h2
@@ -1199,9 +1199,9 @@ fourteen million pounds, a sum which Sir H.
 Burdett asserts on good grounds is by no
 means the maximum obtainable.[A]
 
-/*
+.rj
 (“Hospitals and Charities,” 1898, p. 85.)
-*/
+
 
 There are other activities long since
 existing which might well be extended. I
@@ -1603,12 +1603,16 @@ remarks of Lord Bacon in his essay on Death
 may appropriately be quoted here. He says
 with the view of minimising its terrors:
 
-/#
+.in +4
+.ll -4
+.fs 85%
 “There is no passion in the mind of men so weak
 but it mates and masters the fear of death.\ -\ Revenge
 triumphs over death; love slights it; honour aspireth to
 it; grief flyeth to it; fear pre-occupateth it.”
-#/
+.fs
+.in
+.ll
 
 Exactly the same kind of considerations
 apply to marriage. The passion of love seems so
@@ -2275,16 +2279,16 @@ of London), Clare Market, W.C., on Tuesday, February
 .bn p061.png
 .pn +1
 
-
-I. Estimation of the average quality of[**F2:following RN-numbered headings set up differently; formatted all as Section headings for consistency]
-the offspring of married couples, from
-their personal and ancestral data. This includes
-questions of fertility, and the determination
-of the “probable error” of the
-estimate for individuals, according to the data
+.h3 nobreak align=l
+I. Estimation of the average quality of\
+the offspring of married couples, from\
+their personal and ancestral data. This includes\
+questions of fertility, and the determination\
+of the “probable error” of the\
+estimate for individuals, according to the data\
 employed.
 
-/#
+
 (<i>a</i>) “Biographical Index to Gifted Families,”
 modern and recent, for publication. It might be drawn
 up on the same principle as my “Index to Achievements
@@ -2320,15 +2324,15 @@ material that the authorities would not object to give,
 and whose discussion might be advantageous to themselves
 as well as to Eugenics. The matter is now under
 consideration, so more cannot be said.
-#/
+
 .bn p062.png
 .pn +1
 
-
-II. Effects of action by the State and
+.h3 nobreak align=l
+II. Effects of action by the State and\
 by Public Institutions.
 
-/#
+
 (<i>f</i>) Habitual criminals. Public opinion is beginning
 to regard with favour the project of a prolonged segregation
 of habitual criminals, for the purpose of
@@ -2355,13 +2359,13 @@ is complex and needs investigation.
 There is good reason to believe that the effects of
 indiscriminate charity are notably non-eugenic. This
 topic affords a wide field for inquiry.
-#/
 
 
-III. Other influences that further or
+.h3 nobreak align=l
+III. Other influences that further or\
 restrain particular classes of marriage.
 
-/#
+
 The instances are numerous in recent times in
 which social influences have restrained or furthered
 freedom of marriage. A judicious selection of these
@@ -2373,12 +2377,13 @@ the dominant power of religion, law and custom. This
 will suggest the sort of work now in view, where less
 powerful influences have produced statistical effects of
 appreciable amount.
-#/
+
 .bn p063.png
 .pn +1
 
-
+.h3 nobreak align=l
 IV. Heredity.
+
 
 The facts after being collected are to be discussed,
 for improving our knowledge of the laws both actuarial
@@ -2396,7 +2401,7 @@ men. Eurasians have by this time intermarried during
 three consecutive generations in sufficient numbers to
 yield trustworthy results.
 
-
+.h3 nobreak align=l
 V. Literature.
 
 A vast amount of material that bears on Eugenics
@@ -2407,7 +2412,7 @@ from time to time. The experiences of breeders of stock
 of all kinds, and those of horticulturists, fall within this
 category.
 
-
+.h3 nobreak align=l
 VI. Co-operation.
 
 After good work shall have been done and become
@@ -2418,7 +2423,7 @@ but every good opportunity should be seized to further
 co-operation, as well as the knowledge and application of
 Eugenics.
 
-
+.h3 nobreak align=l
 VII. Certificates.
 
 In some future time, dependent on circumstances,
@@ -2429,7 +2434,6 @@ least goodness of constitution, of physique, and of
 mental capacity. Examinations upon which such certificates
 .bn p064.png
 .pn +1
-/#
 might be granted are already carried on, but
 separately; some by the medical advisers of
 insurance offices, some by medical men as to
@@ -2444,7 +2448,8 @@ of those qualities, it follows that a moderate severity of
 selection in each of a few particulars would lead to a
 severe all-round selection. It is not necessary to pursue
 this further.
-#/
+
+.tb
 
 The above brief memorandum does not
 profess to deal with more than the pressing
@@ -2500,17 +2505,17 @@ guidance of what I called “immaterial
 motives.” This is all I had in view when
 writing it.
 
-/#
+.in +4
+.ll -4
+.fs 85%
 <i>Certificates.</i>—One of the comments on which I will
 remark is that if certificates were now offered to those
 who passed certain examinations into health, physique,
 moral and intellectual powers, and hereditary gifts,
 great mistakes would be made by the examiners. I
 fully agree that it is too early to devise a satisfactory
-#/
 .bn p066.png
 .pn +1
-/#
 system of marks for giving what might be styled
 “honour-certificates,” because we do not yet possess
 sufficient data to go upon. On the other hand there are
@@ -2553,10 +2558,8 @@ The law of “regression towards mediocrity” insures
 that their offspring as a whole, will be superior to themselves,
 and if as I sincerely hope, a freer action will be
 hereafter allowed to selective agencies than hitherto, the
-#/
 .bn p067.png
 .pn +1
-/#
 portion of the offspring so selected would be better still.
 The influences that now <em>withstand</em> the free action of
 selective agencies are numerous, they include indiscriminate
@@ -2581,7 +2584,9 @@ in checking the marriages she considers indiscreet.
 <i>Eugenics as a factor in religion.</i>—Remarks have been
 made concerning eugenics as a religion; this will be the
 subject of the brief memoir that follows these remarks.
-#/
+.fs
+.ll
+.in
 
 It is much to be desired that competent
 persons would severally take up one or other
@@ -2831,7 +2836,8 @@ ten consecutive lines from the speech of the
 fallen Oceanus to his comrades, which give
 a summary of evolution as here described:
 
-/*
+.fs 85%
+.nf b
 As Heaven and Earth are fairer, fairer far
 Than Chaos and black Darkness, though once chiefs,
 And as we show beyond that Heaven and Earth
@@ -2842,7 +2848,8 @@ So on our heels a fresh perfection treads
 A power more strong in beauty, born of us
 And fated to excel us, as we pass
 In glory that old Darkness.
-*/
+.nf-
+.fs
 .bn p077.png
 .pn +1
 
@@ -2931,7 +2938,9 @@ of objects in view; also the following passage
 (p. 159), which is preceded by forcible reasons
 for his conclusions:
 
-/#
+.in +4
+.ll -4
+.fs 85%
 We are ceasing as a nation to breed intelligence as
 we did fifty to a hundred years ago. The mentally
 better stock in the nation is not reproducing itself at the
@@ -2942,7 +2951,9 @@ up, in the scale of intelligence, hereditary weakness to
 the level of hereditary strength. The only remedy, if
 one be possible at all, is to alter the relative fertility of
 the good and the bad stocks in the community.
-#/
+.fs
+.ll
+.in
 
 Again in 1904, having been asked by the
 newly-formed Sociological Society to contribute
@@ -3478,7 +3489,9 @@ affairs (<cite>Human Understanding</cite>, iv. 14, par. 1):
 .bn p094.png
 .pn +1
 
-/#
+.in +4
+.ll -4
+.fs 85%
 Man would be at a great loss if he had nothing to
 direct him but what has the certainty of true knowledge.
 For that being very short and scanty, he would be
@@ -3489,7 +3502,9 @@ will not eat till he has demonstration that it will nourish
 him, he that will not stir till he infallibly knows the
 business he goes about will succeed, will have little else
 to do than to sit still and perish.
-#/
+.fs
+.ll
+.in
 
 A society may be considered as a highly
 complex organism, with a consciousness of
@@ -3505,12 +3520,14 @@ Eugenics. Otherwise the influence of collective
 truths on individual conduct is deplorably
 weak, as expressed by the lines:--
 
-/*
+.fs 85%
+.nf b
 For others’ follies teach us not,
 Nor much their wisdom teaches,
 But chief of solid worth is what
 Our own experience preaches.
-*/
+.nf-
+.fs
 
 Professor Westermarck, among many other
 remarks in which I fully concur, has aptly
@@ -3598,14 +3615,18 @@ yet that custom was rather suddenly introduced
 into Greece. Plato says (Republic V,
 par. 452, Jowett’s translation):
 
-/#
+.in +4
+.ll -4
+.fs 85%
 Not long ago the Greeks were of the opinion,
 which is still generally received among the barbarians,
 that the sight of a naked man was ridiculous and
 improper, and when first the Cretans and the Lacedaemonians
 introduced naked exercises, the wits of that
 day might have ridiculed them....
-#/
+.fs
+.ll
+.in
 
 Thucydides (I. 6) also refers to the same
 change as occurring 'quite lately’.
@@ -3640,12 +3661,16 @@ the following quotations (Kenny, <cite>Outlines of
 Criminal Law</cite>, 1902, p. 121, per Hawkins in
 Reg. v. Paine, <cite>Times</cite>, February 25, 1880):
 
-/#
+.in +4
+.ll -4
+.fs 85%
 If I saw a man who was not under my charge,
 taking up a tumbler of poison, I should not be guilty of
 any crime by not stopping him. I am under no legal
 obligation to protect a stranger.
-#/
+.fs
+.ll
+.in
 
 That is probably what the priest and the
 Levite of the parable said to themselves.
@@ -3655,12 +3680,16 @@ A still more emphatic example is in the
 Stephen, 1887, p. 154. Reg. v. Smith, 2 C.
 and P., 449:
 
-/#
+.in +4
+.ll -4
+.fs 85%
 <i>A</i> sees <i>B</i> drowning and is able to help him by
 holding out his hand. <i>A</i> abstains from doing so in order
 that <i>B</i> may be drowned, and <i>B</i> is drowned. <i>A</i> has
 committed no offence.
-#/
+.fs
+.ll
+.in
 
 It appears, from a footnote, that this case
 has been discussed in a striking manner by

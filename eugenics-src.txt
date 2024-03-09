@@ -101,28 +101,17 @@ their Publications.
 .h2
 CONTENTS.
 
-/*
-      PAGE.
+.ta rt:4 h:60 rb:5 w=none bl=y
+<th> | | <al=c>PAGE.
+I.   | <sc>The Possible Improvement of the Human Breed under existing Conditions of Law and Sentiment</sc> | #1#
+II.  | <sc>Eugenics, its Definition, Scope, and Aims</sc> | #35#
+III. | <sc>Restrictions in Marriage</sc> | #44#
+IV.  | <sc>Studies in National Eugenics</sc> | #60#
+V.   | <sc>Eugenics as a Factor in Religion</sc> | #68#
+VI.  | <sc>Probability, the Foundation of Eugenics</sc> | #73#
+VII. | <sc>Local Associations for Promoting Eugenics</sc> | #100#
+.ta-
 
-I. <sc>The Possible Improvement of the
-Human Breed under existing
-Conditions of Law and Sentiment</sc>      1
-
-II. <sc>Eugenics, its Definition, Scope, and
-Aims</sc>      35
-
-III. <sc>Restrictions in Marriage</sc>      44
-
-IV. <sc>Studies in National Eugenics</sc>      60
-
-V. <sc>Eugenics as a Factor in Religion</sc>      68
-
-VI. <sc>Probability, the Foundation of
-Eugenics</sc>      73
-
-VII. <sc>Local Associations for Promoting
-Eugenics</sc>      100
-*/
 .bn f006.png
 
 [Illustration: STANDARD SCHEME OF DESCENT]

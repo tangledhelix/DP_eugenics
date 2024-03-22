@@ -125,7 +125,7 @@ THE POSSIBLE IMPROVEMENT OF THE HUMAN BREED,
 .ll -6
 
 .ce
-<sc>Under the Existing Conditions of Law and Sentiment</sc>.[A]
+<sc>Under the Existing Conditions of Law and Sentiment</sc>.[#]
 
 .in
 .ll
@@ -151,10 +151,6 @@ and on “Natural Inheritance.” My subject
 will be the possible improvement of the human
 race under the existing conditions of law and
 sentiment. It has not hitherto been approached
-
-[Footnote A: The second Huxley Lecture of the Anthropological Institute,
-delivered by Francis Galton, D.C.L., D.Sc., F.R.S., on October
-29, 1901.]
 .bn p002.png
 .pn +1
 along the ways that recent knowledge
@@ -178,6 +174,12 @@ less of the conditions upon which success
 depends than we might and ought to ascertain.
 The limits of our knowledge and of our
 ignorance will become clearer as we proceed.
+
+.fn #
+The second Huxley Lecture of the Anthropological Institute,
+delivered by Francis Galton, D.C.L., D.Sc., F.R.S., on October
+29, 1901.
+.fn-
 
 <i>Human Variety.</i>—The natural character
 and faculties of human beings differ at least
@@ -1197,7 +1199,7 @@ in the British Isles to public charities
 alone amount, on the lowest computation, to
 fourteen million pounds, a sum which Sir H.
 Burdett asserts on good grounds is by no
-means the maximum obtainable.[A]
+means the maximum obtainable.[#]
 
 .rj
 (“Hospitals and Charities,” 1898, p. 85.)
@@ -1216,26 +1218,6 @@ The number of men who have owed their
 start in a successful life to help of this kind
 must have struck every reader of biographies.
 This relationship of befriender and befriended
-
-[Footnote A: The 80 charitable bequests of and exceeding £9000,
-made in 1808 alone, amounted to more than 3–1/2 millions of
-pounds. (Whitaker’s Almanack to 1909, p. 433).
-
-/#
-“It being far more humane to <em>prevent</em> suffering than to
-<em>alleviate</em> it after it has occurred, why will not charitably disposed
-persons leave substantial sums of money to the furtherance of
-Eugenic Study and practice, and of popularising the result? The
-money would be well bestowed.” <cite>Francis Galton, 1909.</cite>
-#/
-
-I learn on high legal authority that the form of bequest
-which would be most appropriate in present circumstances, and be
-free from the pit-falls that lie in the way of charitable bequests,
-is “I bequeath to my trusted friend A.B., of ....., absolutely,
-the sum of £...... in the hope and confidence that he will apply
-the same in furtherance of Eugenic Study and practice, but without
-imposing on him any trust or legal obligation so to do.” F.G.]
 .bn p031.png
 .pn +1
 is hardly to be expressed in English by a
@@ -1258,6 +1240,26 @@ is one in which each party may well take pride
 and I feel sure that if its value were more
 widely understood it would become commoner
 than it is.
+
+.fn #
+The 80 charitable bequests of and exceeding £9000,
+made in 1808 alone, amounted to more than 3–1/2 millions of
+pounds. (Whitaker’s Almanack to 1909, p. 433).
+
+“It being far more humane to <em>prevent</em> suffering than to
+<em>alleviate</em> it after it has occurred, why will not charitably disposed
+persons leave substantial sums of money to the furtherance of
+Eugenic Study and practice, and of popularising the result? The
+money would be well bestowed.” <cite>Francis Galton, 1909.</cite>
+
+I learn on high legal authority that the form of bequest
+which would be most appropriate in present circumstances, and be
+free from the pit-falls that lie in the way of charitable bequests,
+is “I bequeath to my trusted friend A.B., of ....., absolutely,
+the sum of £...... in the hope and confidence that he will apply
+the same in furtherance of Eugenic Study and practice, but without
+imposing on him any trust or legal obligation so to do.” F.G.
+.fn-
 
 Many degrees may be imagined that lie
 between mere befriendment and actual
@@ -1352,11 +1354,12 @@ than to our own, for we plant our stock all
 over the world and lay the foundation of
 the dispositions and capacities of future
 millions of the human race.
+
 .bn p035.png
 .pn +1
 
 .h2
-EUGENICS: ITS DEFINITION, SCOPE AND AIMS.[A]
+EUGENICS: ITS DEFINITION, SCOPE AND AIMS.[#]
 
 
 Eugenics is the science which deals with
@@ -1384,15 +1387,6 @@ of character is not absolute, but relative to
 the current form of civilisation. A fable will
 best explain what is meant. Let the scene be
 the Zoological Gardens in the quiet hours of
-
-[Footnote A:
-
-/#
-Read before the Sociological Society at a Meeting in the School of
-Economics and Political Science (London University), on May
-16th, 1904. Professor <sc>Karl Pearson</sc>, F.R.S., in the chair.
-#/
-]
 .bn p036.png
 .pn +1
 the night, and suppose that, as in old fables, the
@@ -1432,6 +1426,12 @@ is to represent each class or sect by its best
 .pn +1
 specimens; that done, to leave them to work
 out their common civilisation in their own way.
+
+.fn #
+Read before the Sociological Society at a Meeting in the School of
+Economics and Political Science (London University), on May
+16th, 1904. Professor <sc>Karl Pearson</sc>, F.R.S., in the chair.
+.fn-
 
 A considerable list of qualities can be easily
 compiled that nearly every one except “cranks”
@@ -1674,11 +1674,12 @@ study. Then let its principles work into the
 heart of the nation, who will gradually give
 practical effect to them in ways that we may
 not wholly foresee.
+
 .bn p044.png
 .pn +1
 
 .h2
-RESTRICTIONS IN MARRIAGE.[A]
+RESTRICTIONS IN MARRIAGE.[#]
 
 
 It is proposed in the following remarks to
@@ -1707,16 +1708,6 @@ seen that with scant exceptions they are based
 on social expediency, and not on natural instincts.
 Each of the following paragraphs
 might have been expanded into a long chapter
-
-[Footnote A:
-
-/#
-Read before the Sociological Society, on Tuesday, February 14th,
-at a meeting in the School of Economics and Political
-Science (University of London), Clare Market, W.C., Dr. <sc>E.
-Westermarck</sc> in the Chair.
-#/
-]
 .bn p045.png
 .pn +1
 had that seemed necessary. Those who desire
@@ -1727,6 +1718,13 @@ which, for the present purpose, are Frazer’s
 <cite>Golden Bough</cite>, Westermarck’s <cite>History of
 Marriage</cite>, Huth’s <cite>Marriage of Near Kin</cite>, and
 Crawley’s <cite>Mystic Rose</cite>.
+
+.fn #
+Read before the Sociological Society, on Tuesday, February 14th,
+at a meeting in the School of Economics and Political
+Science (University of London), Clare Market, W.C., Dr. <sc>E.
+Westermarck</sc> in the Chair.
+.fn-
 
 1. <sc>Monogamy.</sc> It is impossible to label
 mankind by one general term, either as
@@ -2241,11 +2239,12 @@ language, which good men who take their
 part in the work of the world, and who know
 the dangers of sentimentalism, may pursue
 without reservation.
+
 .bn p060.png
 .pn +1
 
 .h2
-STUDIES IN NATIONAL EUGENICS[A]
+STUDIES IN NATIONAL EUGENICS[#]
 
 
 It was stated in the <cite>Times</cite>, January, 26,
@@ -2271,13 +2270,15 @@ lies in its giving a general outline of what,
 according to my present view, requires careful
 investigation, of course not all at once, but
 step by step, at possibly long intervals.
-
-[Footnote A: Communicated at a meeting of the Sociological Society held in
-the School of Economics and Political Science (University
-of London), Clare Market, W.C., on Tuesday, February
-14th, at 4 p.m.]
 .bn p061.png
 .pn +1
+
+.fn #
+Communicated at a meeting of the Sociological Society held in
+the School of Economics and Political Science (University
+of London), Clare Market, W.C., on Tuesday, February
+14th, at 4 p.m.
+.fn-
 
 .h3 nobreak align=l
 I. Estimation of the average quality of\
@@ -2599,6 +2600,7 @@ my opinion that an immense
 amount of investigation has to be accomplished
 before a definite system of
 Eugenics can be safely framed.
+
 .bn p068.png
 .pn +1
 
@@ -2698,11 +2700,12 @@ nature.
 .pn +1
 
 [Illustration: <sc><i>Illustrations of the Herbert Spencer Lecture 1907.</i></sc>]
+
 .bn p073.png
 .pn +1
 
 .h2
-PROBABILITY, THE FOUNDATION OF EUGENICS.[A]
+PROBABILITY, THE FOUNDATION OF EUGENICS.[#]
 
 
 The request so honourable to myself, to
@@ -2729,9 +2732,6 @@ strolling into an adjoining compartment for a
 game of billiards when the table was free.
 Day after day on those afternoons I enjoyed
 brief talks with him, which were often of
-
-[Footnote A: The Herbert Spencer Lecture delivered before the University
-at Oxford, June 5th, 1907.]
 .bn p074.png
 .pn +1
 exceptional interest to myself. All that kind
@@ -2747,6 +2747,11 @@ it seems to me that my much younger friends
 keenly perceive the same difference, and I
 lose much of that outspoken criticism which
 is an invaluable help to all who investigate.
+
+.fn #
+The Herbert Spencer Lecture delivered before the University
+at Oxford, June 5th, 1907.
+.fn-
 
 .h3 nobreak
 <sc>History of Eugenics.</sc>
@@ -2785,7 +2790,7 @@ The word 'Eugenics’ was coined and used
 by me in my book <cite>Human Faculty</cite>, published
 as long ago as 1883, which has long been out
 of print; it is, however, soon to be re-published
-in a cheap form.[A] In it I emphasized the
+in a cheap form.[#] In it I emphasized the
 essential brotherhood of mankind, heredity
 being to my mind a very real thing; also the
 belief that we are born to act, and not to wait
@@ -2806,8 +2811,6 @@ in increasing energy and co-adaptation.
 I have often wondered that the poem of
 Hyperion, by Keats—that magnificent torso
 of an incompleted work—has not been placed
-
-[Footnote A: Dent’s “Everyman’s Library,” price One Shilling.]
 .bn p076.png
 .pn +1
 in the very forefront of past speculations on
@@ -2835,6 +2838,10 @@ reminder to those who know it, but will add
 ten consecutive lines from the speech of the
 fallen Oceanus to his comrades, which give
 a summary of evolution as here described:
+
+.fn #
+Dent’s “Everyman’s Library,” price One Shilling.
+.fn-
 
 .fs 85%
 .nf b
@@ -3724,11 +3731,12 @@ then, and not till then, will be the fit moment
 to proclaim a 'Jehad,’ or Holy War against
 customs and prejudices that impair the
 physical and moral qualities of our race.
+
 .bn p100.png
 .pn +1
 
 .h2
-LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS[A]
+LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS[#]
 
 
 I propose to take the present opportunity
@@ -3757,9 +3765,6 @@ The remarks I am about to make were
 suggested by hearing of a desire to further
 eugenics by means of local associations more
 or less affiliated to our own, combined with
-
-[Footnote A: Address to a meeting of the Eugenics Education Society
-at the Grafton Galleries, on October 14th, 1908.]
 .bn p101.png
 .pn +1
 much doubt as to the most appropriate
@@ -3767,6 +3772,11 @@ methods of establishing and conducting them.
 It is upon this very important branch of our
 wide subject that I propose to offer a few
 remarks.
+
+.fn #
+Address to a meeting of the Eugenics Education Society
+at the Grafton Galleries, on October 14th, 1908.
+.fn-
 
 It is difficult, while explaining what I
 have in view, to steer a course that shall keep
@@ -4067,3 +4077,5 @@ upon compassion might be persuaded to give
 largely also in response to the more virile
 desire of promoting the natural gifts and the
 national efficiency of future generations.
+
+.fm lz=th

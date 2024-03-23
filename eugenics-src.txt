@@ -285,28 +285,6 @@ identical with what is technically known
 as the “probable error.” Therefrom the
 whole of the following table starts into life,
 evolved from that of the “<em>probability integral</em>.”
-
-/#
-<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
-per <i>ten-thousand and to the nearest</i>
-per <i>hundred.)</i>
-#/
-
-/*
----------------------------------------------------------
-                         M
-       |–4°|–3°| –2°| –1°| +1°| +2°|+3°|+4°|      |
--------+---+---+----+----+----+----+---+---+------+
-<i>v</i> and|<i>u</i>|<i>t</i>|<i>s</i> |<i>r</i> |R   |S   |T  |U  |V and |Total
-  below|   |   |    |    |    |    |   |   |above.|
--------+---+---+----+----+----+----+---+---+------+------
-     35|180|672|1613|2500|2500|1613|672|180|    35|10,000
-  [**brace]|   |    |    |    |    |   |[**brace] |
-       2   |  7|  16|  25|  25|  16|  7|   2      |   100
--------+---+---+----+----+----+----+---+---+------+------
-*/
-
-.ti 0
 It expresses the distribution of any normal
 quality, or any group of normal qualities,
 among 10,000 persons in terms of the
@@ -339,6 +317,26 @@ above mediocrity and corresponding <em>italic</em> or
 small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
+
+/#
+<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
+per <i>ten-thousand and to the nearest</i>
+per <i>hundred.)</i>
+#/
+
+/*
+---------------------------------------------------------
+                         M
+       |–4°|–3°| –2°| –1°| +1°| +2°|+3°|+4°|      |
+-------+---+---+----+----+----+----+---+---+------+
+<i>v</i> and|<i>u</i>|<i>t</i>|<i>s</i> |<i>r</i> |R   |S   |T  |U  |V and |Total
+  below|   |   |    |    |    |    |   |   |above.|
+-------+---+---+----+----+----+----+---+---+------+------
+     35|180|672|1613|2500|2500|1613|672|180|    35|10,000
+  [**brace]|   |    |    |    |    |   |[**brace] |
+       2   |  7|  16|  25|  25|  16|  7|   2      |   100
+-------+---+---+----+----+----+----+---+---+------+------
+*/
 
 In the lowest line the same values are
 given, but more roughly, to the nearest whole
@@ -424,7 +422,13 @@ therefore include the whole of <i>v</i> and spread
 upwards into the <i>u</i>. His class B consists of
 very poor persons who subsist on casual
 .bn p009.png
-.pn +1
+.bn p010.png
+.pn +2
+earnings, many of whom are inevitably poor
+from shiftlessness, idleness or drink. The
+numbers in this and the A class combined
+closely correspond with those in <i>t</i> and all
+below <i>t</i>.
 
 <sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London
 with the Normal Classes.</i>
@@ -453,14 +457,6 @@ Nos. |  Mr. Booth’s classes.                         | Approx. | Resorted. | A
 The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s
 and in the Normal Classes.
 */
-
-.bn p010.png
-.pn +1
-earnings, many of whom are inevitably poor
-from shiftlessness, idleness or drink. The
-numbers in this and the A class combined
-closely correspond with those in <i>t</i> and all
-below <i>t</i>.
 
 Class C are supported by intermittent
 earnings; they are a hard-working people, but
@@ -597,11 +593,6 @@ but will simply suppose that each parentage
 produces one couplet of grown-up filials, an
 adult man and an adult woman.
 
-The result is shown to the nearest whole
-per thousand in the table up to “V and above,”
-.bn p014.png
-.pn +1
-
 <sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between
 the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
 
@@ -640,8 +631,11 @@ Total 10,000 Fathers (or Mothers)                         |  34 168 | 655 | 1623
 to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the
 classes being too few and too wide; theoretically they should be extremely numerous and narrow.
 
+The result is shown to the nearest whole
+per thousand in the table up to “V and above,”
+.bn p014.png
 .bn p015.png
-.pn +1
+.pn +2
 to the nearest ten thousands. They may be
 read either as applying to fathers and their
 sons when adult, or to mothers and their

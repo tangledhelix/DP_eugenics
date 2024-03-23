@@ -780,28 +780,52 @@ higher class on only one side.
 .bn p019.png
 .pn +1
 
-/#
+.sp 1
+
 <sc>Table IV.</sc>—<i>Distribution of sons. (1) One
 parent of class V., the other unknown.
 (2) Both parents of class
 V (from Table II., with decimal
 point and an 0).</i>
-#/
 
-/*
---------------+-------------------------------------------------+-------
-              |               Distribution of Sons              |
---------------+-----+-----+-----+-----+-----+------+------+-----+ Total
-              |  <i>t</i>  |  <i>s</i>  |  <i>r</i>  |  R  |  S  |  T   |   U  |  V  |
---------------+-----+-----+-----+-----+-----+------+------+-----+-------
-One V-parent  | 0·3 | 1·2 | 3·5 | 7·9 | 9·6 |  7·5 |  3·6 | 1·3 | 34·3
-              |     |     |     |     |     |      |      |     |
-Two V-parents |     |     |     | 3·0 | 5·0 | 10·0 | 10·0 | 6·0 | 34·0
---------------+-----+-----+-----+-----+-----+------+------+-----+-------
+.if t
+.nf
+──────────────┬─────────────────────────────────────────────────┬──────
+              │               Distribution of Sons              │
+              ├─────┬─────┬─────┬─────┬─────┬──────┬──────┬─────┤ Total
+              │ <i>t</i> │ <i>s</i> │ <i>r</i> │  R  │  S  │  T   │  U   │  V  │
+──────────────┼─────┼─────┼─────┼─────┼─────┼──────┼──────┼─────┼──────
+One V-parent  │ 0·3 │ 1·2 │ 3·5 │ 7·9 │ 9·6 │  7·5 │  3·6 │ 1·3 │ 34·3
+              │     │     │     │     │     │      │      │     │
+Two V-parents │     │     │     │ 3·0 │ 5·0 │ 10·0 │ 10·0 │ 6·0 │ 34·0
+──────────────┴─────┴─────┴─────┴─────┴─────┴──────┴──────┴─────┴──────
+.nf-
+.if-
 
-Position of the filial centre of (1) = 1·44, of (2) 2·89. When
+.if h
+.sr h ~(<td.*?)>%%rs=(.)~\1 rowspan="\2">~ // turn %%rs= into a rowspan specification for HTML
+.sr h ~<td .*?>%%dc</td>~~  // for HTML, remove the cell covered by the rowspan of the cell above it
+
+.sp 1
+
+.ta lb:14 |cb:4 |cb:4 |cb:4 |cb:4 |cb:4 |cb:4 |cb:4 |cb:4 |cm:5 w=none
+_
+%%rs=2|<al=c>Distribution of Sons|<span>|<span>|<span>|<span>|<span>|<span>|<span>|%%rs=2Total
+_
+%%dc|<i>t</i>|<i>s</i>|<i>r</i>|R|S|T|U|V|%%dc
+_
+One V-parent|0·3|1·2|3·5|7·9|9·6|7·5|3·6|1·3|34·3
+Two V-parents||||3·0|5·0|10·0|10·0|6·0|34·0
+_
+.ta-
+.if-
+
+.fs 80%
+Position of the filial centre of (1) = 1·44, of (2) = 2·89. When
 both parents are T it = 1·58.
-*/
+.fs
+
+.sp 1
 
 <i>Marriage of like to like.</i>—In each class of
 society there is a strong tendency to intermarriage,

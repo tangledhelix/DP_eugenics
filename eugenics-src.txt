@@ -318,25 +318,25 @@ small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
 
-/#
+.sp 1
+
 <sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
 per <i>ten-thousand and to the nearest</i>
 per <i>hundred.)</i>
-#/
 
-/*
----------------------------------------------------------
-                         M
-       |–4°|–3°| –2°| –1°| +1°| +2°|+3°|+4°|      |
--------+---+---+----+----+----+----+---+---+------+
-<i>v</i> and|<i>u</i>|<i>t</i>|<i>s</i> |<i>r</i> |R   |S   |T  |U  |V and |Total
-  below|   |   |    |    |    |    |   |   |above.|
--------+---+---+----+----+----+----+---+---+------+------
-     35|180|672|1613|2500|2500|1613|672|180|    35|10,000
-  [**brace]|   |    |    |    |    |   |[**brace] |
-       2   |  7|  16|  25|  25|  16|  7|   2      |   100
--------+---+---+----+----+----+----+---+---+------+------
-*/
+.ta rm:7 |rm:5 |rm:5 |rm:5 |rm:5 |rm:1 |rm:5 |rm:5 |rm:5 |rm:5 |cm:6 |rm:6
+_
+|–4°|–3°|–2°|–1°|M|+1°|+2°|+3°|+4°||
+_
+<al=c><i>v</i> and<br>below|<al=c><i>u</i>|<al=c><i>t</i>|<al=c><i>s</i>|<al=c><i>r</i>||<al=c>R|<al=c>S|<al=c>T|<al=c>U|<al=c>V and<br>above.|<al=c>Total
+_
+35|180|672|1613|2500||2500|1613|672|180|35|10,000
+_
+<al=c>2|<span>|7|16|25||25|16|7|<al=c>2|<span>|100
+_
+.ta-
+
+.sp 1
 
 In the lowest line the same values are
 given, but more roughly, to the nearest whole

@@ -11,6 +11,8 @@
 // height for decorators on title page
 .de .h1-decorator { height: 1em; }
 
+.sp 4
+
 // use different versions for title here,
 // because of decorator images in HTML version
 .if t
@@ -35,6 +37,8 @@ ESSAYS IN EUGENICS.
 
 .bn f002.png
 .bn f003.png
+
+.sp 4
 
 .h2
 PREFACE.
@@ -101,6 +105,8 @@ their Publications.
 
 .bn f005.png
 
+.sp 4
+
 .h2
 CONTENTS.
 
@@ -117,9 +123,13 @@ VII. | <sc>Local Associations for Promoting Eugenics</sc> | #100#
 
 .bn f006.png
 
+.sp 4
+
 [Illustration: STANDARD SCHEME OF DESCENT]
 .bn p001.png
 .pn 1
+
+.sp 4
 
 .h2
 THE POSSIBLE IMPROVEMENT OF THE HUMAN BREED,
@@ -318,7 +328,7 @@ small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
 
-.sp 1
+.sp 2
 
 <sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
 per <i>ten-thousand and to the nearest</i>
@@ -336,7 +346,7 @@ _
 _
 .ta-
 
-.sp 1
+.sp 2
 
 In the lowest line the same values are
 given, but more roughly, to the nearest whole
@@ -430,6 +440,8 @@ numbers in this and the A class combined
 closely correspond with those in <i>t</i> and all
 below <i>t</i>.
 
+.sp 2
+
 <sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London
 with the Normal Classes.</i>
 
@@ -457,6 +469,8 @@ Nos. |  Mr. Booth’s classes.                         | Approx. | Resorted. | A
 The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s
 and in the Normal Classes.
 */
+
+.sp 2
 
 Class C are supported by intermittent
 earnings; they are a hard-working people, but
@@ -593,6 +607,8 @@ but will simply suppose that each parentage
 produces one couplet of grown-up filials, an
 adult man and an adult woman.
 
+.sp 2
+
 <sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between
 the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
 
@@ -630,6 +646,8 @@ Total 10,000 Fathers (or Mothers)                         |  34 168 | 655 | 1623
 <em>Note.</em>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact
 to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the
 classes being too few and too wide; theoretically they should be extremely numerous and narrow.
+
+.sp 2
 
 The result is shown to the nearest whole
 per thousand in the table up to “V and above,”
@@ -780,7 +798,7 @@ higher class on only one side.
 .bn p019.png
 .pn +1
 
-.sp 1
+.sp 2
 
 <sc>Table IV.</sc>—<i>Distribution of sons. (1) One
 parent of class V., the other unknown.
@@ -806,7 +824,7 @@ Position of the filial centre of (1) = 1·44, of (2) = 2·89. When
 both parents are T it = 1·58.
 .fs
 
-.sp 1
+.sp 2
 
 <i>Marriage of like to like.</i>—In each class of
 society there is a strong tendency to intermarriage,
@@ -1365,6 +1383,8 @@ millions of the human race.
 .bn p035.png
 .pn +1
 
+.sp 4
+
 .h2
 EUGENICS: ITS DEFINITION, SCOPE AND AIMS.[#]
 
@@ -1686,6 +1706,8 @@ not wholly foresee.
 
 .bn p044.png
 .pn +1
+
+.sp 4
 
 .h2
 RESTRICTIONS IN MARRIAGE.[#]
@@ -2254,6 +2276,8 @@ without reservation.
 .bn p060.png
 .pn +1
 
+.sp 4
+
 .h2
 STUDIES IN NATIONAL EUGENICS[#]
 
@@ -2292,6 +2316,8 @@ of London), Clare Market, W.C., on Tuesday, February
 14th, at 4 p.m.
 .fn-
 .fs
+
+.sp 2
 
 .h3 nobreak align=l
 I. Estimation of the average quality of\
@@ -2342,6 +2368,8 @@ consideration, so more cannot be said.
 .bn p062.png
 .pn +1
 
+.sp 2
+
 .h3 nobreak align=l
 II. Effects of action by the State and\
 by Public Institutions.
@@ -2374,6 +2402,7 @@ There is good reason to believe that the effects of
 indiscriminate charity are notably non-eugenic. This
 topic affords a wide field for inquiry.
 
+.sp 2
 
 .h3 nobreak align=l
 III. Other influences that further or\
@@ -2395,6 +2424,8 @@ appreciable amount.
 .bn p063.png
 .pn +1
 
+.sp 2
+
 .h3 nobreak align=l
 IV. Heredity.
 
@@ -2415,6 +2446,8 @@ men. Eurasians have by this time intermarried during
 three consecutive generations in sufficient numbers to
 yield trustworthy results.
 
+.sp 2
+
 .h3 nobreak align=l
 V. Literature.
 
@@ -2426,6 +2459,8 @@ from time to time. The experiences of breeders of stock
 of all kinds, and those of horticulturists, fall within this
 category.
 
+.sp 2
+
 .h3 nobreak align=l
 VI. Co-operation.
 
@@ -2436,6 +2471,8 @@ become powerful. It is too soon to speculate on this,
 but every good opportunity should be seized to further
 co-operation, as well as the knowledge and application of
 Eugenics.
+
+.sp 2
 
 .h3 nobreak align=l
 VII. Certificates.
@@ -2477,6 +2514,8 @@ it now. Of course useful suggestions in the
 present embryonic condition of Eugenic study
 would be timely, and might prove very helpful
 to students.
+
+.sp 2
 
 .h3 nobreak
 <sc>Mr. Galton’s Reply to remarks made during the discussion that followed.</sc>
@@ -2617,6 +2656,8 @@ Eugenics can be safely framed.
 .bn p068.png
 .pn +1
 
+.sp 4
+
 .h2
 EUGENICS AS A FACTOR IN RELIGION.
 
@@ -2712,10 +2753,14 @@ nature.
 .bn p072.png
 .pn +1
 
+.sp 2
+
 [Illustration: <sc><i>Illustrations of the Herbert Spencer Lecture 1907.</i></sc>]
 
 .bn p073.png
 .pn +1
+
+.sp 4
 
 .h2
 PROBABILITY, THE FOUNDATION OF EUGENICS.[#]
@@ -2767,6 +2812,8 @@ The Herbert Spencer Lecture delivered before the University
 at Oxford, June 5th, 1907.
 .fn-
 .fs
+
+.sp 2
 
 .h3 nobreak
 <sc>History of Eugenics.</sc>
@@ -3055,6 +3102,8 @@ fair share of good luck, this young Institution
 will prosper and grow into an important centre
 of research.
 
+.sp 2
+
 .h3 nobreak
 <sc>Application of Theories of Probability to Eugenics.</sc>
 
@@ -3123,6 +3172,8 @@ of many different classes of persons, some of
 civic value, others the reverse, implies a huge
 volume of work sufficient to occupy Eugenics
 laboratories for an indefinite time.
+
+.sp 2
 
 .h3 nobreak
 <sc>Object Lessons in the Methods of Biometry.</sc>
@@ -3481,6 +3532,8 @@ Eugenics. Further, that when read leisurely
 by experts in its printed form, it would give
 them sufficient guidance for elaborating details.
 
+.sp 2
+
 .h3 nobreak
 <sc>Influence of Collective Truths upon Individual Conduct.</sc>
 
@@ -3751,6 +3804,8 @@ physical and moral qualities of our race.
 
 .bn p100.png
 .pn +1
+
+.sp 4
 
 .h2
 LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS[#]
@@ -4097,4 +4152,9 @@ largely also in response to the more virile
 desire of promoting the natural gifts and the
 national efficiency of future generations.
 
-.fm lz=th
+.sp 4
+
+.h2
+Footnotes
+
+.fm lz=th rend=no

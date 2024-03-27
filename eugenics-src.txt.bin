@@ -117,7 +117,7 @@
 );
 
 
-$::bookmarks[0] = '505.41';
+$::bookmarks[0] = '345.154';
 $::bookmarks[1] = '869.0';
 
 $::pngspath = '/Users/dan/dp/pp/eugenics/pngs/';

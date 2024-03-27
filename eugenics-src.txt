@@ -445,30 +445,90 @@ below <i>t</i>.
 <sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London
 with the Normal Classes.</i>
 
-/*
------+-----------------------------------------------+---------+-----------+---------+------+----------------
-Nos. |  Mr. Booth’s classes.                         | Approx. | Resorted. | Approx. | Nos. | Normal classes.
------+-----------------------------------------------+---------+-----------+---------+------+----------------
-  97 |  H. All above G                               |   100   |    100    |   100   |   89 | T and above
------+-----------------------------------------------+---------+-----------+---------+------+----------------
- 200 | {G. Lower Middle                            } |         |   {150    |         |      |
-     | {F. High-class labour above 30s. per week   } |   200   |   { 50}   |   150   |  161 | S
------+-----------------------------------------------+---------+       }    +---------+------+----------------
- 382 |  E. Regular standard earnings from 22s. to  } |         |   {200}   |         |      |
-     |        30s. per week                        } |   400   |   {200}   |   250   |  250 | R
------+-----------------------------------------------|---------+       }   +---------+------+----------------
- 227 | {D. Regular earnings under 22s. per week    } |         |   { 50}   |         |      |
-     | {C. Intermittent earnings, improvident, poor} |   200   |   {150    |   250   |  250 | <i>r</i>
------+-----------------------------------------------+---------+           +---------+------+----------------
-  94 | {B. Casual; very poor                       } |         |           |   150   |  161 | <i>s</i>
-     | {A. Criminals, loafers, &c.                 } |         |           +---------+------+----------------
-     |                                               |   100   |    100    |   100   |   89 | <i>t</i> and below
------+-----------------------------------------------+---------+-----------+---------+------+----------------
-1000                                                    1000                  1000     1000
+.sp 1
+
+// Table text from rounds:
+//
+//-----+-----------------------------------------------+---------+-----------+---------+------+----------------
+//Nos. |  Mr. Booth’s classes.                         | Approx. | Resorted. | Approx. | Nos. | Normal classes.
+//-----+-----------------------------------------------+---------+-----------+---------+------+----------------
+//  97 |  H. All above G                               |   100   |    100    |   100   |   89 | T and above
+//-----+-----------------------------------------------+---------+-----------+---------+------+----------------
+// 200 | {G. Lower Middle                            } |         |   {150    |         |      |
+//     | {F. High-class labour above 30s. per week   } |   200   |   { 50}   |   150   |  161 | S
+//-----+-----------------------------------------------+---------+       }    +---------+------+----------------
+// 382 |  E. Regular standard earnings from 22s. to  } |         |   {200}   |         |      |
+//     |        30s. per week                        } |   400   |   {200}   |   250   |  250 | R
+//-----+-----------------------------------------------|---------+       }   +---------+------+----------------
+// 227 | {D. Regular earnings under 22s. per week    } |         |   { 50}   |         |      |
+//     | {C. Intermittent earnings, improvident, poor} |   200   |   {150    |   250   |  250 | <i>r</i>
+//-----+-----------------------------------------------+---------+           +---------+------+----------------
+//  94 | {B. Casual; very poor                       } |         |           |   150   |  161 | <i>s</i>
+//     | {A. Criminals, loafers, &c.                 } |         |           +---------+------+----------------
+//     |                                               |   100   |    100    |   100   |   89 | <i>t</i> and below
+//-----+-----------------------------------------------+---------+-----------+---------+------+----------------
+//1000                                                    1000                  1000     1000
+
+.if h
+// turn %%rs= into a rowspan specification
+.sr h ~(<td.*?)>%%rs=(.)~\1 rowspan="\2">~
+// remove  cell covered by  rowspan of cell above
+.sr h ~<td .*?>%%dc</td>~~
+
+.ta rm:4 |lm:1 lm:60 lm:1 |rm:7 |lm:1 rm:9 lm:1 |rm:7 |rm:4 |lm:8
+_
+<th><al=c>Nos. |<al=c>Mr. Booth’s classes.  |<span>                                                                                |<span>              |<al=c>Approx.    |<al=c>Resorted.     |<span>     |<span>              |<al=c>Approx. |<al=c>Nos. |<al=c>Normal classes.
+_
+97             |                    |H. All above G                                                                                |                    |100              |                    |100        |                    |100           |89         |T and above
+%%rs=4 200     |%%rs=4 <xxl>{</xxl> |%%rs=4 G. Lower Middle<br>F. High-class labour above 30s. per week                            |%%rs=4 <xxl>}</xxl> |%%rs=4 200       |%%rs=4 <xxl>{</xxl> |%%rs=2 150 |%%rs=2              |%%rs=2 150    |%%rs=2 161 |%%rs=2 S
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=2 50  |%%rs=4 <xxl>}</xxl> |%%rs=4 250    |%%rs=4 250 |%%rs=4 R
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+%%rs=4 382     |%%rs=4              |%%rs=4 E. Regular standard earnings from 22s. to 30s. per week                                |%%rs=4 <xxl>}</xxl> |%%rs=4 400       |%%rs=4 <xxl>{</xxl> |%%rs=2 200 |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=2 200 |%%rs=4 <xxl>}</xxl> |%%rs=4 250    |%%rs=4 250 |%%rs=4 <i>r</i>
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+%%rs=4 227     |%%rs=4 <xxl>{</xxl> |%%rs=4 D. Regular earnings under 22s. per week<br>C. Intermittent earnings, improvident, poor |%%rs=4 <xxl>}</xxl> |%%rs=4 200       |%%rs=4 <xxl>{</xxl> |%%rs=2 50  |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=2 150 |%%rs=2              |%%rs=2 150    |%%rs=2 161 |%%rs=2 <i>s</i>
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+94             |<xxl>{</xxl>        |B. Casual; very poor<br>A. Criminals, loafers, &c.                                            |<xxl>}</xxl>        |100              |                    |100        |                    |100           |89         |<i>t</i> and below
+_
+1000           |                    |                                                                                              |                    |1000             |                    |           |                    |1000          |1000       |
+.ta-
+.if-
+
+.if t
+.ll 100 // max line length, increase to fit this table
+.nf
+────┬───────────────────────────────────────────────┬───────┬─────────┬───────┬────┬────────────────
+Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.│Approx.│Nos.│ Normal classes.
+────┼───────────────────────────────────────────────┼───────┼─────────┼───────┼────┼────────────────
+  97│  H. All above G                               │  100  │   100   │  100  │  89│ T and above
+────┼───────────────────────────────────────────────┼───────┼─────────┼───────┼────┼────────────────
+    │ ⎧G. Lower Middle                            ⎫ │       │ ⎧ 150   │  150  │ 161│ S
+ 200│ ⎩F. High-class labour above 30s. per week   ⎭ │  200  │ ⎨       ├───────┼────┼────────────────
+    │                                               │       │ ⎩  50 ⎫ │       │    │
+────┼───────────────────────────────────────────────┼───────┤       ⎬ │  250  │ 250│ R
+ 382│  E. Regular standard earnings from 22s. to  ⎫ │       │ ⎧ 200 ⎭ │       │    │
+    │        30s. per week                        ⎭ │  400  │ ⎨       ├───────┼────┼────────────────
+────┼───────────────────────────────────────────────┼───────┤ ⎩ 200 ⎫ │       │    │
+    │                                               │       │       ⎬ │  250  │ 250│ <i>r</i>
+ 227│ ⎧D. Regular earnings under 22s. per week    ⎫ │       │ ⎧  50 ⎭ │       │    │
+    │ ⎩C. Intermittent earnings, improvident, poor⎭ │  200  │ ⎨       ├───────┼────┼────────────────
+────┼───────────────────────────────────────────────┼───────┤ ⎩ 150   │  150  │ 161│ <i>s</i>
+  94│ ⎧B. Casual; very poor                       ⎫ │       │         ├───────┼────┼────────────────
+    │ ⎩A. Criminals, loafers, &c.                 ⎭ │  100  │   100   │  100  │  89│ <i>t</i> and below
+────┴───────────────────────────────────────────────┴───────┴─────────┴───────┴────┴────────────────
+1000                                                  1000              1000   1000
+.nf-
+.ll // reset
+.if-
+
+.sp 1
 
 The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s
 and in the Normal Classes.
-*/
 
 .sp 2
 

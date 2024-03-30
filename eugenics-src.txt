@@ -912,8 +912,8 @@ _
 .ta-
 
 .fs 80%
-Position of the filial centre of (1) = 1·44, of (2) = 2·89. When
-both parents are T it = 1·58.
+.ce
+Position of the filial centre of (1) = 1·44, of (2) = 2·89. When both parents are T it = 1·58.
 .fs
 
 .sp 2
@@ -1319,7 +1319,6 @@ means the maximum obtainable.[#]
 .rj
 (“Hospitals and Charities,” 1898, p. 85.)
 
-
 There are other activities long since
 existing which might well be extended. I
 will not dwell, as I am tempted to do, on the
@@ -1479,7 +1478,6 @@ millions of the human race.
 
 .h2
 EUGENICS: ITS DEFINITION, SCOPE AND AIMS.[#]
-
 
 Eugenics is the science which deals with
 all influences that improve the inborn qualities
@@ -1804,8 +1802,6 @@ not wholly foresee.
 .h2
 RESTRICTIONS IN MARRIAGE.[#]
 
-
-It is proposed in the following remarks to
 meet an objection that has been repeatedly
 urged against the possible adoption of any
 system of Eugenics, namely, that human
@@ -2373,7 +2369,6 @@ without reservation.
 .h2
 STUDIES IN NATIONAL EUGENICS[#]
 
-
 It was stated in the <cite>Times</cite>, January, 26,
 1905, that at a meeting of the Senate of the
 University of London, Mr. Edgar Schuster,
@@ -2420,7 +2415,6 @@ of the “probable error” of the\
 estimate for individuals, according to the data\
 employed.
 
-
 (<i>a</i>) “Biographical Index to Gifted Families,”
 modern and recent, for publication. It might be drawn
 up on the same principle as my “Index to Achievements
@@ -2466,7 +2460,6 @@ consideration, so more cannot be said.
 II. Effects of action by the State and\
 by Public Institutions.
 
-
 (<i>f</i>) Habitual criminals. Public opinion is beginning
 to regard with favour the project of a prolonged segregation
 of habitual criminals, for the purpose of
@@ -2500,7 +2493,6 @@ topic affords a wide field for inquiry.
 III. Other influences that further or\
 restrain particular classes of marriage.
 
-
 The instances are numerous in recent times in
 which social influences have restrained or furthered
 freedom of marriage. A judicious selection of these
@@ -2520,7 +2512,6 @@ appreciable amount.
 
 .h3 nobreak align=l
 IV. Heredity.
-
 
 The facts after being collected are to be discussed,
 for improving our knowledge of the laws both actuarial
@@ -2753,7 +2744,6 @@ Eugenics can be safely framed.
 .h2
 EUGENICS AS A FACTOR IN RELIGION.
 
-
 Eugenics strengthens the sense of social
 duty in so many important particulars that
 the conclusions derived from its study ought
@@ -2857,7 +2847,6 @@ nature.
 
 .h2
 PROBABILITY, THE FOUNDATION OF EUGENICS.[#]
-
 
 The request so honourable to myself, to
 be the Herbert Spencer lecturer of this
@@ -3903,7 +3892,6 @@ physical and moral qualities of our race.
 .h2
 LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS[#]
 
-
 I propose to take the present opportunity
 of submitting some views of my own relating
 to that large province of eugenics which is
@@ -4251,3 +4239,45 @@ national efficiency of future generations.
 Footnotes
 
 .fm lz=th rend=no
+
+.pb
+.ni
+
+.de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
+.dv class="tnotes"
+
+.ce
+<b>Transcriber’s Notes:</b>
+
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+
+.if t
+This file uses <i>underscores</i> to indicate italic text.
+.if-
+
+.if t
+Two charts have been omitted from the text version of this eBook. They were too complex
+to render into text. They are included as images in the other versions.
+.if-
+
+.if h
+Two charts have been rendered here only in image form. They were too visually complex
+to format as HTML tables.
+.if-
+
+.ol style=decimal
+.it “STANDARD SCHEME OF DESCENT” just after the Table of Contents
+.it “Illustrations of the Herbert Spencer Lecture 1907.” on p. 72.
+.ol-
+
+.if t
+Other charts were rendered as text. Some of them are wide.
+.if-
+
+.if h
+Other charts were rendered as tables. Tables II and III are wide and may display
+oddly on narrow screens.
+.if-
+
+.dv-

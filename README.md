@@ -77,6 +77,10 @@ Posted in the forums on this question.
   - Consensus is to leave the space
   - Use a nbsp to keep wrapping from breaking at that space, to preserve its intentionality.
 
+#### Equals sign? ####
+
+On p048, halfway down on the right margin, is what looks like an unexpectedly wide equals sign. No promising matches on unicodeplus.com or shapecatcher.com. Posted on forum in case anyone knows different; if not, then maybe it's simply an equals sign.
+
 ### Proofer's notes ###
 
 Some numbers appear separated by a character similar to a mid-dot. There are proofer notes on p092 about this. I [posted in the forum][3] about it and one response suggested to use normal period (`.`) unless the entire book used this mid-dot as a decimal point. Looking further I located more, on p019. Nowhere in the text does a "normal" period appear in a number, so far as I see.

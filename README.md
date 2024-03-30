@@ -30,9 +30,10 @@ Nothing of note (last checked 19 Feb 2024).
 
 ### Illustrations ###
 
+- [x] cover -- `i_cover.jpg`
 - [x] f001: small pair of decorations next to title
-- [ ] f006: entire page
-- [ ] p072: entire page
+- [x] f006: entire page
+- [x] p072: entire page
 
 ### Things to revisit ###
 
@@ -46,12 +47,12 @@ caption.
 
 There are fairly complex tables on a few pages.
 
-- [ ] f006: HTML/Epub: use illo. Txt? Asked in forum for PM advice.
-- [ ] p005
-- [ ] p009
-- [ ] p014
-- [ ] p019
-- [ ] p072: HTML/Epub: use illo. Txt? This seems too complex to attempt?
+- [x] f006: HTML/Epub: use illo. Txt? Asked in forum for PM advice.
+- [x] p005
+- [x] p009
+- [x] p014
+- [x] p019
+- [x] p072: HTML/Epub: use illo. Txt? This seems too complex to attempt?
 
 PM messaged privately and suggested illos for f006, p072 are sufficient, including text caption of the main caption for the table.
 
@@ -60,12 +61,10 @@ PM messaged privately and suggested illos for f006, p072 are sufficient, includi
 Some tables use upward-opening braces, will need to determine how to render.  (p005, p014)
 
 Possible solution: Unicode. There are some characters to look into.
-- "Asian Vertical Brackets"
-    - TOP CURLY BRACKET U+23DE: ⏞
-    - BOTTOM CURLY BRACKET U+23DF: ⏟
-- "Vertical representation form"
-    - PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET U+FE37: ︷
-    - PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET U+FE38: ︸
+  - TOP CURLY BRACKET U+23DE: ⏞
+  - BOTTOM CURLY BRACKET U+23DF: ⏟
+  - PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET U+FE37: ︷
+  - PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET U+FE38: ︸
 
 The first two are from the Misc. Technical block, but the second two are from the CJK Compatibility Forms block. So the first two are more generic and probably preferable.
 

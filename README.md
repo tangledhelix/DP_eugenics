@@ -28,6 +28,30 @@ Nothing of note (last checked 19 Feb 2024).
 
 ### General notes ###
 
+PPgen complaints that can be ignored:
+
+```
+**warning: both <b> and "=" found in text. markup conflict?
+```
+
+This is normal because the text contains `=` in 3 or so lines:
+
+```
+    Position of the filial centre of (1) = 1·44, of (2) = 2·89. When
+                     both parents are T it = 1·58.
+“Halizah” (= taking off, untying) in the _Jewish Cyclopædia_. Jewish
+```
+
+A bunch of long line warnings in the text build, due to the wide tables.
+
+```
+**warning: 2 images apparently not used:
+**warning:   h1_decorator_left.png
+**warning:   h1_decorator_right.png
+```
+
+These are used on the title page, just not in a way that ppgen recognizes.
+
 ### Illustrations ###
 
 - [x] cover -- `i_cover.jpg`

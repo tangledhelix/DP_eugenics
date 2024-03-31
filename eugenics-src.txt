@@ -22,7 +22,7 @@ ESSAYS IN EUGENICS.
 
 .if h
 .h1
-<xxl>ESSAYS</xxl>||<xl>IN</xl>||<img class="h1-decorator" src="images/h1_decorator_left.png">\ \ <xxl>EUGENICS.</xxl>\ \ <img class="h1-decorator" src="images/h1_decorator_right.png">
+<xxl>ESSAYS</xxl>||<xl>IN</xl>||<img class="h1-decorator" src="images/h1_decorator_left.png" alt="decoration">\ \ <xxl>EUGENICS.</xxl>\ \ <img class="h1-decorator" src="images/h1_decorator_right.png" alt="decoration">
 .if-
 
 .nf c
@@ -2212,7 +2212,7 @@ exist in early times. Abraham married his
 half-sister Sarah, “she is indeed the sister, the
 daughter of my father, but not the daughter
 of my mother, and she became my wife.”
-(Gen. <sc>xx</sc>. 12). Amram, the father of Moses
+(Gen. <sc>XX</sc>. 12). Amram, the father of Moses
 and Aaron, married his aunt, his father’s
 sister Jochabed. The Egyptians were accustomed
 to marry sisters. It is unnecessary to
@@ -2905,7 +2905,7 @@ at Oxford, June 5th, 1907.
 <sc>History of Eugenics.</sc>
 
 It must have surprised you as it did myself
-to find the new word 'Eugenics’ in the
+to find the new word ‘Eugenics’ in the
 title both of the Boyle Lecture, delivered in
 Oxford about a fortnight ago, and of this. It
 was an accident, not a deliberate concurrence,
@@ -2934,7 +2934,7 @@ and became a brisk fire, burning freely by itself,
 and again because I have had much to
 do with its progress quite recently.
 
-The word 'Eugenics’ was coined and used
+The word ‘Eugenics’ was coined and used
 by me in my book <cite>Human Faculty</cite>, published
 as long ago as 1883, which has long been out
 of print; it is, however, soon to be re-published
@@ -2948,8 +2948,8 @@ detachments from an infinite ocean of being,
 temporarily endowed with executive powers.
 This is the only answer I can give to myself
 in reply to the perpetually recurring questions
-of 'Why? whence? and whither?’ The immediate
-'whither?’ does not seem wholly dark,
+of ‘Why? whence? and whither?’ The immediate
+‘whither?’ does not seem wholly dark,
 as some little information may be gleaned
 concerning the direction in which Nature, so
 far as we know of it, is now moving—Namely,
@@ -2973,9 +2973,9 @@ issue, the Olympian Gods. A notable advance
 occurs at each successive stage in the quality
 of the Divinities. When Hyperion, newly
 terrified by signs of impending overthrow, lies
-prostrate on the earth 'his ancient mother, for
+prostrate on the earth ‘his ancient mother, for
 some comfort yet,’ the voice of Coelus from
-the universal space, thus 'whispered low and
+the universal space, thus ‘whispered low and
 solemn in his ear ... yet do thou strive, for
 thou art capable ... my life is but the life
 of winds and tides, no more than winds and
@@ -3010,7 +3010,7 @@ In glory that old Darkness.
 .bn p077.png
 .pn +1
 
-He ends with 'this is the truth, and let it
+He ends with ‘this is the truth, and let it
 be your balm.’ The poem is a noble conception,
 founded on the crude cosmogony of the
 ancient Greeks.
@@ -3056,7 +3056,7 @@ I occupied myself with collateral problems,
 more especially with that of dealing
 measurably with faculties that are variously
 distributed in a large population. The results
-were published in my 'Natural Inheritance’
+were published in my ‘Natural Inheritance’
 in 1889, and I shall have occasion to utilize
 some of them later on, in this very lecture.
 The publication of that book proved to be
@@ -3076,7 +3076,7 @@ appeared in 1901.
 
 Being myself appointed Huxley Lecturer
 before the Anthropological Institute in 1901 I
-took for my title 'The possible improvement
+took for my title ‘The possible improvement
 of the Human Breed under the existing
 conditions of Law and Sentiment’ (<cite>Nature</cite>,
 November 1, 1901, <cite>Report of the Smithsonian
@@ -3088,7 +3088,7 @@ reprinted in this volume.)
 The next and a very important step
 towards Eugenics was made by Professor
 Karl Pearson in his Huxley Lecture of 1903
-entitled 'The Laws of Inheritance in Man’
+entitled ‘The Laws of Inheritance in Man’
 (<cite>Biometrika</cite>, vol. iii). It contains a most
 valuable compendium of work achieved and
 of objects in view; also the following passage
@@ -3114,11 +3114,11 @@ the good and the bad stocks in the community.
 
 Again in 1904, having been asked by the
 newly-formed Sociological Society to contribute
-a memoir, I did so on 'Eugenics, its
+a memoir, I did so on ‘Eugenics, its
 definition, aim and scope.’ This was followed
-up in 1905 by three memoirs, 'Restrictions
-in Marriage,’ 'Studies in National Eugenics,’
-and 'Eugenics as a factor in Religion,’ which
+up in 1905 by three memoirs, ‘Restrictions
+in Marriage,’ ‘Studies in National Eugenics,’
+and ‘Eugenics as a factor in Religion,’ which
 were published in the Memoirs of that Society
 with comments thereon by more than
 twenty different authorities (<cite>Sociological
@@ -3175,7 +3175,7 @@ in both. The Office now bears the name of
 the Eugenics Laboratory, and its temporary
 home is in 88 Gower Street. (It is now, 1909,
 housed in the University buildings.) The
-phrase 'National Eugenics’ is defined as 'the
+phrase ‘National Eugenics’ is defined as ‘the
 study of agencies under social control that
 may improve or impair the racial qualities of
 future generations, either physically or
@@ -3195,8 +3195,8 @@ of research.
 
 Eugenics seeks for quantitative results. It
 is not contented with such vague words as
-'much’ or 'little,’ but endeavours to determine
-'how much’ or 'how little’ in precise
+‘much’ or ‘little,’ but endeavours to determine
+‘how much’ or ‘how little’ in precise
 and trustworthy figures. A simple example
 will show the importance of this. Let us
 suppose a class of persons, called <i>A</i>, who are
@@ -3235,7 +3235,7 @@ forecast were known to be infallible. On the
 other hand, a large <i>D</i> signifies a corresponding
 degree of uncertainty, and a risk that might
 be faced without reproach through a sentiment
-akin to that expressed in the maxim 'It
+akin to that expressed in the maxim ‘It
 .bn p083.png
 .pn +1
 is better that many guilty should escape than
@@ -3293,7 +3293,7 @@ admit of being so presented to any intelligent
 person as to be grasped by him, even though
 he be quite ignorant of mathematics. The
 conditions of doing so are that the lessons
-shall be as far as possible 'Object lessons,’ in
+shall be as far as possible ‘Object lessons,’ in
 which real objects shall be handled as in the
 Kindergarten system, and simple operations
 performed and not only talked about. I am
@@ -3354,7 +3354,7 @@ length were considered, objects of suitable
 size, such as chestnuts, acorns, hazel-nuts,
 stones of wall fruit, might be arrayed as
 beads on a string. It will be shown that an
-'Array’ of Variates of any kind falls into a
+‘Array’ of Variates of any kind falls into a
 continuous series. That each variate differs
 little from its neighbours about the middles of
 the Arrays, but that such differences increase
@@ -3366,7 +3366,7 @@ Arrays of Variates of the same class strung
 together, differing considerably in the number
 of the objects they each contain, would be
 laid side by side and their middlemost
-variates or 'Medians’ (Fig. 3) would be
+variates or ‘Medians’ (Fig. 3) would be
 compared. It would be shown that as a rule
 the Medians become very similar to one
 another when the numbers in the Arrays are
@@ -3394,7 +3394,7 @@ there are horses, otherwise a side of one of
 the extreme stalls would be wanting. Thus
 there are two ways of indicating the position
 of a particular variate, either by its <em>serial
-number</em> as 'first,’ 'second,’ 'third,’ or so on,
+number</em> as ‘first,’ ‘second,’ ‘third,’ or so on,
 or by <em>degrees</em> like those of a thermometer.
 In the latter case the sides of the stalls serve
 as degrees, counting the first of them as 0°,
@@ -3452,7 +3452,7 @@ Curve, Axis, and Limits. This forms a
 Scheme of Distribution of Deviates. Draw
 ordinates from the axis to the curve at the
 25th and 75th divisions. These are the
-'Quartile’ deviates.
+‘Quartile’ deviates.
 
 At this stage the Genesis of the theoretical
 Normal curve might be briefly explained
@@ -3471,7 +3471,7 @@ ordinate at <em>any</em> specified centesimal division
 in two normal curves of deviation measures
 their relative variability, the Quartile is
 commonly employed as the unit of variability
-under the almost grotesque name of 'Probable
+under the almost grotesque name of ‘Probable
 Error,’ which is intended to signify that the
 length of any Deviate in the system is as likely
 as not to exceed or to fall short of it. This,
@@ -3520,7 +3520,7 @@ not suited for and was not used as a first
 illustration, but the formula that expresses it
 is by far the more suitable of the two for calculation.
 Its unit of variability is what is
-called the 'Standard Deviation,’ whose genesis
+called the ‘Standard Deviation,’ whose genesis
 will admit of illustration. How the calculations
 are made for finding its value is far beyond
 the reach of the present lessons. The calculated
@@ -3560,7 +3560,7 @@ hand of No. 3. The hands of Nos. 1, 2, and
 3 move up and down quite independently, but
 as the movements of both weights are simultaneously
 controlled in part by No. 2, they
-become 'correlated.’
+become ‘correlated.’
 
 The formation of a table of correlations
 on paper ruled in squares, is easily explained
@@ -3581,18 +3581,18 @@ of the Table, and observation shows they do
 so in most other cases. It follows that the
 average deviation of a <i>B</i> value bears a constant
 ratio to the deviation of the corresponding
-<i>A</i> value. This ratio is called the 'Index
+<i>A</i> value. This ratio is called the ‘Index
 of Correlation,’ and is expressed by a single
 figure. For example: if the thigh-bone of
-many persons deviate 'very much’ from the
+many persons deviate ‘very much’ from the
 usual length of the thigh-bones of their race,
 the average of the lengths of the corresponding
-arm-bones will differ 'much,’ but not
-'very much,’ from the usual length of arm-bones,
-and the ratio between this 'very
-much’ and 'much’ is constant and in the
+arm-bones will differ ‘much,’ but not
+‘very much,’ from the usual length of arm-bones,
+and the ratio between this ‘very
+much’ and ‘much’ is constant and in the
 same direction, whatever be the numerical
-value attached to the word 'very much.’
+value attached to the word ‘very much.’
 Lastly, the trustworthiness of the Index of
 Correlation, when applied to individual cases,
 is readily calculable. When the closeness of
@@ -3700,7 +3700,7 @@ ii., p. 24), with reference to one obstacle which
 prevents individuals from perceiving the importance
 .bn p095.png
 .pn +1
-of Eugenics, 'the prevalent opinion
+of Eugenics, ‘the prevalent opinion
 that almost anybody is good enough to marry
 is chiefly due to the fact that in this case,
 cause and effect, marriage and the feebleness
@@ -3762,7 +3762,7 @@ soon began to show dissatisfaction; they said
 the beard was a sign of manliness that ought
 not to be suppressed, and so forth, and at
 length the moment arrived. A distinguished
-clergyman, happily still living, 'bearded’ his
+clergyman, happily still living, ‘bearded’ his
 Bishop on a critical occasion. The Bishop
 yielded without protest, and forthwith hair
 began to sprout in a thousand pulpits where
@@ -3792,7 +3792,7 @@ day might have ridiculed them....
 .in
 
 Thucydides (I. 6) also refers to the same
-change as occurring 'quite lately’.
+change as occurring ‘quite lately’.
 
 Public opinion is commonly far in advance
 of private morality, because society as a
@@ -3884,7 +3884,7 @@ required for some time to come, and the pace
 must not be hurried. When the desired fulness
 of information shall have been acquired
 then, and not till then, will be the fit moment
-to proclaim a 'Jehad,’ or Holy War against
+to proclaim a ‘Jehad,’ or Holy War against
 customs and prejudices that impair the
 physical and moral qualities of our race.
 

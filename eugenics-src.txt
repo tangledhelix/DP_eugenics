@@ -477,22 +477,17 @@ _
 <th><al=c>Nos. |<al=c>Mr. Booth’s classes.  |<span>                                                                                |<span>              |<al=c>Approx.    |<al=c>Resorted.     |<span>     |<span>              |<al=c>Approx. |<al=c>Nos. |<al=c>Normal classes.
 _
 97             |                    |H. All above G                                                                                |                    |100              |                    |100        |                    |100           |89         |T and above
-%%rs=4 200     |%%rs=4 <xxl>{</xxl> |%%rs=4 G. Lower Middle<br>F. High-class labour above 30s. per week                            |%%rs=4 <xxl>}</xxl> |%%rs=4 200       |%%rs=4 <xxl>{</xxl> |%%rs=2 150 |%%rs=2              |%%rs=2 150    |%%rs=2 161 |%%rs=2 S
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=2 50  |%%rs=4 <xxl>}</xxl> |%%rs=4 250    |%%rs=4 250 |%%rs=4 R
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
-%%rs=4 382     |%%rs=4              |%%rs=4 E. Regular standard earnings from 22s. to 30s. per week                                |%%rs=4 <xxl>}</xxl> |%%rs=4 400       |%%rs=4 <xxl>{</xxl> |%%rs=2 200 |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=2 200 |%%rs=4 <xxl>}</xxl> |%%rs=4 250    |%%rs=4 250 |%%rs=4 <i>r</i>
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
-%%rs=4 227     |%%rs=4 <xxl>{</xxl> |%%rs=4 D. Regular earnings under 22s. per week<br>C. Intermittent earnings, improvident, poor |%%rs=4 <xxl>}</xxl> |%%rs=4 200       |%%rs=4 <xxl>{</xxl> |%%rs=2 50  |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=2 150 |%%rs=2              |%%rs=2 150    |%%rs=2 161 |%%rs=2 <i>s</i>
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%dc       |%%dc                |%%dc          |%%dc       |%%dc
+%%rs=2 200     |%%rs=2 <xxl>{</xxl> |%%rs=2 G. Lower Middle<br>F. High-class labour above 30s. per week                            |%%rs=2 <xxl>}</xxl> |%%rs=2 200       |%%rs=2 <xxl>{</xxl> |%%rs=1 150 |%%rs=1              |%%rs=1 150    |%%rs=1 161 |%%rs=1 S
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=1 50  |%%rs=2 <xxl>}</xxl> |%%rs=2 250    |%%rs=2 250 |%%rs=2 R
+%%rs=2 382     |%%rs=2              |%%rs=2 E. Regular standard earnings from 22s. to 30s. per week                                |%%rs=2 <xxl>}</xxl> |%%rs=2 400       |%%rs=2 <xxl>{</xxl> |%%rs=1 200 |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=1 200 |%%rs=2 <xxl>}</xxl> |%%rs=2 250    |%%rs=2 250 |%%rs=2 <i>r</i>
+%%rs=2 227     |%%rs=2 <xxl>{</xxl> |%%rs=2 D. Regular earnings under 22s. per week<br>C. Intermittent earnings, improvident, poor |%%rs=2 <xxl>}</xxl> |%%rs=2 200       |%%rs=2 <xxl>{</xxl> |%%rs=1 50  |%%dc                |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=1 150 |%%rs=1              |%%rs=1 150    |%%rs=1 161 |%%rs=1 <i>s</i>
 94             |<xxl>{</xxl>        |B. Casual; very poor<br>A. Criminals, loafers, &c.                                            |<xxl>}</xxl>        |100              |                    |100        |                    |100           |89         |<i>t</i> and below
 _
 1000           |                    |                                                                                              |                    |1000             |                    |           |                    |1000          |1000       |
 .ta-
+
 .if-
 
 .if t

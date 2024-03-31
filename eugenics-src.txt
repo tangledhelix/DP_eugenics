@@ -330,11 +330,15 @@ small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
 
-.sp 2
+.sp 1
 
-<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i>
-per <i>ten-thousand and to the nearest</i>
-per <i>hundred.)</i>
+.ni
+
+.ll -4
+.in +4
+
+.ce
+<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i> per <i>ten-thousand and to the nearest</i> per <i>hundred.)</i>
 
 .ta rm:7 |rm:5 |rm:5 |rm:5 |rm:5 |rm:1 |rm:5 |rm:5 |rm:5 |rm:5 |cm:6 |rm:6
 _
@@ -348,7 +352,12 @@ _
 _
 .ta-
 
-.sp 2
+.ll
+.in
+
+.pi
+
+.sp 1
 
 In the lowest line the same values are
 given, but more roughly, to the nearest whole
@@ -442,10 +451,18 @@ numbers in this and the A class combined
 closely correspond with those in <i>t</i> and all
 below <i>t</i>.
 
-.sp 2
+.sp 1
 
-<sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London
-with the Normal Classes.</i>
+.ni
+
+.ll -4
+.in +4
+
+.ce
+<sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London with the Normal Classes.</i>
+
+.ll
+.in
 
 .sp 1
 
@@ -507,10 +524,18 @@ Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.�
 
 .sp 1
 
-The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s
-and in the Normal Classes.
+.ll -4
+.in +4
 
-.sp 2
+.ce
+The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s and in the Normal Classes.
+
+.ll
+.in
+
+.sp 1
+
+.pi
 
 Class C are supported by intermittent
 earnings; they are a hard-working people, but
@@ -647,13 +672,21 @@ but will simply suppose that each parentage
 produces one couplet of grown-up filials, an
 adult man and an adult woman.
 
-.sp 2
+.sp 1
 
-<sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between
-the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
+.ni
 
-<i>Conditions.</i>—(1) Parents to be always alike in class, (2) Statistics of population to continue unchanged,
-(3) Normal Law of Frequency to be applicable throughout.
+.ll -4
+.in +4
+
+.ce
+<sc>Table III.</sc>—<i>Descent of Qualities in a Population. (The difference between the sexes only affects the value of the Unit of the Scale of Distribution.)</i>
+
+.ce
+<i>Conditions.</i>—(1) Parents to be always alike in class, (2) Statistics of population to continue unchanged, (3) Normal Law of Frequency to be applicable throughout.
+
+.in
+.ll
 
 .sp 1
 
@@ -685,11 +718,18 @@ _
 
 .sp 1
 
-<em>Note.</em>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact
-to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the
-classes being too few and too wide; theoretically they should be extremely numerous and narrow.
+.ll -4
+.in +4
 
-.sp 2
+.ce
+<em>Note.</em>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the classes being too few and too wide; theoretically they should be extremely numerous and narrow.
+
+.in
+.ll
+
+.pi
+
+.sp 1
 
 The result is shown to the nearest whole
 per thousand in the table up to “V and above,”
@@ -840,13 +880,18 @@ higher class on only one side.
 .bn p019.png
 .pn +1
 
-.sp 2
+.sp 1
 
-<sc>Table IV.</sc>—<i>Distribution of sons. (1) One
-parent of class V., the other unknown.
-(2) Both parents of class
-V (from Table II., with decimal
-point and an 0).</i>
+.ni
+
+.ll -4
+.in +4
+
+.ce
+<sc>Table IV.</sc>—<i>Distribution of sons. (1) One parent of class V., the other unknown. (2) Both parents of class V (from Table II., with decimal point and an 0).</i>
+
+.in
+.ll
 
 .sp 1
 
@@ -861,12 +906,20 @@ Two V-parents                  |               |               |               |
 _
 .ta-
 
+.ll -4
+.in +4
+
 .fs 80%
 .ce
 Position of the filial centre of (1) = 1·44, of (2) = 2·89. When both parents are T it = 1·58.
 .fs
 
-.sp 2
+.in
+.ll
+
+.pi
+
+.sp 1
 
 <i>Marriage of like to like.</i>—In each class of
 society there is a strong tendency to intermarriage,

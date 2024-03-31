@@ -81,6 +81,8 @@ Posted in the forums on this question.
 
 On p048, halfway down on the right margin, is what looks like an unexpectedly wide equals sign. No promising matches on unicodeplus.com or shapecatcher.com. Posted on forum in case anyone knows different; if not, then maybe it's simply an equals sign.
 
+[U+FF1D][7] (＝) was pointed out in the forums, but in rendering tests it doesn't seem to look much different, at least in the font ppgen uses. I went with a regular = sign.
+
 ### Proofer's notes ###
 
 Some numbers appear separated by a character similar to a mid-dot. There are proofer notes on p092 about this. I [posted in the forum][3] about it and one response suggested to use normal period (`.`) unless the entire book used this mid-dot as a decimal point. Looking further I located more, on p019. Nowhere in the text does a "normal" period appear in a number, so far as I see.
@@ -118,3 +120,4 @@ First two are diacritical marks. The third seems to relate to aboriginal languag
 [4]: https://en.wikipedia.org/wiki/Interpunct
 [5]: https://www.pgdp.net/phpBB3/viewtopic.php?p=1334108#p1334108
 [6]: https://www.compart.com/en/unicode/U+00B7
+[7]: https://www.fileformat.info/info/unicode/char/ff1d/index.htm

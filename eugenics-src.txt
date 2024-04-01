@@ -123,6 +123,7 @@ VII. | <sc>Local Associations for Promoting Eugenics</sc> | #100#
 
 .bn f006.png
 
+.pb
 .sp 4
 
 .il fn=i_f006.png w=100% alt="Chart: STANDARD SCHEME OF DESCENT"
@@ -2834,6 +2835,7 @@ nature.
 .bn p072.png
 .pn +1
 
+.pb
 .sp 4
 
 .il fn=i_p072.png w=100% alt="Chart: Illustrations of the Herbert Spencer Lecture 1907."
@@ -4275,8 +4277,8 @@ Other charts were rendered as text. Some of them are wide.
 .if-
 
 .if h
-Other charts were rendered as tables. Tables II and III are wide and may display
-oddly on narrow screens.
+Some tables are wide and may display poorly on small screens
+(especially tables II and III).
 .if-
 
 .dv-

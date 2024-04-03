@@ -6,10 +6,32 @@
 
 .dt Essays in eugenics. | Project Gutenberg
 
-.bn f001.png
-
 // height for decorators on title page
 .de .h1-decorator { height: 1em; }
+// height of a left/right brace image
+.de .lr-brace { height: 2.25em; }
+// width of a top/bottom brace image
+.de .tb-brace { width: 3em; }
+// transcriber notes
+.de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
+
+// turn %%rs= into a rowspan specification, using %%dc to delete cell below
+.sr h ~(<td.*?)>%%rs=(.)~\1 rowspan="\2">~
+.sr h ~<td .*?>%%dc</td>~~
+
+// left/right braces
+.sr h ~%%lb~<img class="lr-brace" src="images/left-brace.png">~
+.sr h ~%%rb~<img class="lr-brace" src="images/right-brace.png">~
+.sr tb ~%%lb~⎧<br>⎩~
+.sr tb ~%%rb~⎫<br>⎭~
+
+// top/bottom braces
+.sr h ~%%tb~<img class="tb-brace" src="images/top-brace.png">~
+.sr h ~%%bb~<img class="tb-brace" src="images/bottom-brace.png">~
+.sr tb ~%%tb~╭─┴─╮~
+.sr tb ~%%bb~╰─┬─╯~
+
+.bn f001.png
 
 .sp 4
 
@@ -110,7 +132,7 @@ their Publications.
 .h2
 CONTENTS.
 
-.ta rt:4 h:60 rb:5 w=none bl=y
+.ta rt:4 h:60 rb:5
 <th> | | <al=c>PAGE.
 I.   | <sc>The Possible Improvement of the Human Breed under existing Conditions of Law and Sentiment</sc> | #1#
 II.  | <sc>Eugenics, its Definition, Scope, and Aims</sc> | #35#
@@ -334,29 +356,27 @@ S, and so on.
 .sp 1
 
 .ni
-
 .ll -4
 .in +4
 
 .ce
 <sc>Table I.</sc>—<i>Normal distribution (to the nearest</i> per <i>ten-thousand and to the nearest</i> per <i>hundred.)</i>
 
-.ta rm:7 |rm:5 |rm:5 |rm:5 |rm:5 |rm:1 |rm:5 |rm:5 |rm:5 |rm:5 |cm:6 |rm:6
+.in
+.ll
+.pi
+
+.ta rm:5 |rm:3 |rm:3 |rm:4 |rm:4 |rm:1 |rm:4 |rm:4 |rm:3 |rm:3 |cm:6 |rm:6 w=none
 _
-                                |–4°            |–3°            |–2°            |–1°            |M |+1°     |+2°     |+3°     |+4°     |                      |
+                             |–4°            |–3°            |–2°            |–1°            |M |+1°     |+2°     |+3°     |+4°     |                   |
 _
-<th><al=c><i>v</i> and<br>below |<al=c><i>u</i> |<al=c><i>t</i> |<al=c><i>s</i> |<al=c><i>r</i> |  |<al=c>R |<al=c>S |<al=c>T |<al=c>U |<al=c>V and<br>above. |<al=c>Total
+<th><al=c><i>v</i> and below |<al=c><i>u</i> |<al=c><i>t</i> |<al=c><i>s</i> |<al=c><i>r</i> |  |<al=c>R |<al=c>S |<al=c>T |<al=c>U |<al=c>V and above. |<al=c>Total
 _
-35                              |180            |672            |1613           |2500           |  |2500    |1613    |672     |180     |35                    |10,000
+35                           |180            |672            |1613           |2500           |  |2500    |1613    |672     |180     |35                 |10,000
 _
-<al=c>2                         |<span>         |7              |16             |25             |  |25      |16      |7       |<al=c>2 |<span>                |100
+<al=c>2                      |<span>         |7              |16             |25             |  |25      |16      |7       |<al=c>2 |<span>             |100
 _
 .ta-
-
-.ll
-.in
-
-.pi
 
 .sp 1
 
@@ -455,64 +475,62 @@ below <i>t</i>.
 .sp 1
 
 .ni
-
 .ll -4
 .in +4
 
 .ce
 <sc>Table II.</sc>—<i>Comparison of Mr. Booth’s Classification of All London with the Normal Classes.</i>
 
-.ll
 .in
+.ll
+.pi
 
 .sp 1
 
 .if h
-// turn %%rs= into a rowspan specification
-.sr h ~(<td.*?)>%%rs=(.)~\1 rowspan="\2">~
-// remove  cell covered by  rowspan of cell above
-.sr h ~<td .*?>%%dc</td>~~
-
-.ta rm:4 |lm:1 lm:60 lm:1 |rm:7 |lm:1 rm:9 lm:1 |rm:7 |rm:4 |lm:8
+.ta rm:2 |rm:1 lm:30 lm:1 |rm:2 |lm:1 rm:2 lm:1 |rm:2 |rm:2 |lm:8 w=none
 _
-<th><al=c>Nos. |<al=c>Mr. Booth’s classes.  |<span>                                                                                |<span>              |<al=c>Approx.    |<al=c>Resorted.     |<span>     |<span>              |<al=c>Approx. |<al=c>Nos. |<al=c>Normal classes.
+<th><al=c>Nos. |<al=c>Mr. Booth’s classes. |<span>                                             |<span>      |<al=c>Approx. |<al=c>Resorted. |<span> |<span>      |<al=c>Approx. |<al=c>Nos. |<al=c>Normal classes.
 _
-97             |                    |H. All above G                                                                                |                    |100              |                    |100        |                    |100           |89         |T and above
-%%rs=2 200     |%%rs=2 <xxl>{</xxl> |%%rs=2 G. Lower Middle<br>F. High-class labour above 30s. per week                            |%%rs=2 <xxl>}</xxl> |%%rs=2 200       |%%rs=2 <xxl>{</xxl> |%%rs=1 150 |%%rs=1              |%%rs=1 150    |%%rs=1 161 |%%rs=1 S
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=1 50  |%%rs=2 <xxl>}</xxl> |%%rs=2 250    |%%rs=2 250 |%%rs=2 R
-%%rs=2 382     |%%rs=2              |%%rs=2 E. Regular standard earnings from 22s. to 30s. per week                                |%%rs=2 <xxl>}</xxl> |%%rs=2 400       |%%rs=2 <xxl>{</xxl> |%%rs=1 200 |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=1 200 |%%rs=2 <xxl>}</xxl> |%%rs=2 250    |%%rs=2 250 |%%rs=2 <i>r</i>
-%%rs=2 227     |%%rs=2 <xxl>{</xxl> |%%rs=2 D. Regular earnings under 22s. per week<br>C. Intermittent earnings, improvident, poor |%%rs=2 <xxl>}</xxl> |%%rs=2 200       |%%rs=2 <xxl>{</xxl> |%%rs=1 50  |%%dc                |%%dc          |%%dc       |%%dc
-%%dc           |%%dc                |%%dc                                                                                          |%%dc                |%%dc             |%%dc                |%%rs=1 150 |%%rs=1              |%%rs=1 150    |%%rs=1 161 |%%rs=1 <i>s</i>
-94             |<xxl>{</xxl>        |B. Casual; very poor<br>A. Criminals, loafers, &c.                                            |<xxl>}</xxl>        |100              |                    |100        |                    |100           |89         |<i>t</i> and below
+97             |                           |H. All above G                                     |            |100           |                |100    |            |100           |89         |T and above
+%%rs=2 200     |%%rs=2 %%lb                |G. Lower Middle                                    |%%rs=2 %%rb |%%rs=2 200    |%%rs=2 %%lb     |150    |            |150           |161        |S
+%%dc           |%%dc                       |F. High-class labour above 30s. per week           |%%dc        |%%dc          |%%dc            |50     |%%rs=2 %%rb |%%rs=2 250    |%%rs=2 250 |%%rs=2 R
+%%rs=2 382     |%%rs=2                     |E. Regular standard earnings from 22s. to          |%%rs=2 %%rb |%%rs=2 400    |%%rs=2 %%lb     |200    |%%dc        |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                       |\_\_\_\_30s. per week                              |%%dc        |%%dc          |%%dc            |200    |%%rs=2 %%rb |%%rs=2 250    |%%rs=2 250 |%%rs=2 <i>r</i>
+%%rs=2 227     |%%rs=2 %%lb                |D. Regular earnings under 22s. per week            |%%rs=2 %%rb |%%rs=2 200    |%%rs=2 %%lb     |50     |%%dc        |%%dc          |%%dc       |%%dc
+%%dc           |%%dc                       |C. Intermittent earnings, improvident, poor        |%%dc        |%%dc          |%%dc            |150    |            |150           |161        |<i>s</i>
+94             |%%lb                       |B. Casual; very poor<br>A. Criminals, loafers, &c. |%%rb        |100           |                |100    |            |100           |89         |<i>t</i> and below
 _
-1000           |                    |                                                                                              |                    |1000             |                    |           |                    |1000          |1000       |
+1000           |                           |                                                   |            |1000          |                |       |            |1000          |1000       |
 .ta-
 
 .if-
 
 .if t
-.ll 100 // max line length, increase to fit this table
+.ll 93 // max line length, increase to fit this table
 .nf
-────┬───────────────────────────────────────────────┬───────┬─────────┬───────┬────┬────────────────
-Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.│Approx.│Nos.│ Normal classes.
-────┼───────────────────────────────────────────────┼───────┼─────────┼───────┼────┼────────────────
-  97│  H. All above G                               │  100  │   100   │  100  │  89│ T and above
-────┼───────────────────────────────────────────────┼───────┼─────────┼───────┼────┼────────────────
+────┬───────────────────────────────────────────────┬───────┬─────────┬───────┬────┬─────────
+    │                                               │       │         │       │    │ Normal
+Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.│Approx.│Nos.│ classes.
+────┼───────────────────────────────────────────────┼───────┼─────────┼───────┼────┼─────────
+  97│  H. All above G                               │  100  │   100   │  100  │  89│ T and
+    │                                               │       │         │       │    │ above
+────┼───────────────────────────────────────────────┼───────┼─────────┼───────┼────┼─────────
     │ ⎧G. Lower Middle                            ⎫ │       │ ⎧ 150   │  150  │ 161│ S
- 200│ ⎩F. High-class labour above 30s. per week   ⎭ │  200  │ ⎨       ├───────┼────┼────────────────
+ 200│ ⎩F. High-class labour above 30s. per week   ⎭ │  200  │ ⎨       ├───────┼────┼─────────
     │                                               │       │ ⎩  50 ⎫ │       │    │
 ────┼───────────────────────────────────────────────┼───────┤       ⎬ │  250  │ 250│ R
- 382│  E. Regular standard earnings from 22s. to  ⎫ │       │ ⎧ 200 ⎭ │       │    │
-    │        30s. per week                        ⎭ │  400  │ ⎨       ├───────┼────┼────────────────
-────┼───────────────────────────────────────────────┼───────┤ ⎩ 200 ⎫ │       │    │
-    │                                               │       │       ⎬ │  250  │ 250│ <i>r</i>
- 227│ ⎧D. Regular earnings under 22s. per week    ⎫ │       │ ⎧  50 ⎭ │       │    │
-    │ ⎩C. Intermittent earnings, improvident, poor⎭ │  200  │ ⎨       ├───────┼────┼────────────────
-────┼───────────────────────────────────────────────┼───────┤ ⎩ 150   │  150  │ 161│ <i>s</i>
-  94│ ⎧B. Casual; very poor                       ⎫ │       │         ├───────┼────┼────────────────
-    │ ⎩A. Criminals, loafers, &c.                 ⎭ │  100  │   100   │  100  │  89│ <i>t</i> and below
-────┴───────────────────────────────────────────────┴───────┴─────────┴───────┴────┴────────────────
+    │  E. Regular standard earnings from 22s. to  ⎫ │       │ ⎧ 200 ⎭ │       │    │
+ 382│        30s. per week                        ⎭ │  400  │ ⎨       ├───────┼────┼─────────
+    │                                               │       │ ⎩ 200 ⎫ │       │    │
+────┼───────────────────────────────────────────────┼───────┤       ⎬ │  250  │ 250│ <i>r</i>
+    │ ⎧D. Regular earnings under 22s. per week    ⎫ │       │ ⎧  50 ⎭ │       │    │
+ 227│ ⎩C. Intermittent earnings, improvident, poor⎭ │  200  │ ⎨       ├───────┼────┼─────────
+    │                                               │       │ ⎩ 150   │  150  │ 161│ <i>s</i>
+────┼───────────────────────────────────────────────┼───────┤         ├───────┼────┼─────────
+  94│ ⎧B. Casual; very poor                       ⎫ │  100  │   100   │  100  │  89│ <i>t</i> and
+    │ ⎩A. Criminals, loafers, &c.                 ⎭ │       │         │       │    │ below
+────┴───────────────────────────────────────────────┴───────┴─────────┴───────┴────┴─────────
 1000                                                  1000              1000   1000
 .nf-
 .ll // reset
@@ -520,18 +538,18 @@ Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.�
 
 .sp 1
 
+.ni
 .ll -4
 .in +4
 
 .ce
 The two columns headed “Nos.” give respectively the numbers per thousand in Mr. Booth’s and in the Normal Classes.
 
-.ll
 .in
+.ll
+.pi
 
 .sp 1
-
-.pi
 
 Class C are supported by intermittent
 earnings; they are a hard-working people, but
@@ -671,7 +689,6 @@ adult man and an adult woman.
 .sp 1
 
 .ni
-
 .ll -4
 .in +4
 
@@ -683,37 +700,43 @@ adult man and an adult woman.
 
 .in
 .ll
+.pi
 
 .sp 1
 
-.ta cm:11 lm:5 rm:6 lm:1 cm:9 lm:1 cm:8 cm:3 |rm:3 rm:3 |rm:3 |rm:4 |rm:4 |rm:4 |rm:4 |rm:3 |rm:3 rm:3 |rm:12
+.ll 101 // wide table
+
+.ta cm:11 lm:1 rm:6 lm:1 cm:9 lm:1 cm:5 cm:3 |rm:3 rm:3 |rm:3 |rm:4 |rm:4 |rm:4 |rm:4 |rm:3 |rm:3 rm:2 |rm:12 w=none
 _
-                                         |<al=r><i>Per</i>  |100    |<al=l>Father (or <i>Mothers</i>). |<span>                 |<span>       |<span>    |<span>   |<al=c>2            |<span>         |<al=c>7        |<al=c>16       |<al=c>25       |<al=c>25 |<al=c>16 |<al=c>7 |<al=c>2            |<span>  |100
-                                         |                  |       |                                  |                       |             |          |         |<al=c><xxl>⏞</xxl> |<span>         |               |               |               |         |         |        |<al=c><xxl>⏞</xxl> |<span>  |
-                                         |<al=r><i>Per</i>  |10,000 |<al=l>Father (or <i>Mothers</i>). |<span>                 |<span>       |<span>    |<span>   |35                 |180            |671            |1614           |2500           |2500     |1614     |672     |180                |35      |10,000
+<al=r><i>Per</i>         |<span>           |100    |<al=l>Father (or <i>Mothers</i>). |<span>                 |<span>       |<span>   |<span>   |<al=c>2        |<span>         |<al=c>7        |<al=c>16       |<al=c>25       |<al=c>25 |<al=c>16 |<al=c>7 |<al=c>2            |<span>  |100
+                         |                 |       |                                  |                       |             |         |         |<al=c>%%tb     |<span>         |               |               |               |         |         |        |<al=c>%%tb         |<span>  |
+<al=r><i>Per</i>         |<span>           |10,000 |                                  |<al=c>”                |             |         |         |35             |180            |671            |1614           |2500           |2500     |1614     |672     |180                |35      |10,000
 _
-<th>Names of classes                     |<span>            |<span> |<span>                            |<span>                 |<span>       |<span>    |<span>   |<al=c><i>v</i>     |<al=c><i>u</i> |<al=c><i>t</i> |<al=c><i>s</i> |<al=c><i>r</i> |<al=c>R  |<al=c>S  |<al=c>T |<al=c>U            |<al=c>V |<al=c>Totals
+<th>Names of classes     |<span>           |<span> |<span>                            |<span>                 |<span>       |<span>   |<span>   |<al=c><i>v</i> |<al=c><i>u</i> |<al=c><i>t</i> |<al=c><i>s</i> |<al=c><i>r</i> |<al=c>R  |<al=c>S  |<al=c>T |<al=c>U            |<al=c>V |<al=c>Totals
 _
-                                         |                  |       |                                  |                       |             |          |         |                   |               |               |               |               |         |         |        |                   |        |Sons (or <i>daughters</i>)
-Sons<br><i>Daughters</i>                 |<xxl>}</xxl>\_of  |35     |<xxl>{</xxl>                      |Fathers <i>Mothers</i> |<xxl>}</xxl> |of\_class |V        |                   |               |               |               |               |1        |6        |12      |10                 |6       |35
-”                                        |                  |180    |                                  |”                      |             |”         |U        |                   |               |               |               |4              |20       |52       |61      |33                 |10      |180
-”                                        |                  |671    |                                  |”                      |             |”         |T        |                   |               |               |7              |44             |150      |234      |170     |57                 |10      |672
-”                                        |                  |1614   |                                  |”                      |             |”         |S        |                   |               |6              |57             |253            |512      |509      |224     |47                 |5       |1613
-”                                        |                  |2500   |                                  |”                      |             |”         |R        |                   |3              |42             |248            |678            |860      |510      |140     |18                 |3       |2502
-”                                        |                  |2500   |                                  |”                      |             |”         |<i>r</i> |3                  |18             |140            |510            |860            |678      |248      |42      |3                  |        |2502
-”                                        |                  |1614   |                                  |”                      |             |”         |<i>s</i> |5                  |47             |224            |509            |512            |253      |57       |6       |                   |        |1613
-”                                        |                  |671    |                                  |”                      |             |”         |<i>t</i> |10                 |57             |170            |234            |150            |44       |7        |        |                   |        |672
-”                                        |                  |180    |                                  |”                      |             |”         |<i>u</i> |10                 |33             |61             |52             |20             |4        |         |        |                   |        |180
-”                                        |                  |35     |                                  |”                      |             |”         |<i>v</i> |6                  |10             |12             |6              |1              |         |         |        |                   |        |35
+                         |                 |       |                                  |                       |             |         |         |               |               |               |               |               |         |         |        |                   |        |Sons (or <i>daughters</i>)
+Sons<br><i>Daughters</i> |%%rb             |of 35  |%%lb                              |Fathers <i>Mothers</i> |%%rb         |of class |V        |               |               |               |               |               |1        |6        |12      |10                 |6       |35
+”                        |                 |180    |                                  |”                      |             |”        |U        |               |               |               |               |4              |20       |52       |61      |33                 |10      |180
+”                        |                 |671    |                                  |”                      |             |”        |T        |               |               |               |7              |44             |150      |234      |170     |57                 |10      |672
+”                        |                 |1614   |                                  |”                      |             |”        |S        |               |               |6              |57             |253            |512      |509      |224     |47                 |5       |1613
+”                        |                 |2500   |                                  |”                      |             |”        |R        |               |3              |42             |248            |678            |860      |510      |140     |18                 |3       |2502
+”                        |                 |2500   |                                  |”                      |             |”        |<i>r</i> |3              |18             |140            |510            |860            |678      |248      |42      |3                  |        |2502
+”                        |                 |1614   |                                  |”                      |             |”        |<i>s</i> |5              |47             |224            |509            |512            |253      |57       |6       |                   |        |1613
+”                        |                 |671    |                                  |”                      |             |”        |<i>t</i> |10             |57             |170            |234            |150            |44       |7        |        |                   |        |672
+”                        |                 |180    |                                  |”                      |             |”        |<i>u</i> |10             |33             |61             |52             |20             |4        |         |        |                   |        |180
+”                        |                 |35     |                                  |”                      |             |”        |<i>v</i> |6              |10             |12             |6              |1              |         |         |        |                   |        |35
 _
-<al=r>Total                              |<span>            |10,000 |Fathers (or <i>Mothers</i>)       |<span>                 |<span>       |<span>    |<span>   |34                 |168            |655            |1623           |2522           |2522     |1623     |655     |168                |34      |10,004
-                                         |                  |       |                                  |                       |             |          |         |<al=c><xxl>⏟</xxl> |<span>         |               |               |               |         |         |        |<al=c><xxl>⏟</xxl> |<span>  |
-<al=r>Total                              |<span>            |100    |Fathers (or <i>Mothers</i>)       |<span>                 |<span>       |<span>    |<span>   |<al=c>2            |<span>         |7              |16             |25             |25       |16       |7       |<al=c>2            |<span>  |
+<al=r>Total              |<span>           |10,000 |Fathers (or <i>Mothers</i>)       |<span>                 |<span>       |<span>   |<span>   |34             |168            |655            |1623           |2522           |2522     |1623     |655     |168                |34      |10,004
+                         |                 |       |                                  |                       |             |         |         |<al=c>%%bb     |<span>         |               |               |               |         |         |        |<al=c>%%bb         |<span>  |
+<al=r>”\_\_              |<span>           |100    |                                  |<al=c>”                |             |         |         |<al=c>2        |<span>         |7              |16             |25             |25       |16       |7       |<al=c>2            |<span>  |
 _
 .ta-
 
 .sp 1
 
+.ll // reset
+
+.ni
 .ll -4
 .in +4
 
@@ -722,7 +745,6 @@ _
 
 .in
 .ll
-
 .pi
 
 .sp 1
@@ -891,7 +913,7 @@ higher class on only one side.
 
 .sp 1
 
-.ta l:14 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:6 w=none
+.ta l:14 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:6
 _
 <th><al=c>Distribution of Sons |<span>         |<span>         |<span>         |<span>  |<span>  |<span>  |<span>  |<span>  |<span>
 _
@@ -4244,7 +4266,6 @@ Footnotes
 .pb
 .ni
 
-.de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
 .dv class="tnotes"
 
 .ce

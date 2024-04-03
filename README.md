@@ -137,6 +137,20 @@ First two are diacritical marks. The third seems to relate to aboriginal languag
 
 ### Smooth Reading ###
 
+### Ebook review notes ###
+
+The wide / complex tables render pretty decently in Apple Books (Mac). For some
+it's best to tap on them to zoom in and look that way. But they still look way
+better than some of the other apps.
+
+They're a little less good on Apple Books (iPhone) but still surprisingly good
+since you can tap to open them in a separate view, then pinch and zoom. Not all
+of the phone/tablet readers offer this for tables.
+
+Kindle (Mac) does a fairly decent job with the tables. Again you can open them
+separately. But it does a less good job with the `{` `}` brackets than Apple
+Books did. Maybe these should be re-done as SVG or PNG instead of characters.
+
 
 [1]: https://archive.org/details/b21727922
 [2]: https://en.wikipedia.org/wiki/Francis_Galton

@@ -20,14 +20,14 @@
 .sr h ~<td .*?>%%dc</td>~~
 
 // left/right braces
-.sr h ~%%lb~<img class="lr-brace" src="images/left-brace.png">~
-.sr h ~%%rb~<img class="lr-brace" src="images/right-brace.png">~
+.sr h ~%%lb~<img class="lr-brace" alt="left curly bracket" src="images/left-brace.png">~
+.sr h ~%%rb~<img class="lr-brace" alt="right curly bracket" src="images/right-brace.png">~
 .sr tb ~%%lb~⎧<br>⎩~
 .sr tb ~%%rb~⎫<br>⎭~
 
 // top/bottom braces
-.sr h ~%%tb~<img class="tb-brace" src="images/top-brace.png">~
-.sr h ~%%bb~<img class="tb-brace" src="images/bottom-brace.png">~
+.sr h ~%%tb~<img class="tb-brace" alt="top curly bracket" src="images/top-brace.png">~
+.sr h ~%%bb~<img class="tb-brace" alt="bottom curly bracket" src="images/bottom-brace.png">~
 .sr tb ~%%tb~╭─┴─╮~
 .sr tb ~%%bb~╰─┬─╯~
 

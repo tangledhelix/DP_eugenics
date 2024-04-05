@@ -472,6 +472,7 @@ numbers in this and the A class combined
 closely correspond with those in <i>t</i> and all
 below <i>t</i>.
 
+.pb
 .sp 1
 
 .ni
@@ -686,6 +687,7 @@ but will simply suppose that each parentage
 produces one couplet of grown-up filials, an
 adult man and an adult woman.
 
+.pb
 .sp 1
 
 .ni

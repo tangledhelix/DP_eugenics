@@ -139,17 +139,85 @@ First two are diacritical marks. The third seems to relate to aboriginal languag
 
 ### Ebook review notes ###
 
-The wide / complex tables render pretty decently in Apple Books (Mac). For some
-it's best to tap on them to zoom in and look that way. But they still look way
-better than some of the other apps.
+Summary:
+- ADE: Rendered txt/png ok. Suffered at narrow widths.
+- iBooks: Rendered txt/svg ok, but had trouble with PNGs!
+- Kindle: Rendered txt/png ok. Much trouble with SVG.
+- Calibre: sucks at tables.
+- Kobo: sucks at tables.
+- GPB: sucks at tables.
 
-They're a little less good on Apple Books (iPhone) but still surprisingly good
-since you can tap to open them in a separate view, then pinch and zoom. Not all
-of the phone/tablet readers offer this for tables.
+Verdict: PNG I guess? I'm surprised iBooks had so much trouble with PNGs.
+The wiki FAQs also seem to suggest SVG is a special case that should only
+be resorted to if using LaTeX. PNG it is.
 
-Kindle (Mac) does a fairly decent job with the tables. Again you can open them
-separately. But it does a less good job with the `{` `}` brackets than Apple
-Books did. Maybe these should be re-done as SVG or PNG instead of characters.
+Rendering of the "drawn with unicode" brackets:
+- ADE: renders decently, but not great due to narrow screen width.
+- iBooks:
+    - Mac: renders acceptably.
+    - iPhone: renders acceptably but text brackets not the best.
+- Kindle:
+    - Previewer: Actually rendered quite well (with zoom-in).
+    - iPhone: renders fine but you need to zoom in
+    - Android: renders fine on zoom.
+    - Paperwhite: renders ok. need to zoom.
+- Calibre:
+    - Mac: rendering is not great. It flows wrongly, if the table is wider than
+      the display it bleeds over the text of the following page, it's just not
+      good at all. It renders the brackets acceptably. If you widen the
+      viewport then it lays it out okay but might be across a page break which
+      is not good. No way to control that as far as I can tell. No zoom like
+      iBooks.
+- Kobo:
+    - iPhone: chars render ok; table bleeds to next page badly.
+- Google Play Books:
+    - Chars render OK but table layout terrible
+
+Rendering of the PNG brackets:
+- ADE: actually rendered quite well. But needed either small font, or wider
+  screen, or really both.
+- iBooks:
+    - Mac: inconsistent - in one table, some brackets appear, not others. In
+      another table, no brackets appear!
+    - iPhone: doesn't render the L/R brackets. or the top/bottom.
+- Kindle:
+    - Previewer: Somewhat decent. The scaling isn't that great.
+    - iPhone: renders well, need to zoom in
+    - Paperwhite: renders fine, even in dark mode (if zoomed)
+    - Android: renders with white bg even in dark mode, but they work
+- Calibre:
+    - Mac: see above regarding layout. Renders the PNGs ok.
+- Kobo:
+    - iPhone: chars render ok; table layout really bad.
+- Google Play Books:
+    - PNGs render ok but table layout SUCKS
+
+Rendering of the SVG brackets:
+- ADE: not great. They rendered at unexpected sizes. And worse, at inconsistent
+  sizes! The same SVG repeated in different columns behaved differently! Same
+  CSS. At least, when at narrow width; at wider width it actually lays out
+  perfectly. So something about the layout engine is messing up the sizing of
+  various cells I guess. Affects only the left-right braces. The top/bottom
+  braces don't seem to be affected. At narrow widths, the braces shrink
+  unexpectedly. Doesn't happen with PNGs.
+- iBooks:
+    - Mac: seems to display properly, at least when zooming into the table.
+    - iPhone: renders in page at wrong sizes. But on zoom in it renders fine!
+- Kindle:
+    - Previewer: Ignores some of the SVGs; displays others. But the ones it
+      displays are scaled incorrectly. I don't see any consistency to when it
+      decides it will or won't render an SVG...
+    - iPhone: very inconsistent rendering; some missing; some sized wrong.
+      cell layouts are really wack as well.
+    - Android: inconsistent.
+    - Paperwhite: Renders fine. Odd considering all the other Kindles suck at SVG.
+- Calibre:
+    - Mac: see above about layout. Renders the SVGs ok.
+- Kobo:
+    - iPhone: chars render sort of ok; not scaled like I'd want, but really
+      bad at the table rendering, and it bleeds to next page
+- Google Play Books:
+    - chars render ok (wrong scale) but table layout TERRIBLY BAD
 
 
 [1]: https://archive.org/details/b21727922

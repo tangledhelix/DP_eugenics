@@ -9,9 +9,9 @@
 // height for decorators on title page
 .de .h1-decorator { height: 1em; }
 // height of a left/right brace image
-.de .lr-brace { height: 2.25em; }
+.de .lr-brace { height: 2.25em; max-height: 2.25em; }
 // width of a top/bottom brace image
-.de .tb-brace { width: 3em; }
+.de .tb-brace { width: 3em; max-width: 3em; }
 // transcriber notes
 .de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
 
@@ -4298,8 +4298,7 @@ Other charts were rendered as text. Some of them are wide.
 .if-
 
 .if h
-Some tables are wide and may display poorly on small screens
-(especially tables II and III).
+Some tables are wide and may display poorly.
 .if-
 
 .dv-

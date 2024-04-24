@@ -134,13 +134,13 @@ CONTENTS.
 
 .ta rt:4 h:60 rb:5
 <th> | | <al=c>PAGE.
-I.   | <sc>The Possible Improvement of the Human Breed under existing Conditions of Law and Sentiment</sc> | #1#
-II.  | <sc>Eugenics, its Definition, Scope, and Aims</sc> | #35#
-III. | <sc>Restrictions in Marriage</sc> | #44#
-IV.  | <sc>Studies in National Eugenics</sc> | #60#
-V.   | <sc>Eugenics as a Factor in Religion</sc> | #68#
-VI.  | <sc>Probability, the Foundation of Eugenics</sc> | #73#
-VII. | <sc>Local Associations for Promoting Eugenics</sc> | #100#
+I.   | #<sc>The Possible Improvement of the Human Breed under existing Conditions of Law and Sentiment</sc>:Page_1# | 1
+II.  | #<sc>Eugenics, its Definition, Scope, and Aims</sc>:Page_35# | 35
+III. | #<sc>Restrictions in Marriage</sc>:Page_44# | 44
+IV.  | #<sc>Studies in National Eugenics</sc>:Page_60# | 60
+V.   | #<sc>Eugenics as a Factor in Religion</sc>:Page_68# | 68
+VI.  | #<sc>Probability, the Foundation of Eugenics</sc>:Page_73# | 73
+VII. | #<sc>Local Associations for Promoting Eugenics</sc>:Page_100# | 100
 .ta-
 
 .bn f006.png

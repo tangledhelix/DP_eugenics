@@ -65,9 +65,6 @@ ESSAYS IN EUGENICS.
 .h2
 PREFACE.
 
-.pi
-.nr psi .5em
-
 The following Essays are re-printed in
 the chronological order of their delivery.
 They will, therefore, help to show something
@@ -355,7 +352,6 @@ S, and so on.
 
 .sp 1
 
-.ni
 .ll -4
 .in +4
 
@@ -364,7 +360,6 @@ S, and so on.
 
 .in
 .ll
-.pi
 
 .ta rm:5 |rm:3 |rm:3 |rm:4 |rm:4 |rm:1 |rm:4 |rm:4 |rm:3 |rm:3 |cm:6 |rm:6 w=none
 _
@@ -475,7 +470,6 @@ below <i>t</i>.
 .pb
 .sp 1
 
-.ni
 .ll -4
 .in +4
 
@@ -484,7 +478,6 @@ below <i>t</i>.
 
 .in
 .ll
-.pi
 
 .sp 1
 
@@ -539,7 +532,6 @@ Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.�
 
 .sp 1
 
-.ni
 .ll -4
 .in +4
 
@@ -548,7 +540,6 @@ The two columns headed “Nos.” give respectively the numbers per thousand in 
 
 .in
 .ll
-.pi
 
 .sp 1
 
@@ -690,7 +681,6 @@ adult man and an adult woman.
 .pb
 .sp 1
 
-.ni
 .ll -4
 .in +4
 
@@ -702,7 +692,6 @@ adult man and an adult woman.
 
 .in
 .ll
-.pi
 
 .sp 1
 
@@ -738,7 +727,6 @@ _
 
 .ll // reset
 
-.ni
 .ll -4
 .in +4
 
@@ -747,7 +735,6 @@ _
 
 .in
 .ll
-.pi
 
 .sp 1
 
@@ -902,8 +889,6 @@ higher class on only one side.
 
 .sp 1
 
-.ni
-
 .ll -4
 .in +4
 
@@ -936,8 +921,6 @@ Position of the filial centre of (1) = 1·44, of (2) = 2·89. When both parents 
 
 .in
 .ll
-
-.pi
 
 .sp 1
 
@@ -4266,7 +4249,6 @@ Footnotes
 .fm lz=th rend=no
 
 .pb
-.ni
 
 .dv class="tnotes"
 

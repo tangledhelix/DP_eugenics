@@ -65,6 +65,10 @@ ESSAYS IN EUGENICS.
 .h2
 PREFACE.
 
+.pi
+// vertical spacing between paragraphs
+.nr psi .75em
+
 The following Essays are re-printed in
 the chronological order of their delivery.
 They will, therefore, help to show something
@@ -126,6 +130,8 @@ their Publications.
 
 .sp 4
 
+.ni
+
 .h2
 CONTENTS.
 
@@ -164,6 +170,8 @@ THE POSSIBLE IMPROVEMENT OF THE HUMAN BREED,
 
 .in
 .ll
+
+.pi
 
 In fulfilling the honourable charge that has
 been entrusted to me of delivering the Huxley
@@ -354,6 +362,7 @@ S, and so on.
 
 .ll -4
 .in +4
+.ni
 
 .ce
 <sc>Table I.</sc>—<i>Normal distribution (to the nearest</i> per <i>ten-thousand and to the nearest</i> per <i>hundred.)</i>
@@ -374,6 +383,8 @@ _
 .ta-
 
 .sp 1
+
+.pi
 
 In the lowest line the same values are
 given, but more roughly, to the nearest whole
@@ -470,6 +481,8 @@ below <i>t</i>.
 .pb
 .sp 1
 
+.ni
+
 .ll -4
 .in +4
 
@@ -542,6 +555,8 @@ The two columns headed “Nos.” give respectively the numbers per thousand in 
 .ll
 
 .sp 1
+
+.pi
 
 Class C are supported by intermittent
 earnings; they are a hard-working people, but
@@ -681,6 +696,8 @@ adult man and an adult woman.
 .pb
 .sp 1
 
+.ni
+
 .ll -4
 .in +4
 
@@ -737,6 +754,8 @@ _
 .ll
 
 .sp 1
+
+.pi
 
 The result is shown to the nearest whole
 per thousand in the table up to “V and above,”
@@ -889,6 +908,8 @@ higher class on only one side.
 
 .sp 1
 
+.ni
+
 .ll -4
 .in +4
 
@@ -921,6 +942,8 @@ Position of the filial centre of (1) = 1·44, of (2) = 2·89. When both parents 
 
 .in
 .ll
+
+.pi
 
 .sp 1
 
@@ -2997,6 +3020,8 @@ Dent’s “Everyman’s Library,” price One Shilling.
 .fn-
 .fs
 
+.ni
+
 .fs 85%
 .nf b
 As Heaven and Earth are fairer, fairer far
@@ -3013,6 +3038,8 @@ In glory that old Darkness.
 .fs
 .bn p077.png
 .pn +1
+
+.pi
 
 He ends with ‘this is the truth, and let it
 be your balm.’ The poem is a noble conception,
@@ -3687,6 +3714,8 @@ Eugenics. Otherwise the influence of collective
 truths on individual conduct is deplorably
 weak, as expressed by the lines:—
 
+.ni
+
 .fs 85%
 .nf b
 For others’ follies teach us not,
@@ -3695,6 +3724,8 @@ But chief of solid worth is what
 Our own experience preaches.
 .nf-
 .fs
+
+.pi
 
 Professor Westermarck, among many other
 remarks in which I fully concur, has aptly
@@ -4249,6 +4280,8 @@ Footnotes
 .fm lz=th rend=no
 
 .pb
+
+.ni
 
 .dv class="tnotes"
 

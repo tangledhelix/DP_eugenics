@@ -358,7 +358,7 @@ small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
 
-.sp 1
+.sp
 
 .ll -4
 .in +4
@@ -382,7 +382,7 @@ _
 _
 .ta-
 
-.sp 1
+.sp
 
 .pi
 
@@ -479,7 +479,7 @@ closely correspond with those in <i>t</i> and all
 below <i>t</i>.
 
 .pb
-.sp 1
+.sp
 
 .ni
 
@@ -492,7 +492,7 @@ below <i>t</i>.
 .in
 .ll
 
-.sp 1
+.sp
 
 .if h
 .ta rm:2 |rm:1 lm:30 lm:1 |rm:2 |lm:1 rm:2 lm:1 |rm:2 |rm:2 |lm:8 w=none
@@ -543,7 +543,7 @@ Nos.│             Mr. Booth’s classes.              │Approx.│Resorted.�
 .ll // reset
 .if-
 
-.sp 1
+.sp
 
 .ll -4
 .in +4
@@ -554,7 +554,7 @@ The two columns headed “Nos.” give respectively the numbers per thousand in 
 .in
 .ll
 
-.sp 1
+.sp
 
 .pi
 
@@ -694,7 +694,7 @@ produces one couplet of grown-up filials, an
 adult man and an adult woman.
 
 .pb
-.sp 1
+.sp
 
 .ni
 
@@ -710,7 +710,7 @@ adult man and an adult woman.
 .in
 .ll
 
-.sp 1
+.sp
 
 .ll 101 // wide table
 
@@ -740,7 +740,7 @@ _
 _
 .ta-
 
-.sp 1
+.sp
 
 .ll // reset
 
@@ -753,7 +753,7 @@ _
 .in
 .ll
 
-.sp 1
+.sp
 
 .pi
 
@@ -906,7 +906,7 @@ higher class on only one side.
 .bn p019.png
 .pn +1
 
-.sp 1
+.sp
 
 .ni
 
@@ -919,7 +919,7 @@ higher class on only one side.
 .in
 .ll
 
-.sp 1
+.sp
 
 .ta l:14 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:5 |r:6
 _
@@ -945,7 +945,7 @@ Position of the filial centre of (1) = 1·44, of (2) = 2·89. When both parents 
 
 .pi
 
-.sp 1
+.sp
 
 <i>Marriage of like to like.</i>—In each class of
 society there is a strong tendency to intermarriage,

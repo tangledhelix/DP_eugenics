@@ -6,6 +6,20 @@
 
 .dt Essays in eugenics. | Project Gutenberg
 
+// footnote start
+.dm fns $1
+.ni
+.fs 85%
+.fn $1
+.dm-
+
+// footnote end
+.dm fne
+.fn-
+.fs
+.pi
+.dm-
+
 // height for decorators on title page
 .de .h1-decorator { height: 1em; }
 // height of a left/right brace image
@@ -218,13 +232,11 @@ depends than we might and ought to ascertain.
 The limits of our knowledge and of our
 ignorance will become clearer as we proceed.
 
-.fs 80%
-.fn #
+.pm fns #
 The second Huxley Lecture of the Anthropological Institute,
 delivered by Francis Galton, D.C.L., D.Sc., F.R.S., on October
 29, 1901.
-.fn-
-.fs
+.pm fne
 
 <i>Human Variety.</i>—The natural character
 and faculties of human beings differ at least
@@ -1384,8 +1396,7 @@ and I feel sure that if its value were more
 widely understood it would become commoner
 than it is.
 
-.fs 80%
-.fn #
+.pm fns #
 The 80 charitable bequests of and exceeding £9000,
 made in 1808 alone, amounted to more than 3–1/2 millions of
 pounds. (Whitaker’s Almanack to 1909, p. 433).
@@ -1403,8 +1414,7 @@ is “I bequeath to my trusted friend A.B., of ....., absolutely,
 the sum of £...... in the hope and confidence that he will apply
 the same in furtherance of Eugenic Study and practice, but without
 imposing on him any trust or legal obligation so to do.” F.G.
-.fn-
-.fs
+.pm fne
 
 Many degrees may be imagined that lie
 between mere befriendment and actual
@@ -1573,13 +1583,11 @@ is to represent each class or sect by its best
 specimens; that done, to leave them to work
 out their common civilisation in their own way.
 
-.fs 80%
-.fn #
+.pm fns #
 Read before the Sociological Society at a Meeting in the School of
 Economics and Political Science (London University), on May
 16th, 1904. Professor <sc>Karl Pearson</sc>, F.R.S., in the chair.
-.fn-
-.fs
+.pm fne
 
 A considerable list of qualities can be easily
 compiled that nearly every one except “cranks”
@@ -1868,14 +1876,12 @@ which, for the present purpose, are Frazer’s
 Marriage</cite>, Huth’s <cite>Marriage of Near Kin</cite>, and
 Crawley’s <cite>Mystic Rose</cite>.
 
-.fs 80%
-.fn #
+.pm fns #
 Read before the Sociological Society, on Tuesday, February 14th,
 at a meeting in the School of Economics and Political
 Science (University of London), Clare Market, W.C., Dr. <sc>E.
 Westermarck</sc> in the Chair.
-.fn-
-.fs
+.pm fne
 
 1. <sc>Monogamy.</sc> It is impossible to label
 mankind by one general term, either as
@@ -2425,14 +2431,12 @@ step by step, at possibly long intervals.
 .bn p061.png
 .pn +1
 
-.fs 80%
-.fn #
+.pm fns #
 Communicated at a meeting of the Sociological Society held in
 the School of Economics and Political Science (University
 of London), Clare Market, W.C., on Tuesday, February
 14th, at 4 p.m.
-.fn-
-.fs
+.pm fne
 
 .sp 2
 
@@ -2919,12 +2923,10 @@ keenly perceive the same difference, and I
 lose much of that outspoken criticism which
 is an invaluable help to all who investigate.
 
-.fs 80%
-.fn #
+.pm fns #
 The Herbert Spencer Lecture delivered before the University
 at Oxford, June 5th, 1907.
-.fn-
-.fs
+.pm fne
 
 .sp 2
 
@@ -3014,11 +3016,9 @@ ten consecutive lines from the speech of the
 fallen Oceanus to his comrades, which give
 a summary of evolution as here described:
 
-.fs 80%
-.fn #
+.pm fns #
 Dent’s “Everyman’s Library,” price One Shilling.
-.fn-
-.fs
+.pm fne
 
 .ni
 
@@ -3965,12 +3965,10 @@ It is upon this very important branch of our
 wide subject that I propose to offer a few
 remarks.
 
-.fs 80%
-.fn #
+.pm fns #
 Address to a meeting of the Eugenics Education Society
 at the Grafton Galleries, on October 14th, 1908.
-.fn-
-.fs
+.pm fne
 
 It is difficult, while explaining what I
 have in view, to steer a course that shall keep
@@ -4273,15 +4271,13 @@ desire of promoting the natural gifts and the
 national efficiency of future generations.
 
 .sp 4
-
 .h2
 Footnotes
 
 .fm lz=th rend=no
+.ni
 
 .pb
-
-.ni
 
 .dv class="tnotes"
 

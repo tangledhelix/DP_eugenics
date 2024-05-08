@@ -1,5 +1,4 @@
 %::pagenumbers = (
- 'Pg001' => {'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pgf001' => {'offset' => '48.0', 'label' => '', 'style' => 'Arabic', 'action' => 'No Count', 'base' => 'f001'},
  'Pgf002' => {'offset' => '74.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pgf003' => {'offset' => '75.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
@@ -118,7 +117,7 @@
 );
 
 
-$::bookmarks[0] = '4284.3';
+$::bookmarks[0] = '4277.17';
 $::bookmarks[1] = '398.0';
 
 $::pngspath = '/Users/dan/dp/pp/eugenics/pngs/';

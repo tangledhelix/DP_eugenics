@@ -1515,7 +1515,7 @@ millions of the human race.
 
 .sp 4
 
-.h2
+.h2 title="EUGENICS: ITS DEFINITION, SCOPE AND AIMS."
 EUGENICS: ITS DEFINITION, SCOPE AND AIMS.[#]
 
 Eugenics is the science which deals with
@@ -1836,7 +1836,7 @@ not wholly foresee.
 
 .sp 4
 
-.h2
+.h2 title="RESTRICTIONS IN MARRIAGE."
 RESTRICTIONS IN MARRIAGE.[#]
 
 It is proposed in the following remarks to
@@ -2402,7 +2402,7 @@ without reservation.
 
 .sp 4
 
-.h2
+.h2 title="STUDIES IN NATIONAL EUGENICS"
 STUDIES IN NATIONAL EUGENICS[#]
 
 It was stated in the <cite>Times</cite>, January, 26,
@@ -2880,7 +2880,7 @@ nature.
 
 .sp 4
 
-.h2
+.h2 title="PROBABILITY, THE FOUNDATION OF EUGENICS."
 PROBABILITY, THE FOUNDATION OF EUGENICS.[#]
 
 The request so honourable to myself, to
@@ -3928,7 +3928,7 @@ physical and moral qualities of our race.
 
 .sp 4
 
-.h2
+.h2 title="LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS"
 LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS[#]
 
 I propose to take the present opportunity

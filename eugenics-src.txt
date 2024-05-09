@@ -756,18 +756,11 @@ _
 
 .ll // reset
 
-.ll -4
-.in +4
+.pi
 
-.ce
 <em>Note.</em>—The agreement in distribution between fathers (or <i>mothers</i>) and sons (or <i>daughters</i>) is exact to the nearest whole per centage. The slight discrepancy in the ten-thousandths is mainly due to the classes being too few and too wide; theoretically they should be extremely numerous and narrow.
 
-.in
-.ll
-
 .sp
-
-.pi
 
 The result is shown to the nearest whole
 per thousand in the table up to “V and above,”
@@ -944,18 +937,11 @@ Two V-parents                  |               |               |               |
 _
 .ta-
 
-.ll -4
-.in +4
+.pi
 
-.fs 80%
-.ce
+.fs 85%
 Position of the filial centre of (1) = 1·44, of (2) = 2·89. When both parents are T it = 1·58.
 .fs
-
-.in
-.ll
-
-.pi
 
 .sp
 
@@ -1759,16 +1745,22 @@ remarks of Lord Bacon in his essay on Death
 may appropriately be quoted here. He says
 with the view of minimising its terrors:
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 “There is no passion in the mind of men so weak
 but it mates and masters the fear of death.\ -\ Revenge
 triumphs over death; love slights it; honour aspireth to
 it; grief flyeth to it; fear pre-occupateth it.”
 .fs
+
+.if t
 .in
 .ll
+.if-
 
 Exactly the same kind of considerations
 apply to marriage. The passion of love seems so
@@ -2675,8 +2667,11 @@ guidance of what I called “immaterial
 motives.” This is all I had in view when
 writing it.
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 <i>Certificates.</i>—One of the comments on which I will
 remark is that if certificates were now offered to those
@@ -2755,8 +2750,11 @@ in checking the marriages she considers indiscreet.
 made concerning eugenics as a religion; this will be the
 subject of the brief memoir that follows these remarks.
 .fs
-.ll
+
+.if t
 .in
+.ll
+.if-
 
 It is much to be desired that competent
 persons would severally take up one or other
@@ -3126,8 +3124,11 @@ of objects in view; also the following passage
 (p. 159), which is preceded by forcible reasons
 for his conclusions:
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 We are ceasing as a nation to breed intelligence as
 we did fifty to a hundred years ago. The mentally
@@ -3140,8 +3141,11 @@ the level of hereditary strength. The only remedy, if
 one be possible at all, is to alter the relative fertility of
 the good and the bad stocks in the community.
 .fs
-.ll
+
+.if t
 .in
+.ll
+.if-
 
 Again in 1904, having been asked by the
 newly-formed Sociological Society to contribute
@@ -3683,8 +3687,11 @@ affairs (<cite>Human Understanding</cite>, iv. 14, par. 1):
 .bn p094.png
 .pn +1
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 Man would be at a great loss if he had nothing to
 direct him but what has the certainty of true knowledge.
@@ -3697,8 +3704,11 @@ him, he that will not stir till he infallibly knows the
 business he goes about will succeed, will have little else
 to do than to sit still and perish.
 .fs
-.ll
+
+.if t
 .in
+.ll
+.if-
 
 A society may be considered as a highly
 complex organism, with a consciousness of
@@ -3813,8 +3823,11 @@ yet that custom was rather suddenly introduced
 into Greece. Plato says (Republic V,
 par. 452, Jowett’s translation):
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 Not long ago the Greeks were of the opinion,
 which is still generally received among the barbarians,
@@ -3823,8 +3836,11 @@ improper, and when first the Cretans and the Lacedaemonians
 introduced naked exercises, the wits of that
 day might have ridiculed them....
 .fs
+
+.if t
 .ll
 .in
+.if-
 
 Thucydides (I. 6) also refers to the same
 change as occurring ‘quite lately’.
@@ -3859,16 +3875,22 @@ the following quotations (Kenny, <cite>Outlines of
 Criminal Law</cite>, 1902, p. 121, per Hawkins in
 Reg. v. Paine, <cite>Times</cite>, February 25, 1880):
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 If I saw a man who was not under my charge,
 taking up a tumbler of poison, I should not be guilty of
 any crime by not stopping him. I am under no legal
 obligation to protect a stranger.
 .fs
+
+.if t
 .ll
 .in
+.if-
 
 That is probably what the priest and the
 Levite of the parable said to themselves.
@@ -3878,16 +3900,22 @@ A still more emphatic example is in the
 Stephen, 1887, p. 154. Reg. v. Smith, 2 C.
 and P., 449:
 
-.in +4
-.ll -4
+.if t
+.in +3
+.ll -3
+.if-
+
 .fs 85%
 <i>A</i> sees <i>B</i> drowning and is able to help him by
 holding out his hand. <i>A</i> abstains from doing so in order
 that <i>B</i> may be drowned, and <i>B</i> is drowned. <i>A</i> has
 committed no offence.
 .fs
+
+.if t
 .ll
 .in
+.if-
 
 It appears, from a footnote, that this case
 has been discussed in a striking manner by

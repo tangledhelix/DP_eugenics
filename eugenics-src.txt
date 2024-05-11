@@ -337,6 +337,36 @@ identical with what is technically known
 as the “probable error.” Therefrom the
 whole of the following table starts into life,
 evolved from that of the “<em>probability integral</em>.”
+
+.sp
+
+.ll -4
+.in +4
+.ni
+
+.ce
+<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i> per <i>ten-thousand and to the nearest</i> per <i>hundred.)</i>
+
+.in
+.ll
+
+.ta rm:5 |rm:3 |rm:3 |rm:4 |rm:4 |rm:1 |rm:4 |rm:4 |rm:3 |rm:3 |cm:6 |rm:6 w=none
+_
+                             |–4°            |–3°            |–2°            |–1°            |M |+1°     |+2°     |+3°     |+4°     |                   |
+_
+<th><al=c><i>v</i> and below |<al=c><i>u</i> |<al=c><i>t</i> |<al=c><i>s</i> |<al=c><i>r</i> |  |<al=c>R |<al=c>S |<al=c>T |<al=c>U |<al=c>V and above. |<al=c>Total
+_
+35                           |180            |672            |1613           |2500           |  |2500    |1613    |672     |180     |35                 |10,000
+_
+<al=c>2                      |<span>         |7              |16             |25             |  |25      |16      |7       |<al=c>2 |<span>             |100
+_
+.ta-
+
+.sp
+
+.pi
+
+.ti 0
 It expresses the distribution of any normal
 quality, or any group of normal qualities,
 among 10,000 persons in terms of the
@@ -369,34 +399,6 @@ above mediocrity and corresponding <em>italic</em> or
 small letters, <i>r</i>, <i>s</i>, <i>t</i>, <i>u</i>, <i>v</i>, for those below
 mediocrity, <i>r</i> being the counterpart of R, <i>s</i> of
 S, and so on.
-
-.sp
-
-.ll -4
-.in +4
-.ni
-
-.ce
-<sc>Table I.</sc>—<i>Normal distribution (to the nearest</i> per <i>ten-thousand and to the nearest</i> per <i>hundred.)</i>
-
-.in
-.ll
-
-.ta rm:5 |rm:3 |rm:3 |rm:4 |rm:4 |rm:1 |rm:4 |rm:4 |rm:3 |rm:3 |cm:6 |rm:6 w=none
-_
-                             |–4°            |–3°            |–2°            |–1°            |M |+1°     |+2°     |+3°     |+4°     |                   |
-_
-<th><al=c><i>v</i> and below |<al=c><i>u</i> |<al=c><i>t</i> |<al=c><i>s</i> |<al=c><i>r</i> |  |<al=c>R |<al=c>S |<al=c>T |<al=c>U |<al=c>V and above. |<al=c>Total
-_
-35                           |180            |672            |1613           |2500           |  |2500    |1613    |672     |180     |35                 |10,000
-_
-<al=c>2                      |<span>         |7              |16             |25             |  |25      |16      |7       |<al=c>2 |<span>             |100
-_
-.ta-
-
-.sp
-
-.pi
 
 In the lowest line the same values are
 given, but more roughly, to the nearest whole

@@ -1,0 +1,123 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<title>pphtml report</title>
+<style type="text/css">
+body { margin-left: 1em;}
+.red { color:red; }
+.green { color:green; }
+.redonyel { color:red; background-color: #FFFFAA; }
+.greenonyel { color:green; background-color: #FFFFAA; }
+.silverfade { color:silver; }
+.black { color:black; }
+.dim { color:#999999; }
+.warn { color:brown; background-color:white; }
+td { padding-right:2em; }
+table { margin-left:2em; }
+</style>
+</head>
+<body>
+<pre>
+********************************************************************************
+* PPHTML RUN REPORT                                                            *
+*                                         started: Friday, 2024-05-10 20:55:01 *
+********************************************************************************
+processing file: eugenics.html
+pphtml version: 2022.12.28
+
+----- image tests --------------------------------------------------------------
+[pass] image folder consistency tests
+[pass] all images in the images folder used in the HTML (9 images)
+[pass] all target images in HTML available in images folder
+[info] image file sizes
+  cover.jpg (243K)
+  i_p072.png (198K)
+  i_f006.png (115K)
+  h1_decorator_left.png (5K)
+  h1_decorator_right.png (5K)
+  left-brace.png (2K)
+  right-brace.png (2K)
+  bottom-brace.png (2K)
+  top-brace.png (2K)
+[pass] cover image dimensions check
+[pass] other image dimensions check
+
+----- link tests ---------------------------------------------------------------
+[pass] external links check
+[pass] link to cover image for epub (using link rel='icon') (found cover.jpg in images folder)
+[info] file has 1 link to images (including cover.jpg)
+[info] file has 23 internal links to 23 expected targets
+[info] file has 122 actual internal targets
+[pass] all links resolve to correct target
+[info] targets not referenced with href
+  Page_2, Page_3, Page_4, Page_5, Page_6, Page_7, Page_8, Page_10
+  Page_11, Page_12, Page_13, Page_15, Page_16, Page_17, Page_18
+  Page_19, Page_20, Page_21, Page_22, Page_23 ... more not reported
+
+----- DP PPV tests -------------------------------------------------------------
+[info] title/h1 compare:
+       title: Essays in eugenics. | Project Gutenberg
+          h1: ESSAYS   IN   & 160;& 160;EUGENICS.& 160;& 160;
+[pass] no &lt;pre> tags
+[info] charset check
+       claimed: &lt;meta charset="UTF-8">
+       detected: HTML document, UTF-8 Unicode text, with very long lines, with CRLF line terminators
+[pass] Document Type Header (file is HTML5)
+[pass] image alt tag tests
+       0 images with missing alt tags
+       0 images with empty alt tags
+       0 images with blank alt tags
+       22 images with textual alt tags
+       max alt text length: 2
+[user] please confirm the language code:
+       &lt;html lang="en">
+[info] document heading outline
+       h1: ESSAYS IN &#160;&#160; EUGENICS. &#160;&#160;
+         h2: PREFACE.
+         h2: CONTENTS.
+         h2: THE POSSIBLE IMPROVEMENT OF THE HUMAN BREED,
+         h2: EUGENICS: ITS DEFINITION, SCOPE AND AIMS. [3]
+         h2: RESTRICTIONS IN MARRIAGE. [4]
+         h2: STUDIES IN NATIONAL EUGENICS [5]
+           h3: I. Estimation of the average quality of the offspring of married couples, from their personal and ancestral data. This includes questions of fertility, and the determination of the “probable error” of the estimate for individuals, according to the data employed.
+           h3: II. Effects of action by the State and by Public Institutions.
+           h3: III. Other influences that further or restrain particular classes of marriage.
+           h3: IV. Heredity.
+           h3: V. Literature.
+           h3: VI. Co-operation.
+           h3: VII. Certificates.
+           h3: Mr. Galton’s Reply to remarks made during the discussion that followed.
+         h2: EUGENICS AS A FACTOR IN RELIGION.
+         h2: PROBABILITY, THE FOUNDATION OF EUGENICS. [6]
+           h3: History of Eugenics.
+           h3: Application of Theories of Probability to Eugenics.
+           h3: Object Lessons in the Methods of Biometry.
+           h3: Influence of Collective Truths upon Individual Conduct.
+         h2: LOCAL ASSOCIATIONS FOR PROMOTING EUGENICS [8]
+         h2: Footnotes
+
+----- Project Gutenberg tests --------------------------------------------------
+[info] class chapter count and h2 count
+       10 class chapter, 10 &lt;h2> tags
+
+----- CSS tests ----------------------------------------------------------------
+[info] CSS checks
+  defined CSS:
+    bbt blt btt c000 c001 c002 c003 c004 c005 c006 c007 c008 c009
+    c010 c011 c012 c013 c014 c015 c016 c017 c018 c019 c020 c021 c022
+    c023 c024 c025 c026 c027 c028 chapter colwidth10 colwidth23 colwidth5
+    colwidth7 colwidth8 colwidth86 figcenter footnote fss group h1-decorator
+    ic001 id001 ig001 label large lg-container-b line linegroup lr-brace
+    nf-center nf-center-c1 ol_1 pageno pb pbb sc small table0 table1
+    table2 table3 tb-brace tnotes x-ebookmaker xlarge xxlarge
+  used CSS:
+    bbt blt btt c000 c001 c002 c003 c004 c005 c006 c007 c008 c009
+    c010 c011 c012 c013 c014 c015 c016 c017 c018 c019 c020 c021 c022
+    c023 c024 c025 c026 c027 c028 chapter colwidth10 colwidth23 colwidth5
+    colwidth7 colwidth8 colwidth86 figcenter footnote fss group h1-decorator
+    ic001 id001 ig001 label large lg-container-b line linegroup lr-brace
+    nf-center nf-center-c1 ol_1 pageno pb pbb sc small table0 table1
+    table2 table3 tb-brace tnotes xlarge xxlarge
+--------------------------------------------------------------------------------
+run complete</pre></body></html>

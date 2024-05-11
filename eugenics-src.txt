@@ -165,7 +165,7 @@ VII. | #<sc>Local Associations for Promoting Eugenics</sc>:Page_100# | 100
 .pb
 .sp 4
 
-.il fn=i_f006.png w=100% alt="Chart: STANDARD SCHEME OF DESCENT"
+.il fn=i_f006.png w=100% id=il01 alt="Chart: STANDARD SCHEME OF DESCENT"
 .ca STANDARD SCHEME OF DESCENT
 
 .bn p001.png
@@ -2870,7 +2870,7 @@ nature.
 .pb
 .sp 4
 
-.il fn=i_p072.png w=100% alt="Chart: Illustrations of the Herbert Spencer Lecture 1907."
+.il fn=i_p072.png w=100% id=il02 alt="Chart: Illustrations of the Herbert Spencer Lecture 1907."
 .ca <sc><i>Illustrations of the Herbert Spencer Lecture 1907.</i></sc>
 
 .bn p073.png
@@ -4330,8 +4330,8 @@ to format as HTML tables.
 .if-
 
 .ol style=decimal
-.it “STANDARD SCHEME OF DESCENT” just after the Table of Contents
-.it “Illustrations of the Herbert Spencer Lecture 1907.” on p. 72.
+.it #“STANDARD SCHEME OF DESCENT”:il01# just after the Table of Contents
+.it #“Illustrations of the Herbert Spencer Lecture 1907.”:il02# on p. 72.
 .ol-
 
 .if t

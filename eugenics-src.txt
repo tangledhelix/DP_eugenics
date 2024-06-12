@@ -1,10 +1,10 @@
 // This is a ppgen source file.
 
-// Title      : Essays in eugenics.
+// Title      : Essays in eugenics
 // Author     : Galton, Francis
 // Project ID : 63a325387c26a
 
-.dt Essays in eugenics. | Project Gutenberg
+.dt Essays in eugenics | Project Gutenberg
 
 // footnote start
 .dm fns $1

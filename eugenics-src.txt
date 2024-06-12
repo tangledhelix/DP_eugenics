@@ -28,6 +28,8 @@
 .de .tb-brace { width: 3em; max-width: 3em; }
 // transcriber notes
 .de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
+// don't let illos get out of control
+.de #il01, #il02 { width: 100%; max-width: 30em; }
 
 // turn %%rs= into a rowspan specification, using %%dc to delete cell below
 .sr h ~(<td.*?)>%%rs=(.)~\1 rowspan="\2">~
@@ -172,7 +174,7 @@ VII. | #<sc>Local Associations for Promoting Eugenics</sc>:Page_100# | 100
 .pb
 .sp 4
 
-.il fn=i_f006.png w=100% id=il01 alt="Chart: STANDARD SCHEME OF DESCENT"
+.il fn=i_f006.png w=100% link=i_f006.png id=il01 alt="Chart: STANDARD SCHEME OF DESCENT"
 .ca STANDARD SCHEME OF DESCENT
 
 .bn p001.png
@@ -2879,7 +2881,7 @@ nature.
 .pb
 .sp 4
 
-.il fn=i_p072.png w=100% id=il02 alt="Chart: Illustrations of the Herbert Spencer Lecture 1907."
+.il fn=i_p072.png w=100% link=i_p072.png id=il02 alt="Chart: Illustrations of the Herbert Spencer Lecture 1907."
 .ca <sc><i>Illustrations of the Herbert Spencer Lecture 1907.</i></sc>
 
 .bn p073.png
